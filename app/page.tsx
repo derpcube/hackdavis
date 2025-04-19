@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import { Card, Title, Text, Metric, AreaChart } from '@tremor/react';
 import { MapIcon, FireIcon, BellAlertIcon, UserGroupIcon, ChartBarIcon, CameraIcon, BuildingLibraryIcon } from '@heroicons/react/24/solid';
 import Link from 'next/link';
-import dynamic from 'next/dynamic';
 
 // Mock data for the chart
 const chartdata = [
