@@ -4,6 +4,10 @@ import React, { useState } from 'react';
 import { Card, Title, Text, Metric, AreaChart } from '@tremor/react';
 import { MapIcon, FireIcon, BellAlertIcon, UserGroupIcon, ChartBarIcon, CameraIcon, BuildingLibraryIcon } from '@heroicons/react/24/solid';
 import Link from 'next/link';
+import ReportIncidentModal from './components/ReportIncidentModal';
+import RequestHelpModal from './components/RequestHelpModal';
+import IncidentMap from './components/IncidentMap';
+import ActiveIncidents from './components/ActiveIncidents';
 
 // Mock data for the chart
 const chartdata = [
@@ -16,6 +20,8 @@ const chartdata = [
 
 export default function Home() {
   const [selectedTab, setSelectedTab] = useState('map');
+  const [isReportModalOpen, setIsReportModalOpen] = useState(false);
+  const [isHelpModalOpen, setIsHelpModalOpen] = useState(false);
 
   return (
     <main className="min-h-screen bg-[#0A0E17] text-white">
@@ -36,7 +42,10 @@ export default function Home() {
               </div>
             </div>
             <div className="flex items-center space-x-4">
-              <button className="px-4 py-2 bg-red-600 hover:bg-red-700 rounded-md text-sm font-medium transition-all">
+              <button 
+                onClick={() => setIsReportModalOpen(true)}
+                className="px-4 py-2 bg-red-600 hover:bg-red-700 rounded-md text-sm font-medium transition-all"
+              >
                 Report Incident
               </button>
             </div>
@@ -93,11 +102,17 @@ export default function Home() {
             <Card className="bg-[#1A1F2B] border-gray-800">
               <Title className="text-gray-400 mb-4 text-sm font-medium">QUICK ACTIONS</Title>
               <div className="grid grid-cols-2 gap-4">
-                <button className="p-4 bg-[#2A303C] hover:bg-[#323847] rounded-lg flex flex-col items-center transition-all">
+                <button 
+                  onClick={() => setIsReportModalOpen(true)}
+                  className="p-4 bg-[#2A303C] hover:bg-[#323847] rounded-lg flex flex-col items-center transition-all"
+                >
                   <BellAlertIcon className="h-6 w-6 text-red-500 mb-2" />
                   <Text className="text-gray-300 text-sm">Report Fire</Text>
                 </button>
-                <button className="p-4 bg-[#2A303C] hover:bg-[#323847] rounded-lg flex flex-col items-center transition-all">
+                <button 
+                  onClick={() => setIsHelpModalOpen(true)}
+                  className="p-4 bg-[#2A303C] hover:bg-[#323847] rounded-lg flex flex-col items-center transition-all"
+                >
                   <UserGroupIcon className="h-6 w-6 text-blue-500 mb-2" />
                   <Text className="text-gray-300 text-sm">Request Help</Text>
                 </button>
@@ -123,34 +138,16 @@ export default function Home() {
                     </button>
                   </div>
                 </div>
+                <div className="h-[calc(100%-4rem)]">
+                  <IncidentMap />
+                </div>
               </div>
             </div>
           </Card>
 
           {/* Right Panel - Active Incidents */}
           <div className="lg:col-span-1 space-y-6">
-            <Card className="bg-[#1A1F2B] border-gray-800">
-              <Title className="text-gray-400 mb-4 text-sm font-medium">ACTIVE INCIDENTS</Title>
-              <div className="space-y-4">
-                {[1, 2, 3].map((incident) => (
-                  <div key={incident} className="p-3 bg-[#2A303C] hover:bg-[#323847] rounded-lg cursor-pointer transition-all">
-                    <div className="flex justify-between items-center">
-                      <Text className="text-white font-medium">Incident #{incident}</Text>
-                      <span className="px-2 py-1 text-xs rounded-full bg-red-500/20 text-red-500 font-medium">Active</span>
-                    </div>
-                    <Text className="text-gray-400 text-sm mt-1">Davis, CA</Text>
-                    <div className="mt-2 flex items-center space-x-2">
-                      <div className="flex -space-x-2">
-                        <div className="w-6 h-6 rounded-full bg-blue-500 border-2 border-[#2A303C]"></div>
-                        <div className="w-6 h-6 rounded-full bg-green-500 border-2 border-[#2A303C]"></div>
-                        <div className="w-6 h-6 rounded-full bg-yellow-500 border-2 border-[#2A303C]"></div>
-                      </div>
-                      <Text className="text-gray-400 text-xs">3 units responding</Text>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </Card>
+            <ActiveIncidents />
 
             <Card className="bg-[#1A1F2B] border-gray-800">
               <Title className="text-gray-400 mb-4 text-sm font-medium">RESOURCE STATUS</Title>
@@ -187,6 +184,18 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      {/* Report Incident Modal */}
+      <ReportIncidentModal 
+        isOpen={isReportModalOpen} 
+        onClose={() => setIsReportModalOpen(false)} 
+      />
+
+      {/* Request Help Modal */}
+      <RequestHelpModal 
+        isOpen={isHelpModalOpen} 
+        onClose={() => setIsHelpModalOpen(false)} 
+      />
     </main>
   );
 } 
