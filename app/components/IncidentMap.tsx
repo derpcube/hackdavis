@@ -1,4 +1,4 @@
-    'use client';
+'use client';
 
 import { useEffect, useState, useRef, useCallback } from 'react';
 import { GoogleMap, useJsApiLoader, Marker, InfoWindow, Circle } from '@react-google-maps/api';
@@ -16,13 +16,20 @@ interface Incident {
   createdAt: string;
 }
 
+interface Camera {
+  id: string;
+  lat: number;
+  lon: number;
+  url: string;
+}
+
 const mapContainerStyle = {
   width: '100%',
   height: '100%'
 };
 
 // Davis, CA coordinates
-const center = {
+const defaultCenter = {
   lat: 38.5449,
   lng: -121.7405
 };
@@ -53,6 +60,8 @@ export default function IncidentMap({
   const [selectedIncident, setSelectedIncident] = useState<Incident | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
+  const [cameras, setCameras] = useState<Camera[]>([]);
   const mapRef = useRef<google.maps.Map | null>(null);
 
   // Load Google Maps JavaScript API
@@ -60,6 +69,23 @@ export default function IncidentMap({
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_API_KEY || '',
     libraries: ['places']
   });
+
+  // Get user's geolocation
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          setUserLocation({
+            lat: pos.coords.latitude,
+            lng: pos.coords.longitude,
+          });
+        },
+        (err) => {
+          console.warn('Geolocation error:', err);
+        }
+      );
+    }
+  }, []);
 
   // Fetch incidents data
   useEffect(() => {
@@ -96,6 +122,14 @@ export default function IncidentMap({
     // Poll for new incidents every 30 seconds
     const intervalId = setInterval(fetchIncidents, 30000);
     return () => clearInterval(intervalId);
+  }, []);
+
+  // Fetch cameras data
+  useEffect(() => {
+    fetch('/cameras.txt')
+      .then(res => res.json())
+      .then(data => setCameras(data))
+      .catch(err => console.error('Error loading cameras:', err));
   }, []);
 
   // Focus on a specific incident when focusedIncidentId changes
@@ -159,6 +193,9 @@ export default function IncidentMap({
     return <div className="h-full w-full flex items-center justify-center text-red-500">Error: {error}</div>;
   }
 
+  // Default center (Davis, CA) if user location not available
+  const center = userLocation || defaultCenter;
+
   return (
     <div className="h-full w-full relative">
       <GoogleMap
@@ -168,6 +205,36 @@ export default function IncidentMap({
         options={options}
         onLoad={onMapLoad}
       >
+        {/* User location marker */}
+        {userLocation && (
+          <Marker
+            position={userLocation}
+            icon={{
+              path: window.google?.maps.SymbolPath.CIRCLE,
+              scale: 10,
+              fillColor: "#ef4444", // Tailwind red-500
+              fillOpacity: 1,
+              strokeColor: "#fff",
+              strokeWeight: 2,
+            }}
+            title="You are here"
+          />
+        )}
+
+        {/* Camera blue markers */}
+        {cameras.map((camera) => (
+          <Marker
+            key={camera.id}
+            position={{ lat: camera.lat, lng: camera.lon }}
+            icon={{
+              url: 'https://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+              scaledSize: new window.google.maps.Size(32, 32)
+            }}
+            title={camera.id}
+            onClick={() => window.open(camera.url, '_blank')}
+          />
+        ))}
+
         {incidents.length > 0 && incidents.map((incident) => {
           // Make sure coordinates are in the correct order [longitude, latitude]
           // But Google Maps expects {lat, lng} format
