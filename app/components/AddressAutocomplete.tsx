@@ -15,7 +15,7 @@ declare global {
   }
 }
 
-const GOOGLE_API_KEY = 'AIzaSyCBydhFzX5Ma35p79zpm072EnprBlsJK9s';
+const GOOGLE_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
 
 // Keep track of whether the script has been loaded
 let scriptLoaded = false;

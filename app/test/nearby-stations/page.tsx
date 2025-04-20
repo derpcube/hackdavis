@@ -7,7 +7,7 @@ import AddressAutocomplete from '../../components/AddressAutocomplete';
 
 type StationWithDistance = FireStation & { distance: number };
 
-const GOOGLE_API_KEY = 'AIzaSyCBydhFzX5Ma35p79zpm072EnprBlsJK9s';
+const GOOGLE_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
 
 export default function NearbyStations() {
   const [fireAddress, setFireAddress] = useState('');
