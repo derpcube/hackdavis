@@ -1,0 +1,6932 @@
+[
+  {
+    "id": "Axis-AlabamaHills1",
+    "lon": -118.09,
+    "lat": 36.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AlabamaHills1"
+  },
+  {
+    "id": "Axis-AlabamaHills2",
+    "lon": -118.09,
+    "lat": 36.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AlabamaHills2"
+  },
+  {
+    "id": "Axis-AlisoLaguna1",
+    "lon": -117.76,
+    "lat": 33.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AlisoLaguna1"
+  },
+  {
+    "id": "Axis-AlisoLaguna2",
+    "lon": -117.76,
+    "lat": 33.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AlisoLaguna2"
+  },
+  {
+    "id": "Axis-AllenPeak",
+    "lon": -122.29,
+    "lat": 37.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AllenPeak"
+  },
+  {
+    "id": "Axis-Almaden1",
+    "lon": -121.85,
+    "lat": 37.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Almaden1"
+  },
+  {
+    "id": "Axis-Almaden2",
+    "lon": -121.85,
+    "lat": 37.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Almaden2"
+  },
+  {
+    "id": "Axis-AntelopeEagleLake1",
+    "lon": -120.91,
+    "lat": 40.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AntelopeEagleLake1"
+  },
+  {
+    "id": "Axis-AntelopeEagleLake2",
+    "lon": -120.91,
+    "lat": 40.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AntelopeEagleLake2"
+  },
+  {
+    "id": "Axis-AntelopeMtn",
+    "lon": -120.57,
+    "lat": 40.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AntelopeMtn"
+  },
+  {
+    "id": "Axis-AntelopeYreka1",
+    "lon": -122.62,
+    "lat": 41.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AntelopeYreka1"
+  },
+  {
+    "id": "Axis-AntelopeYreka2",
+    "lon": -122.62,
+    "lat": 41.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AntelopeYreka2"
+  },
+  {
+    "id": "Axis-AnthonyPeakLookout1",
+    "lon": -122.96,
+    "lat": 39.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AnthonyPeakLookout1"
+  },
+  {
+    "id": "Axis-AnthonyPeakLookout2",
+    "lon": -122.96,
+    "lat": 39.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AnthonyPeakLookout2"
+  },
+  {
+    "id": "Axis-Arcadia1",
+    "lon": -118.03,
+    "lat": 34.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Arcadia1"
+  },
+  {
+    "id": "Axis-Arcadia2",
+    "lon": -118.03,
+    "lat": 34.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Arcadia2"
+  },
+  {
+    "id": "Axis-Argonaut",
+    "lon": -120.79,
+    "lat": 38.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Argonaut"
+  },
+  {
+    "id": "Axis-Artois",
+    "lon": -122.19,
+    "lat": 39.62,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Artois"
+  },
+  {
+    "id": "Axis-Artois2",
+    "lon": -122.19,
+    "lat": 39.62,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Artois2"
+  },
+  {
+    "id": "Axis-AtascaderoHwy411",
+    "lon": -120.75,
+    "lat": 35.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AtascaderoHwy411"
+  },
+  {
+    "id": "Axis-AtascaderoHwy412",
+    "lon": -120.75,
+    "lat": 35.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AtascaderoHwy412"
+  },
+  {
+    "id": "Axis-Atlas",
+    "lon": -122.27,
+    "lat": 38.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Atlas"
+  },
+  {
+    "id": "Axis-AtlasPeakWest",
+    "lon": -122.27,
+    "lat": 38.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-AtlasPeakWest"
+  },
+  {
+    "id": "Axis-Auburn1",
+    "lon": -121.05,
+    "lat": 38.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Auburn1"
+  },
+  {
+    "id": "Axis-Avalon1",
+    "lon": -118.32,
+    "lat": 33.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Avalon1"
+  },
+  {
+    "id": "Axis-Avalon2",
+    "lon": -118.32,
+    "lat": 33.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Avalon2"
+  },
+  {
+    "id": "Axis-BaileyCanyon1",
+    "lon": -118.06,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaileyCanyon1"
+  },
+  {
+    "id": "Axis-BaileyCanyon2",
+    "lon": -118.06,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaileyCanyon2"
+  },
+  {
+    "id": "Axis-BaileyPeak1",
+    "lon": -117.36,
+    "lat": 34.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaileyPeak1"
+  },
+  {
+    "id": "Axis-BaileyPeak2",
+    "lon": -117.36,
+    "lat": 34.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaileyPeak2"
+  },
+  {
+    "id": "Axis-BaldHillEast",
+    "lon": -123.71,
+    "lat": 41.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldHillEast"
+  },
+  {
+    "id": "Axis-BaldJesse",
+    "lon": -123.88,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldJesse"
+  },
+  {
+    "id": "Axis-BaldJesse2",
+    "lon": -123.88,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldJesse2"
+  },
+  {
+    "id": "Axis-BaldMtnButte1",
+    "lon": -121.48,
+    "lat": 39.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnButte1"
+  },
+  {
+    "id": "Axis-BaldMtnButte2",
+    "lon": -121.48,
+    "lat": 39.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnButte2"
+  },
+  {
+    "id": "Axis-BaldMtnGuinda1",
+    "lon": -122.12,
+    "lat": 38.79,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnGuinda1"
+  },
+  {
+    "id": "Axis-BaldMtnGuinda2",
+    "lon": -122.12,
+    "lat": 38.79,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnGuinda2"
+  },
+  {
+    "id": "Axis-BaldMtnLaPorte",
+    "lon": -120.98,
+    "lat": 39.7,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnLaPorte"
+  },
+  {
+    "id": "Axis-BaldMtnNapa",
+    "lon": -122.49,
+    "lat": 38.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnNapa"
+  },
+  {
+    "id": "Axis-BaldMtnSequoia1",
+    "lon": -118.25,
+    "lat": 36.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnSequoia1"
+  },
+  {
+    "id": "Axis-BaldMtnSequoia2",
+    "lon": -118.25,
+    "lat": 36.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnSequoia2"
+  },
+  {
+    "id": "Axis-BaldMtnTower1",
+    "lon": -118.73,
+    "lat": 34.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnTower1"
+  },
+  {
+    "id": "Axis-BaldMtnTower2",
+    "lon": -118.73,
+    "lat": 34.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldMtnTower2"
+  },
+  {
+    "id": "Axis-Baldhillwest",
+    "lon": -123.71,
+    "lat": 41.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Baldhillwest"
+  },
+  {
+    "id": "Axis-BaldwinHills1",
+    "lon": -118.36,
+    "lat": 34.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldwinHills1"
+  },
+  {
+    "id": "Axis-BaldwinHills2",
+    "lon": -118.36,
+    "lat": 34.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldwinHills2"
+  },
+  {
+    "id": "Axis-BaldwinLake1",
+    "lon": -116.79,
+    "lat": 34.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldwinLake1"
+  },
+  {
+    "id": "Axis-BaldwinLake2",
+    "lon": -116.79,
+    "lat": 34.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BaldwinLake2"
+  },
+  {
+    "id": "Axis-BallRock",
+    "lon": -122.74,
+    "lat": 39.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BallRock"
+  },
+  {
+    "id": "Axis-BallardRidge1",
+    "lon": -120.84,
+    "lat": 41.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BallardRidge1"
+  },
+  {
+    "id": "Axis-BallardRidge2",
+    "lon": -120.84,
+    "lat": 41.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BallardRidge2"
+  },
+  {
+    "id": "Axis-BannerMtn1",
+    "lon": -120.97,
+    "lat": 39.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BannerMtn1"
+  },
+  {
+    "id": "Axis-BannerMtn2",
+    "lon": -120.97,
+    "lat": 39.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BannerMtn2"
+  },
+  {
+    "id": "Axis-BarnabeEast",
+    "lon": -122.72,
+    "lat": 38.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarnabeEast"
+  },
+  {
+    "id": "Axis-BarnabeWest",
+    "lon": -122.72,
+    "lat": 38.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarnabeWest"
+  },
+  {
+    "id": "Axis-BarnhamNorth",
+    "lon": -122.66,
+    "lat": 38.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarnhamNorth"
+  },
+  {
+    "id": "Axis-BarnhamSouth",
+    "lon": -122.66,
+    "lat": 38.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarnhamSouth"
+  },
+  {
+    "id": "Axis-BarrRanch",
+    "lon": -121.17,
+    "lat": 39.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarrRanch"
+  },
+  {
+    "id": "Axis-BarrRanch2",
+    "lon": -121.17,
+    "lat": 39.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BarrRanch2"
+  },
+  {
+    "id": "Axis-Bealville1",
+    "lon": -118.62,
+    "lat": 35.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bealville1"
+  },
+  {
+    "id": "Axis-Bealville2",
+    "lon": -118.62,
+    "lat": 35.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bealville2"
+  },
+  {
+    "id": "Axis-BearClover1",
+    "lon": -119.09,
+    "lat": 36.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearClover1"
+  },
+  {
+    "id": "Axis-BearClover2",
+    "lon": -119.09,
+    "lat": 36.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearClover2"
+  },
+  {
+    "id": "Axis-BearMtnFresno1",
+    "lon": -119.28,
+    "lat": 36.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnFresno1"
+  },
+  {
+    "id": "Axis-BearMtnFresno2",
+    "lon": -119.28,
+    "lat": 36.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnFresno2"
+  },
+  {
+    "id": "Axis-BearMtnKern1",
+    "lon": -118.64,
+    "lat": 35.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnKern1"
+  },
+  {
+    "id": "Axis-BearMtnKern2",
+    "lon": -118.64,
+    "lat": 35.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnKern2"
+  },
+  {
+    "id": "Axis-BearMtnNorth",
+    "lon": -116.87,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnNorth"
+  },
+  {
+    "id": "Axis-BearMtnShasta",
+    "lon": -122.27,
+    "lat": 40.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnShasta"
+  },
+  {
+    "id": "Axis-BearMtnShasta2",
+    "lon": -122.27,
+    "lat": 40.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnShasta2"
+  },
+  {
+    "id": "Axis-BearMtnSouth",
+    "lon": -116.87,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearMtnSouth"
+  },
+  {
+    "id": "Axis-BearPeakNorth",
+    "lon": -116.85,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearPeakNorth"
+  },
+  {
+    "id": "Axis-BearPeakSouth",
+    "lon": -116.85,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearPeakSouth"
+  },
+  {
+    "id": "Axis-BearPeakSouth2",
+    "lon": -116.85,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BearPeakSouth2"
+  },
+  {
+    "id": "Axis-Beckworth",
+    "lon": -120.44,
+    "lat": 39.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Beckworth"
+  },
+  {
+    "id": "Axis-Beckworth2",
+    "lon": -120.44,
+    "lat": 39.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Beckworth2"
+  },
+  {
+    "id": "Axis-BeeHill1",
+    "lon": -119.3,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BeeHill1"
+  },
+  {
+    "id": "Axis-BeeHill2",
+    "lon": -119.3,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BeeHill2"
+  },
+  {
+    "id": "Axis-BelAirRidge1",
+    "lon": -118.44,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BelAirRidge1"
+  },
+  {
+    "id": "Axis-BelAirRidge2",
+    "lon": -118.44,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BelAirRidge2"
+  },
+  {
+    "id": "Axis-BenBolte1",
+    "lon": -121.03,
+    "lat": 38.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BenBolte1"
+  },
+  {
+    "id": "Axis-BenBolte2",
+    "lon": -121.03,
+    "lat": 38.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BenBolte2"
+  },
+  {
+    "id": "Axis-Berkeley",
+    "lon": -122.27,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Berkeley"
+  },
+  {
+    "id": "Axis-Berryessa",
+    "lon": -122.19,
+    "lat": 38.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Berryessa"
+  },
+  {
+    "id": "Axis-BerryessaEast",
+    "lon": -122.19,
+    "lat": 38.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BerryessaEast"
+  },
+  {
+    "id": "Axis-BigBlack",
+    "lon": -116.81,
+    "lat": 33.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BigBlack"
+  },
+  {
+    "id": "Axis-BigJohn1",
+    "lon": -123.35,
+    "lat": 39.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BigJohn1"
+  },
+  {
+    "id": "Axis-BigRock",
+    "lon": -122.6,
+    "lat": 38.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BigRock"
+  },
+  {
+    "id": "Axis-BigValley1",
+    "lon": -121.22,
+    "lat": 41.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BigValley1"
+  },
+  {
+    "id": "Axis-BigValley2",
+    "lon": -121.22,
+    "lat": 41.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BigValley2"
+  },
+  {
+    "id": "Axis-Biggs1",
+    "lon": -121.71,
+    "lat": 39.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Biggs1"
+  },
+  {
+    "id": "Axis-Birch",
+    "lon": -116.86,
+    "lat": 33.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Birch"
+  },
+  {
+    "id": "Axis-Birch2",
+    "lon": -116.86,
+    "lat": 33.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Birch2"
+  },
+  {
+    "id": "Axis-BirdSprings1",
+    "lon": -118.14,
+    "lat": 35.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BirdSprings1"
+  },
+  {
+    "id": "Axis-BirdSprings2",
+    "lon": -118.14,
+    "lat": 35.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BirdSprings2"
+  },
+  {
+    "id": "Axis-BlackMtSCC",
+    "lon": -122.15,
+    "lat": 37.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtSCC"
+  },
+  {
+    "id": "Axis-BlackMtnLassen1",
+    "lon": -120.32,
+    "lat": 40.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtnLassen1"
+  },
+  {
+    "id": "Axis-BlackMtnMarin",
+    "lon": -122.77,
+    "lat": 38.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtnMarin"
+  },
+  {
+    "id": "Axis-BlackMtnRiverside1",
+    "lon": -116.76,
+    "lat": 33.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtnRiverside1"
+  },
+  {
+    "id": "Axis-BlackMtnRiverside2",
+    "lon": -116.76,
+    "lat": 33.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtnRiverside2"
+  },
+  {
+    "id": "Axis-BlackMtnSLO",
+    "lon": -120.35,
+    "lat": 35.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackMtnSLO"
+  },
+  {
+    "id": "Axis-BlackOak",
+    "lon": -123.58,
+    "lat": 39.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlackOak"
+  },
+  {
+    "id": "Axis-BloomerLookout1",
+    "lon": -121.46,
+    "lat": 39.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BloomerLookout1"
+  },
+  {
+    "id": "Axis-BloomerLookout2",
+    "lon": -121.46,
+    "lat": 39.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BloomerLookout2"
+  },
+  {
+    "id": "Axis-BlueCanyon",
+    "lon": -120.72,
+    "lat": 39.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueCanyon"
+  },
+  {
+    "id": "Axis-BlueMtnCalaveras1",
+    "lon": -120.36,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnCalaveras1"
+  },
+  {
+    "id": "Axis-BlueMtnCalaveras2",
+    "lon": -120.36,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnCalaveras2"
+  },
+  {
+    "id": "Axis-BlueMtnKern1",
+    "lon": -118.76,
+    "lat": 35.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnKern1"
+  },
+  {
+    "id": "Axis-BlueMtnKern2",
+    "lon": -118.76,
+    "lat": 35.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnKern2"
+  },
+  {
+    "id": "Axis-BlueMtnModoc1",
+    "lon": -120.86,
+    "lat": 41.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnModoc1"
+  },
+  {
+    "id": "Axis-BlueMtnModoc2",
+    "lon": -120.86,
+    "lat": 41.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueMtnModoc2"
+  },
+  {
+    "id": "Axis-BlueRidge1",
+    "lon": -118.84,
+    "lat": 36.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueRidge1"
+  },
+  {
+    "id": "Axis-BlueRidge2",
+    "lon": -118.84,
+    "lat": 36.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BlueRidge2"
+  },
+  {
+    "id": "Axis-Bodega1",
+    "lon": -123.02,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bodega1"
+  },
+  {
+    "id": "Axis-Bolinas",
+    "lon": -122.71,
+    "lat": 37.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bolinas"
+  },
+  {
+    "id": "Axis-BonnyDoon",
+    "lon": -122.17,
+    "lat": 37.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BonnyDoon"
+  },
+  {
+    "id": "Axis-BoonvilleMtn1",
+    "lon": -123.36,
+    "lat": 38.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoonvilleMtn1"
+  },
+  {
+    "id": "Axis-BoonvilleMtn2",
+    "lon": -123.36,
+    "lat": 38.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoonvilleMtn2"
+  },
+  {
+    "id": "Axis-BoucherEast",
+    "lon": -116.92,
+    "lat": 33.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoucherEast"
+  },
+  {
+    "id": "Axis-BoucherWest",
+    "lon": -116.92,
+    "lat": 33.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoucherWest"
+  },
+  {
+    "id": "Axis-BoxSprings1",
+    "lon": -117.28,
+    "lat": 33.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoxSprings1"
+  },
+  {
+    "id": "Axis-BoxSprings2",
+    "lon": -117.28,
+    "lat": 33.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoxSprings2"
+  },
+  {
+    "id": "Axis-BoxSpringsEast1",
+    "lon": -117.29,
+    "lat": 33.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoxSpringsEast1"
+  },
+  {
+    "id": "Axis-BoxSpringsEast2",
+    "lon": -117.29,
+    "lat": 33.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BoxSpringsEast2"
+  },
+  {
+    "id": "Axis-BrainRidge1",
+    "lon": -123.17,
+    "lat": 38.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BrainRidge1"
+  },
+  {
+    "id": "Axis-BrainRidge2",
+    "lon": -123.17,
+    "lat": 38.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BrainRidge2"
+  },
+  {
+    "id": "Axis-BreckenridgePeak1",
+    "lon": -118.59,
+    "lat": 35.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BreckenridgePeak1"
+  },
+  {
+    "id": "Axis-BreckenridgePeak2",
+    "lon": -118.59,
+    "lat": 35.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BreckenridgePeak2"
+  },
+  {
+    "id": "Axis-Briar1",
+    "lon": -118.39,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Briar1"
+  },
+  {
+    "id": "Axis-Briar2",
+    "lon": -118.39,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Briar2"
+  },
+  {
+    "id": "Axis-BrionesRancho",
+    "lon": -122.17,
+    "lat": 37.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BrionesRancho"
+  },
+  {
+    "id": "Axis-BrionesTabletop",
+    "lon": -122.12,
+    "lat": 37.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BrionesTabletop"
+  },
+  {
+    "id": "Axis-Brookdale",
+    "lon": -122.1,
+    "lat": 37.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Brookdale"
+  },
+  {
+    "id": "Axis-BryantCanyon1",
+    "lon": -121.3,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BryantCanyon1"
+  },
+  {
+    "id": "Axis-BryantCanyon2",
+    "lon": -121.3,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BryantCanyon2"
+  },
+  {
+    "id": "Axis-BuckRock1",
+    "lon": -118.86,
+    "lat": 36.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuckRock1"
+  },
+  {
+    "id": "Axis-BuckRock2",
+    "lon": -118.86,
+    "lat": 36.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuckRock2"
+  },
+  {
+    "id": "Axis-Buckhorn",
+    "lon": -120.12,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Buckhorn"
+  },
+  {
+    "id": "Axis-BuckinghamPeak1",
+    "lon": -122.77,
+    "lat": 38.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuckinghamPeak1"
+  },
+  {
+    "id": "Axis-BuckinghamPeak2",
+    "lon": -122.77,
+    "lat": 38.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuckinghamPeak2"
+  },
+  {
+    "id": "Axis-BuenaVistaAmador1",
+    "lon": -120.89,
+    "lat": 38.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuenaVistaAmador1"
+  },
+  {
+    "id": "Axis-BuenaVistaAmador2",
+    "lon": -120.89,
+    "lat": 38.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuenaVistaAmador2"
+  },
+  {
+    "id": "Axis-BuenaVistaKern1",
+    "lon": -119.49,
+    "lat": 35.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuenaVistaKern1"
+  },
+  {
+    "id": "Axis-BuenaVistaKern2",
+    "lon": -119.49,
+    "lat": 35.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuenaVistaKern2"
+  },
+  {
+    "id": "Axis-BuffaloBumpNorth",
+    "lon": -117.38,
+    "lat": 33.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuffaloBumpNorth"
+  },
+  {
+    "id": "Axis-BuffaloBumpSouth",
+    "lon": -117.38,
+    "lat": 33.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BuffaloBumpSouth"
+  },
+  {
+    "id": "Axis-Bullion",
+    "lon": -120.03,
+    "lat": 37.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bullion"
+  },
+  {
+    "id": "Axis-Bullion2",
+    "lon": -120.03,
+    "lat": 37.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Bullion2"
+  },
+  {
+    "id": "Axis-BunchGrassLookout1",
+    "lon": -121.77,
+    "lat": 40.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BunchGrassLookout1"
+  },
+  {
+    "id": "Axis-BunchGrassLookout2",
+    "lon": -121.77,
+    "lat": 40.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BunchGrassLookout2"
+  },
+  {
+    "id": "Axis-Burdell",
+    "lon": -122.59,
+    "lat": 38.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Burdell"
+  },
+  {
+    "id": "Axis-Burdell2",
+    "lon": -122.59,
+    "lat": 38.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Burdell2"
+  },
+  {
+    "id": "Axis-BurntPeak1",
+    "lon": -118.57,
+    "lat": 34.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BurntPeak1"
+  },
+  {
+    "id": "Axis-BurntPeak2",
+    "lon": -118.57,
+    "lat": 34.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-BurntPeak2"
+  },
+  {
+    "id": "Axis-Burstein1",
+    "lon": -123.71,
+    "lat": 39.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Burstein1"
+  },
+  {
+    "id": "Axis-ButlerHill1",
+    "lon": -119.11,
+    "lat": 34.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ButlerHill1"
+  },
+  {
+    "id": "Axis-ButlerHill2",
+    "lon": -119.11,
+    "lat": 34.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ButlerHill2"
+  },
+  {
+    "id": "Axis-ButtLake",
+    "lon": -121.15,
+    "lat": 40.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ButtLake"
+  },
+  {
+    "id": "Axis-CSMCanada9",
+    "lon": -122.27,
+    "lat": 37.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CSMCanada9"
+  },
+  {
+    "id": "Axis-CSMCenter10",
+    "lon": -122.34,
+    "lat": 37.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CSMCenter10"
+  },
+  {
+    "id": "Axis-CSMScience36",
+    "lon": -122.34,
+    "lat": 37.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CSMScience36"
+  },
+  {
+    "id": "Axis-CactusPeak1",
+    "lon": -118.45,
+    "lat": 33.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CactusPeak1"
+  },
+  {
+    "id": "Axis-CactusPeak2",
+    "lon": -118.45,
+    "lat": 33.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CactusPeak2"
+  },
+  {
+    "id": "Axis-CaliforniaValley1",
+    "lon": -119.99,
+    "lat": 35.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CaliforniaValley1"
+  },
+  {
+    "id": "Axis-CaliforniaValley2",
+    "lon": -119.99,
+    "lat": 35.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CaliforniaValley2"
+  },
+  {
+    "id": "Axis-CamarilloRanch1",
+    "lon": -119.02,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CamarilloRanch1"
+  },
+  {
+    "id": "Axis-CamarilloRanch2",
+    "lon": -119.02,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CamarilloRanch2"
+  },
+  {
+    "id": "Axis-Cambria1",
+    "lon": -121.06,
+    "lat": 35.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cambria1"
+  },
+  {
+    "id": "Axis-Cambria2",
+    "lon": -121.06,
+    "lat": 35.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cambria2"
+  },
+  {
+    "id": "Axis-Cameron",
+    "lon": -123.55,
+    "lat": 39.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cameron"
+  },
+  {
+    "id": "Axis-Canyonback1",
+    "lon": -118.5,
+    "lat": 34.1,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Canyonback1"
+  },
+  {
+    "id": "Axis-Canyonback2",
+    "lon": -118.5,
+    "lat": 34.1,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Canyonback2"
+  },
+  {
+    "id": "Axis-CapellValley1",
+    "lon": -122.22,
+    "lat": 38.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CapellValley1"
+  },
+  {
+    "id": "Axis-CapellValley2",
+    "lon": -122.22,
+    "lat": 38.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CapellValley2"
+  },
+  {
+    "id": "Axis-CarbonCanyon1",
+    "lon": -117.8,
+    "lat": 33.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CarbonCanyon1"
+  },
+  {
+    "id": "Axis-CarbonCanyon2",
+    "lon": -117.8,
+    "lat": 33.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CarbonCanyon2"
+  },
+  {
+    "id": "Axis-Carmel",
+    "lon": -121.72,
+    "lat": 36.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Carmel"
+  },
+  {
+    "id": "Axis-Carmel2",
+    "lon": -121.72,
+    "lat": 36.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Carmel2"
+  },
+  {
+    "id": "Axis-CarolDrive1",
+    "lon": -121.87,
+    "lat": 37.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CarolDrive1"
+  },
+  {
+    "id": "Axis-CarolDrive2",
+    "lon": -121.87,
+    "lat": 37.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CarolDrive2"
+  },
+  {
+    "id": "Axis-Cartago1",
+    "lon": -118.03,
+    "lat": 36.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cartago1"
+  },
+  {
+    "id": "Axis-Cartago2",
+    "lon": -118.03,
+    "lat": 36.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cartago2"
+  },
+  {
+    "id": "Axis-CastaneaRidge",
+    "lon": -122.17,
+    "lat": 37.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CastaneaRidge"
+  },
+  {
+    "id": "Axis-Castro1",
+    "lon": -118.79,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Castro1"
+  },
+  {
+    "id": "Axis-Castro2",
+    "lon": -118.79,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Castro2"
+  },
+  {
+    "id": "Axis-CedarCanyon1",
+    "lon": -120.02,
+    "lat": 35.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CedarCanyon1"
+  },
+  {
+    "id": "Axis-CedarCanyon2",
+    "lon": -120.02,
+    "lat": 35.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CedarCanyon2"
+  },
+  {
+    "id": "Axis-CedarRidge",
+    "lon": -120.28,
+    "lat": 38.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CedarRidge"
+  },
+  {
+    "id": "Axis-CedarRidge2",
+    "lon": -120.28,
+    "lat": 38.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CedarRidge2"
+  },
+  {
+    "id": "Axis-CerroGordo1",
+    "lon": -117.79,
+    "lat": 36.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CerroGordo1"
+  },
+  {
+    "id": "Axis-CerroGordo2",
+    "lon": -117.79,
+    "lat": 36.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CerroGordo2"
+  },
+  {
+    "id": "Axis-Chabot",
+    "lon": -122.19,
+    "lat": 37.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Chabot"
+  },
+  {
+    "id": "Axis-ChalkMtnLookout",
+    "lon": -122.3,
+    "lat": 37.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChalkMtnLookout"
+  },
+  {
+    "id": "Axis-CherryLake",
+    "lon": -120.01,
+    "lat": 37.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CherryLake"
+  },
+  {
+    "id": "Axis-ChewsRidgeObs1",
+    "lon": -121.57,
+    "lat": 36.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChewsRidgeObs1"
+  },
+  {
+    "id": "Axis-Chilcoot",
+    "lon": -120.11,
+    "lat": 39.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Chilcoot"
+  },
+  {
+    "id": "Axis-ChineseWall",
+    "lon": -121.41,
+    "lat": 39.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChineseWall"
+  },
+  {
+    "id": "Axis-ChinoHills1",
+    "lon": -117.74,
+    "lat": 33.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChinoHills1"
+  },
+  {
+    "id": "Axis-ChinoHills2",
+    "lon": -117.74,
+    "lat": 33.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChinoHills2"
+  },
+  {
+    "id": "Axis-ChinoHillsWest1",
+    "lon": -117.82,
+    "lat": 33.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChinoHillsWest1"
+  },
+  {
+    "id": "Axis-ChinoHillsWest2",
+    "lon": -117.82,
+    "lat": 33.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ChinoHillsWest2"
+  },
+  {
+    "id": "Axis-CiscoButtes1",
+    "lon": -120.56,
+    "lat": 39.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CiscoButtes1"
+  },
+  {
+    "id": "Axis-CiscoButtes2",
+    "lon": -120.56,
+    "lat": 39.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CiscoButtes2"
+  },
+  {
+    "id": "Axis-Cleland1",
+    "lon": -123.23,
+    "lat": 39.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cleland1"
+  },
+  {
+    "id": "Axis-Cleland2",
+    "lon": -123.23,
+    "lat": 39.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cleland2"
+  },
+  {
+    "id": "Axis-Cloudcroft1",
+    "lon": -118.57,
+    "lat": 34.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cloudcroft1"
+  },
+  {
+    "id": "Axis-Cloudcroft2",
+    "lon": -118.57,
+    "lat": 34.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cloudcroft2"
+  },
+  {
+    "id": "Axis-CobbMtn1",
+    "lon": -122.74,
+    "lat": 38.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CobbMtn1"
+  },
+  {
+    "id": "Axis-CobbMtn2",
+    "lon": -122.74,
+    "lat": 38.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CobbMtn2"
+  },
+  {
+    "id": "Axis-Cohasset",
+    "lon": -121.71,
+    "lat": 39.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cohasset"
+  },
+  {
+    "id": "Axis-Cohasset2",
+    "lon": -121.71,
+    "lat": 39.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cohasset2"
+  },
+  {
+    "id": "Axis-ColbyMtn1",
+    "lon": -121.52,
+    "lat": 40.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ColbyMtn1"
+  },
+  {
+    "id": "Axis-ColbyMtn2",
+    "lon": -121.52,
+    "lat": 40.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ColbyMtn2"
+  },
+  {
+    "id": "Axis-ColdSpringsMtn",
+    "lon": -123.52,
+    "lat": 39.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ColdSpringsMtn"
+  },
+  {
+    "id": "Axis-College1",
+    "lon": -118.01,
+    "lat": 34.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-College1"
+  },
+  {
+    "id": "Axis-College2",
+    "lon": -118.01,
+    "lat": 34.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-College2"
+  },
+  {
+    "id": "Axis-Concow",
+    "lon": -121.54,
+    "lat": 39.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Concow"
+  },
+  {
+    "id": "Axis-Constantia",
+    "lon": -120,
+    "lat": 39.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Constantia"
+  },
+  {
+    "id": "Axis-Cooksie1",
+    "lon": -124.27,
+    "lat": 40.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cooksie1"
+  },
+  {
+    "id": "Axis-CoonHollow",
+    "lon": -120.81,
+    "lat": 38.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CoonHollow"
+  },
+  {
+    "id": "Axis-CoonHollow2",
+    "lon": -120.81,
+    "lat": 38.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CoonHollow2"
+  },
+  {
+    "id": "Axis-CordeliaGreenValley",
+    "lon": -122.2,
+    "lat": 38.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CordeliaGreenValley"
+  },
+  {
+    "id": "Axis-CoronadoHills",
+    "lon": -117.15,
+    "lat": 33.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CoronadoHills"
+  },
+  {
+    "id": "Axis-CoronadoHillsS",
+    "lon": -117.15,
+    "lat": 33.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CoronadoHillsS"
+  },
+  {
+    "id": "Axis-CowMtn1",
+    "lon": -123.08,
+    "lat": 39.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CowMtn1"
+  },
+  {
+    "id": "Axis-CowMtn2",
+    "lon": -123.08,
+    "lat": 39.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CowMtn2"
+  },
+  {
+    "id": "Axis-Cowles",
+    "lon": -117.03,
+    "lat": 32.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cowles"
+  },
+  {
+    "id": "Axis-Crest1",
+    "lon": -116.88,
+    "lat": 32.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crest1"
+  },
+  {
+    "id": "Axis-Crest2",
+    "lon": -116.88,
+    "lat": 32.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crest2"
+  },
+  {
+    "id": "Axis-Crestline1",
+    "lon": -117.31,
+    "lat": 34.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crestline1"
+  },
+  {
+    "id": "Axis-Crestline2",
+    "lon": -117.31,
+    "lat": 34.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crestline2"
+  },
+  {
+    "id": "Axis-Crook1",
+    "lon": -119.15,
+    "lat": 36.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crook1"
+  },
+  {
+    "id": "Axis-Crook2",
+    "lon": -119.15,
+    "lat": 36.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Crook2"
+  },
+  {
+    "id": "Axis-Cross1",
+    "lon": -119.31,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cross1"
+  },
+  {
+    "id": "Axis-Cross2",
+    "lon": -119.31,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Cross2"
+  },
+  {
+    "id": "Axis-CuestaPeak",
+    "lon": -120.66,
+    "lat": 35.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CuestaPeak"
+  },
+  {
+    "id": "Axis-CuestaPeak2",
+    "lon": -120.66,
+    "lat": 35.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CuestaPeak2"
+  },
+  {
+    "id": "Axis-CummingsMtn1",
+    "lon": -118.57,
+    "lat": 35.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CummingsMtn1"
+  },
+  {
+    "id": "Axis-CummingsMtn2",
+    "lon": -118.57,
+    "lat": 35.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CummingsMtn2"
+  },
+  {
+    "id": "Axis-CummingsSkyway",
+    "lon": -122.2,
+    "lat": 38.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CummingsSkyway"
+  },
+  {
+    "id": "Axis-CupertinoHills",
+    "lon": -122.11,
+    "lat": 37.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CupertinoHills"
+  },
+  {
+    "id": "Axis-CuyamacaPeakNorth",
+    "lon": -116.61,
+    "lat": 32.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CuyamacaPeakNorth"
+  },
+  {
+    "id": "Axis-CuyamacaPeakSouth",
+    "lon": -116.61,
+    "lat": 32.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-CuyamacaPeakSouth"
+  },
+  {
+    "id": "Axis-Dangermond1",
+    "lon": -120.45,
+    "lat": 34.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dangermond1"
+  },
+  {
+    "id": "Axis-Dangermond2",
+    "lon": -120.45,
+    "lat": 34.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dangermond2"
+  },
+  {
+    "id": "Axis-DeadmansRidgeEast",
+    "lon": -116.79,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeadmansRidgeEast"
+  },
+  {
+    "id": "Axis-DeadmansRidgeWest",
+    "lon": -116.79,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeadmansRidgeWest"
+  },
+  {
+    "id": "Axis-Deadwood",
+    "lon": -119.69,
+    "lat": 37.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Deadwood"
+  },
+  {
+    "id": "Axis-Deadwood2",
+    "lon": -119.69,
+    "lat": 37.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Deadwood2"
+  },
+  {
+    "id": "Axis-DeerCanyon1",
+    "lon": -117.81,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerCanyon1"
+  },
+  {
+    "id": "Axis-DeerCanyon2",
+    "lon": -117.81,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerCanyon2"
+  },
+  {
+    "id": "Axis-DeerCreekHwy1",
+    "lon": -121.76,
+    "lat": 39.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerCreekHwy1"
+  },
+  {
+    "id": "Axis-DeerCreekHwy2",
+    "lon": -121.76,
+    "lat": 39.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerCreekHwy2"
+  },
+  {
+    "id": "Axis-DeerHorn1",
+    "lon": -123.67,
+    "lat": 41.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerHorn1"
+  },
+  {
+    "id": "Axis-DeerHorn2",
+    "lon": -123.67,
+    "lat": 41.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerHorn2"
+  },
+  {
+    "id": "Axis-DeerParkWest1",
+    "lon": -122.45,
+    "lat": 38.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DeerParkWest1"
+  },
+  {
+    "id": "Axis-DelilahLookout1",
+    "lon": -119.12,
+    "lat": 36.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DelilahLookout1"
+  },
+  {
+    "id": "Axis-DelilahLookout2",
+    "lon": -119.12,
+    "lat": 36.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DelilahLookout2"
+  },
+  {
+    "id": "Axis-DevilsGarden1",
+    "lon": -120.62,
+    "lat": 41.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DevilsGarden1"
+  },
+  {
+    "id": "Axis-DevilsGarden2",
+    "lon": -120.62,
+    "lat": 41.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DevilsGarden2"
+  },
+  {
+    "id": "Axis-Dewdrop1",
+    "lon": -120.48,
+    "lat": 38.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dewdrop1"
+  },
+  {
+    "id": "Axis-Dewdrop2",
+    "lon": -120.48,
+    "lat": 38.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dewdrop2"
+  },
+  {
+    "id": "Axis-Diablo",
+    "lon": -121.92,
+    "lat": 37.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Diablo"
+  },
+  {
+    "id": "Axis-DoeMillRd",
+    "lon": -121.67,
+    "lat": 39.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DoeMillRd"
+  },
+  {
+    "id": "Axis-Downieville1",
+    "lon": -120.83,
+    "lat": 39.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Downieville1"
+  },
+  {
+    "id": "Axis-DreamInn1",
+    "lon": -122.03,
+    "lat": 36.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DreamInn1"
+  },
+  {
+    "id": "Axis-DryCreek1",
+    "lon": -122.39,
+    "lat": 38.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DryCreek1"
+  },
+  {
+    "id": "Axis-DryCreek2",
+    "lon": -122.39,
+    "lat": 38.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DryCreek2"
+  },
+  {
+    "id": "Axis-Ducket",
+    "lon": -122.64,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ducket"
+  },
+  {
+    "id": "Axis-Ducket2",
+    "lon": -122.64,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ducket2"
+  },
+  {
+    "id": "Axis-Duckwall",
+    "lon": -120.12,
+    "lat": 37.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Duckwall"
+  },
+  {
+    "id": "Axis-Duckwall2",
+    "lon": -120.12,
+    "lat": 37.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Duckwall2"
+  },
+  {
+    "id": "Axis-Dulcinea",
+    "lon": -121.64,
+    "lat": 39.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dulcinea"
+  },
+  {
+    "id": "Axis-DuncanRanch1",
+    "lon": -120.18,
+    "lat": 35.78,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DuncanRanch1"
+  },
+  {
+    "id": "Axis-DuncanRanch2",
+    "lon": -120.18,
+    "lat": 35.78,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DuncanRanch2"
+  },
+  {
+    "id": "Axis-DunlapAcres1",
+    "lon": -117.1,
+    "lat": 34.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DunlapAcres1"
+  },
+  {
+    "id": "Axis-DunlapAcres2",
+    "lon": -117.1,
+    "lat": 34.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DunlapAcres2"
+  },
+  {
+    "id": "Axis-Dunsyre",
+    "lon": -122.09,
+    "lat": 37.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Dunsyre"
+  },
+  {
+    "id": "Axis-DyerMtn1",
+    "lon": -121.03,
+    "lat": 40.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DyerMtn1"
+  },
+  {
+    "id": "Axis-DyerMtn2",
+    "lon": -121.03,
+    "lat": 40.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-DyerMtn2"
+  },
+  {
+    "id": "Axis-EagleRockLookout1",
+    "lon": -122.2,
+    "lat": 37.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EagleRockLookout1"
+  },
+  {
+    "id": "Axis-EagleRockLookout2",
+    "lon": -122.2,
+    "lat": 37.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EagleRockLookout2"
+  },
+  {
+    "id": "Axis-EaglesNest",
+    "lon": -122.14,
+    "lat": 40.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EaglesNest"
+  },
+  {
+    "id": "Axis-EastLosMolinos",
+    "lon": -121.99,
+    "lat": 40.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EastLosMolinos"
+  },
+  {
+    "id": "Axis-EastQuincy",
+    "lon": -120.89,
+    "lat": 39.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EastQuincy"
+  },
+  {
+    "id": "Axis-EdenValley1",
+    "lon": -123.1,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EdenValley1"
+  },
+  {
+    "id": "Axis-EdenValley2",
+    "lon": -123.1,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EdenValley2"
+  },
+  {
+    "id": "Axis-Edith",
+    "lon": -120.12,
+    "lat": 37.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Edith"
+  },
+  {
+    "id": "Axis-Edith2",
+    "lon": -120.12,
+    "lat": 37.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Edith2"
+  },
+  {
+    "id": "Axis-Eighmy",
+    "lon": -122.37,
+    "lat": 40.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Eighmy"
+  },
+  {
+    "id": "Axis-Eighmy2",
+    "lon": -122.37,
+    "lat": 40.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Eighmy2"
+  },
+  {
+    "id": "Axis-ElPaso1",
+    "lon": -117.7,
+    "lat": 35.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElPaso1"
+  },
+  {
+    "id": "Axis-ElPaso2",
+    "lon": -117.7,
+    "lat": 35.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElPaso2"
+  },
+  {
+    "id": "Axis-ElRancho1",
+    "lon": -118.58,
+    "lat": 35.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElRancho1"
+  },
+  {
+    "id": "Axis-ElRancho2",
+    "lon": -118.58,
+    "lat": 35.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElRancho2"
+  },
+  {
+    "id": "Axis-ElkCreek1",
+    "lon": -122.56,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElkCreek1"
+  },
+  {
+    "id": "Axis-ElkCreek2",
+    "lon": -122.56,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ElkCreek2"
+  },
+  {
+    "id": "Axis-Elsinore1",
+    "lon": -117.34,
+    "lat": 33.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Elsinore1"
+  },
+  {
+    "id": "Axis-Elsinore2",
+    "lon": -117.34,
+    "lat": 33.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Elsinore2"
+  },
+  {
+    "id": "Axis-EncinalCanyon1",
+    "lon": -118.87,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EncinalCanyon1"
+  },
+  {
+    "id": "Axis-EncinalCanyon2",
+    "lon": -118.87,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EncinalCanyon2"
+  },
+  {
+    "id": "Axis-Escabroso1",
+    "lon": -120.73,
+    "lat": 35.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Escabroso1"
+  },
+  {
+    "id": "Axis-Escabroso2",
+    "lon": -120.73,
+    "lat": 35.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Escabroso2"
+  },
+  {
+    "id": "Axis-EvoraRoad1",
+    "lon": -121.99,
+    "lat": 38.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-EvoraRoad1"
+  },
+  {
+    "id": "Axis-FairviewAlameda1",
+    "lon": -122.03,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FairviewAlameda1"
+  },
+  {
+    "id": "Axis-FairviewAlameda2",
+    "lon": -122.03,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FairviewAlameda2"
+  },
+  {
+    "id": "Axis-Falcon",
+    "lon": -122.5,
+    "lat": 40.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Falcon"
+  },
+  {
+    "id": "Axis-FayRanch1",
+    "lon": -118.29,
+    "lat": 35.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FayRanch1"
+  },
+  {
+    "id": "Axis-FayRanch2",
+    "lon": -118.29,
+    "lat": 35.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FayRanch2"
+  },
+  {
+    "id": "Axis-Felicita",
+    "lon": -117.09,
+    "lat": 33.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Felicita"
+  },
+  {
+    "id": "Axis-Felicita2",
+    "lon": -117.09,
+    "lat": 33.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Felicita2"
+  },
+  {
+    "id": "Axis-Figueroa1",
+    "lon": -119.99,
+    "lat": 34.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Figueroa1"
+  },
+  {
+    "id": "Axis-Figueroa2",
+    "lon": -119.99,
+    "lat": 34.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Figueroa2"
+  },
+  {
+    "id": "Axis-FishRock",
+    "lon": -123.58,
+    "lat": 38.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FishRock"
+  },
+  {
+    "id": "Axis-FishRock2",
+    "lon": -123.58,
+    "lat": 38.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FishRock2"
+  },
+  {
+    "id": "Axis-FishRockEast",
+    "lon": -123.53,
+    "lat": 38.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FishRockEast"
+  },
+  {
+    "id": "Axis-FlatironEast",
+    "lon": -121.69,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FlatironEast"
+  },
+  {
+    "id": "Axis-FlatironWest",
+    "lon": -121.69,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FlatironWest"
+  },
+  {
+    "id": "Axis-FleaMtn",
+    "lon": -121.47,
+    "lat": 39.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FleaMtn"
+  },
+  {
+    "id": "Axis-FleaMtn2",
+    "lon": -121.47,
+    "lat": 39.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FleaMtn2"
+  },
+  {
+    "id": "Axis-Flournoy",
+    "lon": -122.34,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Flournoy"
+  },
+  {
+    "id": "Axis-Fontana1",
+    "lon": -117.47,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Fontana1"
+  },
+  {
+    "id": "Axis-Fontana2",
+    "lon": -117.47,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Fontana2"
+  },
+  {
+    "id": "Axis-Foothill1",
+    "lon": -119.26,
+    "lat": 34.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Foothill1"
+  },
+  {
+    "id": "Axis-Foothill2",
+    "lon": -119.26,
+    "lat": 34.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Foothill2"
+  },
+  {
+    "id": "Axis-FoothillsPark",
+    "lon": -122.17,
+    "lat": 37.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FoothillsPark"
+  },
+  {
+    "id": "Axis-ForestHill1",
+    "lon": -120.81,
+    "lat": 39.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ForestHill1"
+  },
+  {
+    "id": "Axis-ForestHill2",
+    "lon": -120.81,
+    "lat": 39.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ForestHill2"
+  },
+  {
+    "id": "Axis-FortJones1",
+    "lon": -122.88,
+    "lat": 41.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FortJones1"
+  },
+  {
+    "id": "Axis-FortJones2",
+    "lon": -122.88,
+    "lat": 41.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FortJones2"
+  },
+  {
+    "id": "Axis-FowlerPeak",
+    "lon": -120.59,
+    "lat": 38.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FowlerPeak"
+  },
+  {
+    "id": "Axis-FowlerPeak2",
+    "lon": -120.59,
+    "lat": 38.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FowlerPeak2"
+  },
+  {
+    "id": "Axis-Freeman1",
+    "lon": -123.75,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Freeman1"
+  },
+  {
+    "id": "Axis-Freeman2",
+    "lon": -123.75,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Freeman2"
+  },
+  {
+    "id": "Axis-FremontPeak",
+    "lon": -121.5,
+    "lat": 36.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-FremontPeak"
+  },
+  {
+    "id": "Axis-GarcesHwy1",
+    "lon": -119.05,
+    "lat": 35.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GarcesHwy1"
+  },
+  {
+    "id": "Axis-GarcesHwy2",
+    "lon": -119.05,
+    "lat": 35.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GarcesHwy2"
+  },
+  {
+    "id": "Axis-GardenBar",
+    "lon": -121.24,
+    "lat": 38.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GardenBar"
+  },
+  {
+    "id": "Axis-GarinRidge1",
+    "lon": -122,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GarinRidge1"
+  },
+  {
+    "id": "Axis-Georgetown1",
+    "lon": -120.87,
+    "lat": 38.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Georgetown1"
+  },
+  {
+    "id": "Axis-Geyser",
+    "lon": -122.85,
+    "lat": 38.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Geyser"
+  },
+  {
+    "id": "Axis-Geyser2",
+    "lon": -122.85,
+    "lat": 38.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Geyser2"
+  },
+  {
+    "id": "Axis-Gibraltar1",
+    "lon": -119.68,
+    "lat": 34.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gibraltar1"
+  },
+  {
+    "id": "Axis-Gibraltar2",
+    "lon": -119.68,
+    "lat": 34.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gibraltar2"
+  },
+  {
+    "id": "Axis-GirardRidge1",
+    "lon": -122.29,
+    "lat": 41.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GirardRidge1"
+  },
+  {
+    "id": "Axis-GirardRidge2",
+    "lon": -122.29,
+    "lat": 41.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GirardRidge2"
+  },
+  {
+    "id": "Axis-GoatMtn1",
+    "lon": -122.72,
+    "lat": 39.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoatMtn1"
+  },
+  {
+    "id": "Axis-GoatMtn2",
+    "lon": -122.72,
+    "lat": 39.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoatMtn2"
+  },
+  {
+    "id": "Axis-Gold1",
+    "lon": -118.85,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gold1"
+  },
+  {
+    "id": "Axis-Gold2",
+    "lon": -118.85,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gold2"
+  },
+  {
+    "id": "Axis-GoldCountry",
+    "lon": -120.9,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoldCountry"
+  },
+  {
+    "id": "Axis-GoldHill1",
+    "lon": -120.86,
+    "lat": 39.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoldHill1"
+  },
+  {
+    "id": "Axis-GoldHill2",
+    "lon": -120.86,
+    "lat": 39.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoldHill2"
+  },
+  {
+    "id": "Axis-GoldenGate",
+    "lon": -120.75,
+    "lat": 38.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GoldenGate"
+  },
+  {
+    "id": "Axis-Gonzales1",
+    "lon": -121.45,
+    "lat": 36.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gonzales1"
+  },
+  {
+    "id": "Axis-Gonzales2",
+    "lon": -121.45,
+    "lat": 36.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gonzales2"
+  },
+  {
+    "id": "Axis-Gorman1",
+    "lon": -118.82,
+    "lat": 34.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gorman1"
+  },
+  {
+    "id": "Axis-Gorman2",
+    "lon": -118.82,
+    "lat": 34.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Gorman2"
+  },
+  {
+    "id": "Axis-Grapevine1",
+    "lon": -118.9,
+    "lat": 34.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Grapevine1"
+  },
+  {
+    "id": "Axis-Grapevine2",
+    "lon": -118.9,
+    "lat": 34.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Grapevine2"
+  },
+  {
+    "id": "Axis-GrassMountain1",
+    "lon": -120.07,
+    "lat": 34.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrassMountain1"
+  },
+  {
+    "id": "Axis-GrassMountain2",
+    "lon": -120.07,
+    "lat": 34.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrassMountain2"
+  },
+  {
+    "id": "Axis-GrassMountainLA1",
+    "lon": -118.41,
+    "lat": 34.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrassMountainLA1"
+  },
+  {
+    "id": "Axis-GrassMountainLA2",
+    "lon": -118.41,
+    "lat": 34.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrassMountainLA2"
+  },
+  {
+    "id": "Axis-GreeleyHill",
+    "lon": -120.15,
+    "lat": 37.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreeleyHill"
+  },
+  {
+    "id": "Axis-GreeleyHill2",
+    "lon": -120.15,
+    "lat": 37.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreeleyHill2"
+  },
+  {
+    "id": "Axis-GreenNorth",
+    "lon": -118.55,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreenNorth"
+  },
+  {
+    "id": "Axis-GreenSouth",
+    "lon": -118.55,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreenSouth"
+  },
+  {
+    "id": "Axis-GreenwoodRdEast",
+    "lon": -123.6,
+    "lat": 39.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreenwoodRdEast"
+  },
+  {
+    "id": "Axis-GreenwoodRdNorth",
+    "lon": -123.6,
+    "lat": 39.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GreenwoodRdNorth"
+  },
+  {
+    "id": "Axis-GrizzlyPeak1",
+    "lon": -123.28,
+    "lat": 38.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeak1"
+  },
+  {
+    "id": "Axis-GrizzlyPeak2",
+    "lon": -123.28,
+    "lat": 38.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeak2"
+  },
+  {
+    "id": "Axis-GrizzlyPeakKPFA",
+    "lon": -122.22,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeakKPFA"
+  },
+  {
+    "id": "Axis-GrizzlyPeakLookout1",
+    "lon": -122.22,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeakLookout1"
+  },
+  {
+    "id": "Axis-GrizzlyPeakLookout2",
+    "lon": -122.22,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeakLookout2"
+  },
+  {
+    "id": "Axis-GrizzlyPeakShasta1",
+    "lon": -121.98,
+    "lat": 41.14,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeakShasta1"
+  },
+  {
+    "id": "Axis-GrizzlyPeakShasta2",
+    "lon": -121.98,
+    "lat": 41.14,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GrizzlyPeakShasta2"
+  },
+  {
+    "id": "Axis-GypsumCanyon1",
+    "lon": -117.75,
+    "lat": 33.89,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GypsumCanyon1"
+  },
+  {
+    "id": "Axis-GypsumCanyon2",
+    "lon": -117.75,
+    "lat": 33.89,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GypsumCanyon2"
+  },
+  {
+    "id": "Axis-GypsumSouth1",
+    "lon": -117.72,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GypsumSouth1"
+  },
+  {
+    "id": "Axis-GypsumSouth2",
+    "lon": -117.72,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-GypsumSouth2"
+  },
+  {
+    "id": "Axis-HallsRidge1",
+    "lon": -121.83,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HallsRidge1"
+  },
+  {
+    "id": "Axis-HallsRidge2",
+    "lon": -121.83,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HallsRidge2"
+  },
+  {
+    "id": "Axis-Hamilton1",
+    "lon": -122.01,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hamilton1"
+  },
+  {
+    "id": "Axis-Hamilton2",
+    "lon": -122.01,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hamilton2"
+  },
+  {
+    "id": "Axis-HamiltonMtn1",
+    "lon": -120.87,
+    "lat": 40.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HamiltonMtn1"
+  },
+  {
+    "id": "Axis-HamiltonMtn2",
+    "lon": -120.87,
+    "lat": 40.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HamiltonMtn2"
+  },
+  {
+    "id": "Axis-HammondRanch",
+    "lon": -122.45,
+    "lat": 41.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HammondRanch"
+  },
+  {
+    "id": "Axis-HammondRanch2",
+    "lon": -122.45,
+    "lat": 41.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HammondRanch2"
+  },
+  {
+    "id": "Axis-HangingTree1",
+    "lon": -120.67,
+    "lat": 35.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HangingTree1"
+  },
+  {
+    "id": "Axis-HangingTree2",
+    "lon": -120.67,
+    "lat": 35.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HangingTree2"
+  },
+  {
+    "id": "Axis-HappyCamp1",
+    "lon": -121.11,
+    "lat": 41.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HappyCamp1"
+  },
+  {
+    "id": "Axis-HappyCamp2",
+    "lon": -121.11,
+    "lat": 41.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HappyCamp2"
+  },
+  {
+    "id": "Axis-Harvard1",
+    "lon": -118.06,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Harvard1"
+  },
+  {
+    "id": "Axis-Harvard2",
+    "lon": -118.06,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Harvard2"
+  },
+  {
+    "id": "Axis-Hauser1",
+    "lon": -118.21,
+    "lat": 34.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hauser1"
+  },
+  {
+    "id": "Axis-Hauser2",
+    "lon": -118.21,
+    "lat": 34.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hauser2"
+  },
+  {
+    "id": "Axis-HawkeyeRanch",
+    "lon": -123.45,
+    "lat": 39.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HawkeyeRanch"
+  },
+  {
+    "id": "Axis-HawkinsPeak",
+    "lon": -119.87,
+    "lat": 38.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HawkinsPeak"
+  },
+  {
+    "id": "Axis-Hayfork",
+    "lon": -123.08,
+    "lat": 40.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hayfork"
+  },
+  {
+    "id": "Axis-Hayfork2",
+    "lon": -123.08,
+    "lat": 40.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hayfork2"
+  },
+  {
+    "id": "Axis-Healdsburg1",
+    "lon": -122.86,
+    "lat": 38.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Healdsburg1"
+  },
+  {
+    "id": "Axis-Healdsburg2",
+    "lon": -122.86,
+    "lat": 38.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Healdsburg2"
+  },
+  {
+    "id": "Axis-HeapsPeak1",
+    "lon": -117.14,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HeapsPeak1"
+  },
+  {
+    "id": "Axis-HeapsPeak2",
+    "lon": -117.14,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HeapsPeak2"
+  },
+  {
+    "id": "Axis-Hel69B",
+    "lon": -118.63,
+    "lat": 34.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hel69B"
+  },
+  {
+    "id": "Axis-Hel69BWest",
+    "lon": -118.63,
+    "lat": 34.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hel69BWest"
+  },
+  {
+    "id": "Axis-Helen",
+    "lon": -121.12,
+    "lat": 36.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Helen"
+  },
+  {
+    "id": "Axis-Helen2",
+    "lon": -121.12,
+    "lat": 36.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Helen2"
+  },
+  {
+    "id": "Axis-Henrietta",
+    "lon": -121.23,
+    "lat": 36.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Henrietta"
+  },
+  {
+    "id": "Axis-Henrietta2",
+    "lon": -121.23,
+    "lat": 36.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Henrietta2"
+  },
+  {
+    "id": "Axis-HerdPeak",
+    "lon": -122.25,
+    "lat": 41.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HerdPeak"
+  },
+  {
+    "id": "Axis-HerdPeak2",
+    "lon": -122.25,
+    "lat": 41.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HerdPeak2"
+  },
+  {
+    "id": "Axis-Hermitage1",
+    "lon": -119.22,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hermitage1"
+  },
+  {
+    "id": "Axis-Hermitage2",
+    "lon": -119.22,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hermitage2"
+  },
+  {
+    "id": "Axis-HiMountain1",
+    "lon": -120.43,
+    "lat": 35.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HiMountain1"
+  },
+  {
+    "id": "Axis-HiMountain2",
+    "lon": -120.43,
+    "lat": 35.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HiMountain2"
+  },
+  {
+    "id": "Axis-HigginsCanyon",
+    "lon": -122.38,
+    "lat": 37.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HigginsCanyon"
+  },
+  {
+    "id": "Axis-HighDivide1",
+    "lon": -124.06,
+    "lat": 41.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighDivide1"
+  },
+  {
+    "id": "Axis-HighDivide2",
+    "lon": -124.06,
+    "lat": 41.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighDivide2"
+  },
+  {
+    "id": "Axis-HighGladeLookout1",
+    "lon": -122.81,
+    "lat": 39.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighGladeLookout1"
+  },
+  {
+    "id": "Axis-HighGladeLookout2",
+    "lon": -122.81,
+    "lat": 39.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighGladeLookout2"
+  },
+  {
+    "id": "Axis-HighHill1",
+    "lon": -122.71,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighHill1"
+  },
+  {
+    "id": "Axis-HighPlateau",
+    "lon": -121.29,
+    "lat": 39.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighPlateau"
+  },
+  {
+    "id": "Axis-HighPoint1",
+    "lon": -116.84,
+    "lat": 33.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighPoint1"
+  },
+  {
+    "id": "Axis-HighPoint2",
+    "lon": -116.84,
+    "lat": 33.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighPoint2"
+  },
+  {
+    "id": "Axis-HighlandPeak",
+    "lon": -121.81,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighlandPeak"
+  },
+  {
+    "id": "Axis-HighlandPeak2",
+    "lon": -121.81,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighlandPeak2"
+  },
+  {
+    "id": "Axis-HighlineTrail",
+    "lon": -122.21,
+    "lat": 40.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HighlineTrail"
+  },
+  {
+    "id": "Axis-HolidayLake1",
+    "lon": -121.61,
+    "lat": 37.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HolidayLake1"
+  },
+  {
+    "id": "Axis-HolidayLake2",
+    "lon": -121.61,
+    "lat": 37.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HolidayLake2"
+  },
+  {
+    "id": "Axis-Hollywood1",
+    "lon": -118.38,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hollywood1"
+  },
+  {
+    "id": "Axis-Hollywood2",
+    "lon": -118.38,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hollywood2"
+  },
+  {
+    "id": "Axis-Hopland1",
+    "lon": -123.08,
+    "lat": 39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hopland1"
+  },
+  {
+    "id": "Axis-Hopland2",
+    "lon": -123.08,
+    "lat": 39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hopland2"
+  },
+  {
+    "id": "Axis-Hornbrook1",
+    "lon": -122.56,
+    "lat": 41.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hornbrook1"
+  },
+  {
+    "id": "Axis-Hornbrook2",
+    "lon": -122.56,
+    "lat": 41.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hornbrook2"
+  },
+  {
+    "id": "Axis-HorseMountain1",
+    "lon": -123.73,
+    "lat": 40.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HorseMountain1"
+  },
+  {
+    "id": "Axis-HorseMountain2",
+    "lon": -123.73,
+    "lat": 40.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HorseMountain2"
+  },
+  {
+    "id": "Axis-HotchkissHill",
+    "lon": -120.98,
+    "lat": 39.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HotchkissHill"
+  },
+  {
+    "id": "Axis-HotchkissHill2",
+    "lon": -120.98,
+    "lat": 39.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HotchkissHill2"
+  },
+  {
+    "id": "Axis-HowellMtn1",
+    "lon": -120.97,
+    "lat": 39.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HowellMtn1"
+  },
+  {
+    "id": "Axis-HowellMtn2",
+    "lon": -120.97,
+    "lat": 39.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HowellMtn2"
+  },
+  {
+    "id": "Axis-HuntingtonLake1",
+    "lon": -119.24,
+    "lat": 37.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HuntingtonLake1"
+  },
+  {
+    "id": "Axis-HuntingtonLake2",
+    "lon": -119.24,
+    "lat": 37.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-HuntingtonLake2"
+  },
+  {
+    "id": "Axis-Hwy101Blueberry1",
+    "lon": -120.19,
+    "lat": 34.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hwy101Blueberry1"
+  },
+  {
+    "id": "Axis-Hwy101Blueberry2",
+    "lon": -120.19,
+    "lat": 34.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Hwy101Blueberry2"
+  },
+  {
+    "id": "Axis-Idyllwild1",
+    "lon": -116.75,
+    "lat": 33.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Idyllwild1"
+  },
+  {
+    "id": "Axis-Idyllwild2",
+    "lon": -116.75,
+    "lat": 33.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Idyllwild2"
+  },
+  {
+    "id": "Axis-IndianRidge",
+    "lon": -120.92,
+    "lat": 40.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-IndianRidge"
+  },
+  {
+    "id": "Axis-IndianRidge2",
+    "lon": -120.92,
+    "lat": 40.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-IndianRidge2"
+  },
+  {
+    "id": "Axis-InksRidge",
+    "lon": -122.12,
+    "lat": 40.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-InksRidge"
+  },
+  {
+    "id": "Axis-InskipHill1",
+    "lon": -121.95,
+    "lat": 40.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-InskipHill1"
+  },
+  {
+    "id": "Axis-InskipHill2",
+    "lon": -121.95,
+    "lat": 40.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-InskipHill2"
+  },
+  {
+    "id": "Axis-IronMountain1",
+    "lon": -121.06,
+    "lat": 38.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-IronMountain1"
+  },
+  {
+    "id": "Axis-IronMountain2",
+    "lon": -121.06,
+    "lat": 38.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-IronMountain2"
+  },
+  {
+    "id": "Axis-Jackson",
+    "lon": -122.96,
+    "lat": 38.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Jackson"
+  },
+  {
+    "id": "Axis-Jackson2",
+    "lon": -122.96,
+    "lat": 38.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Jackson2"
+  },
+  {
+    "id": "Axis-JacksonButte1",
+    "lon": -120.72,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JacksonButte1"
+  },
+  {
+    "id": "Axis-JacksonButte2",
+    "lon": -120.72,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JacksonButte2"
+  },
+  {
+    "id": "Axis-JacobsLadder",
+    "lon": -121.33,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JacobsLadder"
+  },
+  {
+    "id": "Axis-JarboGap",
+    "lon": -121.48,
+    "lat": 39.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JarboGap"
+  },
+  {
+    "id": "Axis-JasperRidge",
+    "lon": -122.24,
+    "lat": 37.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JasperRidge"
+  },
+  {
+    "id": "Axis-JoaquinRidge",
+    "lon": -120.4,
+    "lat": 36.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JoaquinRidge"
+  },
+  {
+    "id": "Axis-Johnstone1",
+    "lon": -117.8,
+    "lat": 34.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Johnstone1"
+  },
+  {
+    "id": "Axis-Johnstone2",
+    "lon": -117.8,
+    "lat": 34.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Johnstone2"
+  },
+  {
+    "id": "Axis-JonesRidge",
+    "lon": -120.94,
+    "lat": 39.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JonesRidge"
+  },
+  {
+    "id": "Axis-JordanPeak1",
+    "lon": -118.6,
+    "lat": 36.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JordanPeak1"
+  },
+  {
+    "id": "Axis-JordanPeak2",
+    "lon": -118.6,
+    "lat": 36.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-JordanPeak2"
+  },
+  {
+    "id": "Axis-KHAY1",
+    "lon": -119.33,
+    "lat": 34.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KHAY1"
+  },
+  {
+    "id": "Axis-KHAY2",
+    "lon": -119.33,
+    "lat": 34.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KHAY2"
+  },
+  {
+    "id": "Axis-KRNCRD60",
+    "lon": -118.42,
+    "lat": 35.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KRNCRD60"
+  },
+  {
+    "id": "Axis-Keig",
+    "lon": -121.92,
+    "lat": 36.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Keig"
+  },
+  {
+    "id": "Axis-KellerPeak1",
+    "lon": -117.05,
+    "lat": 34.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KellerPeak1"
+  },
+  {
+    "id": "Axis-KellerPeak2",
+    "lon": -117.05,
+    "lat": 34.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KellerPeak2"
+  },
+  {
+    "id": "Axis-Kelseyville1",
+    "lon": -122.77,
+    "lat": 38.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Kelseyville1"
+  },
+  {
+    "id": "Axis-Kelseyville2",
+    "lon": -122.77,
+    "lat": 38.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Kelseyville2"
+  },
+  {
+    "id": "Axis-KennedyMine",
+    "lon": -120.78,
+    "lat": 38.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KennedyMine"
+  },
+  {
+    "id": "Axis-KenwoodRanchUpper1",
+    "lon": -122.55,
+    "lat": 38.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KenwoodRanchUpper1"
+  },
+  {
+    "id": "Axis-KenwoodRanchUpper2",
+    "lon": -122.55,
+    "lat": 38.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KenwoodRanchUpper2"
+  },
+  {
+    "id": "Axis-KingGeorge1",
+    "lon": -118.75,
+    "lat": 35.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KingGeorge1"
+  },
+  {
+    "id": "Axis-KingGeorge2",
+    "lon": -118.75,
+    "lat": 35.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-KingGeorge2"
+  },
+  {
+    "id": "Axis-Kingsville",
+    "lon": -120.88,
+    "lat": 38.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Kingsville"
+  },
+  {
+    "id": "Axis-Kneeland",
+    "lon": -123.97,
+    "lat": 40.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Kneeland"
+  },
+  {
+    "id": "Axis-Konocti",
+    "lon": -122.77,
+    "lat": 38.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Konocti"
+  },
+  {
+    "id": "Axis-Kregor",
+    "lon": -121.89,
+    "lat": 37.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Kregor"
+  },
+  {
+    "id": "Axis-LPDMobile1",
+    "lon": -122.19,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LPDMobile1"
+  },
+  {
+    "id": "Axis-LaHabra1",
+    "lon": -117.94,
+    "lat": 33.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaHabra1"
+  },
+  {
+    "id": "Axis-LaHabra2",
+    "lon": -117.94,
+    "lat": 33.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaHabra2"
+  },
+  {
+    "id": "Axis-LaPanza",
+    "lon": -120.13,
+    "lat": 35.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaPanza"
+  },
+  {
+    "id": "Axis-LaPorte",
+    "lon": -121.39,
+    "lat": 39.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaPorte"
+  },
+  {
+    "id": "Axis-LafayetteLucas",
+    "lon": -122.08,
+    "lat": 37.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LafayetteLucas"
+  },
+  {
+    "id": "Axis-Laguna1",
+    "lon": -119.05,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Laguna1"
+  },
+  {
+    "id": "Axis-Laguna2",
+    "lon": -119.05,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Laguna2"
+  },
+  {
+    "id": "Axis-LagunaObsNorth",
+    "lon": -116.43,
+    "lat": 32.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LagunaObsNorth"
+  },
+  {
+    "id": "Axis-LagunaObsSouth",
+    "lon": -116.43,
+    "lat": 32.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LagunaObsSouth"
+  },
+  {
+    "id": "Axis-LakePerrisNorth",
+    "lon": -117.2,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakePerrisNorth"
+  },
+  {
+    "id": "Axis-LakePerrisSouth",
+    "lon": -117.2,
+    "lat": 33.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakePerrisSouth"
+  },
+  {
+    "id": "Axis-LakeSpaulding1",
+    "lon": -120.64,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeSpaulding1"
+  },
+  {
+    "id": "Axis-LakeSpaulding2",
+    "lon": -120.64,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeSpaulding2"
+  },
+  {
+    "id": "Axis-LakeWohlford1",
+    "lon": -117,
+    "lat": 33.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeWohlford1"
+  },
+  {
+    "id": "Axis-LakeWohlford2",
+    "lon": -117,
+    "lat": 33.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeWohlford2"
+  },
+  {
+    "id": "Axis-LakeviewBigBear1",
+    "lon": -116.88,
+    "lat": 34.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeviewBigBear1"
+  },
+  {
+    "id": "Axis-LakeviewBigBear2",
+    "lon": -116.88,
+    "lat": 34.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LakeviewBigBear2"
+  },
+  {
+    "id": "Axis-Lamont1",
+    "lon": -118.92,
+    "lat": 35.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lamont1"
+  },
+  {
+    "id": "Axis-Lamont2",
+    "lon": -118.92,
+    "lat": 35.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lamont2"
+  },
+  {
+    "id": "Axis-LaneHill",
+    "lon": -122.34,
+    "lat": 37.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaneHill"
+  },
+  {
+    "id": "Axis-LasVirgenes1",
+    "lon": -118.68,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LasVirgenes1"
+  },
+  {
+    "id": "Axis-LasVirgenes2",
+    "lon": -118.68,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LasVirgenes2"
+  },
+  {
+    "id": "Axis-LaughlinRidge1",
+    "lon": -123.27,
+    "lat": 39.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaughlinRidge1"
+  },
+  {
+    "id": "Axis-LaughlinRidge2",
+    "lon": -123.27,
+    "lat": 39.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LaughlinRidge2"
+  },
+  {
+    "id": "Axis-Laytonville",
+    "lon": -123.58,
+    "lat": 39.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Laytonville"
+  },
+  {
+    "id": "Axis-League221",
+    "lon": -122.77,
+    "lat": 38.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-League221"
+  },
+  {
+    "id": "Axis-LebecOaks1",
+    "lon": -118.9,
+    "lat": 34.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LebecOaks1"
+  },
+  {
+    "id": "Axis-LebecOaks2",
+    "lon": -118.9,
+    "lat": 34.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LebecOaks2"
+  },
+  {
+    "id": "Axis-LexingtonHill",
+    "lon": -121.01,
+    "lat": 39.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LexingtonHill"
+  },
+  {
+    "id": "Axis-LexingtonHill2",
+    "lon": -121.01,
+    "lat": 39.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LexingtonHill2"
+  },
+  {
+    "id": "Axis-LikelyMtn1",
+    "lon": -120.56,
+    "lat": 41.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LikelyMtn1"
+  },
+  {
+    "id": "Axis-LikelyMtn2",
+    "lon": -120.56,
+    "lat": 41.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LikelyMtn2"
+  },
+  {
+    "id": "Axis-LimeSaddle",
+    "lon": -121.56,
+    "lat": 39.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LimeSaddle"
+  },
+  {
+    "id": "Axis-LimekilnCanyon",
+    "lon": -121.95,
+    "lat": 37.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LimekilnCanyon"
+  },
+  {
+    "id": "Axis-LittleBlack",
+    "lon": -117.12,
+    "lat": 32.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LittleBlack"
+  },
+  {
+    "id": "Axis-LittleMountain1",
+    "lon": -117.32,
+    "lat": 34.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LittleMountain1"
+  },
+  {
+    "id": "Axis-LittleMountain2",
+    "lon": -117.32,
+    "lat": 34.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LittleMountain2"
+  },
+  {
+    "id": "Axis-Logtown",
+    "lon": -120.86,
+    "lat": 38.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Logtown"
+  },
+  {
+    "id": "Axis-LomaPrieta",
+    "lon": -121.84,
+    "lat": 37.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LomaPrieta"
+  },
+  {
+    "id": "Axis-LonePine1",
+    "lon": -118.06,
+    "lat": 36.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LonePine1"
+  },
+  {
+    "id": "Axis-LonePine2",
+    "lon": -118.06,
+    "lat": 36.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LonePine2"
+  },
+  {
+    "id": "Axis-Longvale1",
+    "lon": -123.41,
+    "lat": 39.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Longvale1"
+  },
+  {
+    "id": "Axis-Longvale2",
+    "lon": -123.41,
+    "lat": 39.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Longvale2"
+  },
+  {
+    "id": "Axis-Loop1",
+    "lon": -118.42,
+    "lat": 34.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Loop1"
+  },
+  {
+    "id": "Axis-Loop2",
+    "lon": -118.42,
+    "lat": 34.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Loop2"
+  },
+  {
+    "id": "Axis-LopezHill",
+    "lon": -120.49,
+    "lat": 35.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LopezHill"
+  },
+  {
+    "id": "Axis-LosAlamos1",
+    "lon": -120.33,
+    "lat": 34.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LosAlamos1"
+  },
+  {
+    "id": "Axis-LosAlamos2",
+    "lon": -120.33,
+    "lat": 34.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LosAlamos2"
+  },
+  {
+    "id": "Axis-LosPinosNorth",
+    "lon": -116.58,
+    "lat": 32.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LosPinosNorth"
+  },
+  {
+    "id": "Axis-LosPinosSouth",
+    "lon": -116.58,
+    "lat": 32.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LosPinosSouth"
+  },
+  {
+    "id": "Axis-LowerLake1",
+    "lon": -122.59,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerLake1"
+  },
+  {
+    "id": "Axis-LowerLake2",
+    "lon": -122.59,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerLake2"
+  },
+  {
+    "id": "Axis-LowerMtVeeder1",
+    "lon": -122.36,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerMtVeeder1"
+  },
+  {
+    "id": "Axis-LowerMtVeeder2",
+    "lon": -122.36,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerMtVeeder2"
+  },
+  {
+    "id": "Axis-LowerMyersGrade1",
+    "lon": -123.17,
+    "lat": 38.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerMyersGrade1"
+  },
+  {
+    "id": "Axis-LowerMyersGrade2",
+    "lon": -123.17,
+    "lat": 38.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LowerMyersGrade2"
+  },
+  {
+    "id": "Axis-Lukens1",
+    "lon": -118.24,
+    "lat": 34.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lukens1"
+  },
+  {
+    "id": "Axis-Lukens2",
+    "lon": -118.24,
+    "lat": 34.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lukens2"
+  },
+  {
+    "id": "Axis-LulaVineyard",
+    "lon": -123.52,
+    "lat": 39.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-LulaVineyard"
+  },
+  {
+    "id": "Axis-Lyons1",
+    "lon": -116.76,
+    "lat": 32.7,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lyons1"
+  },
+  {
+    "id": "Axis-Lyons2",
+    "lon": -116.76,
+    "lat": 32.7,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Lyons2"
+  },
+  {
+    "id": "Axis-MagicMountain1",
+    "lon": -118.33,
+    "lat": 34.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MagicMountain1"
+  },
+  {
+    "id": "Axis-MagicMountain2",
+    "lon": -118.33,
+    "lat": 34.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MagicMountain2"
+  },
+  {
+    "id": "Axis-MammothMtn1",
+    "lon": -119.03,
+    "lat": 37.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MammothMtn1"
+  },
+  {
+    "id": "Axis-MammothMtn2",
+    "lon": -119.03,
+    "lat": 37.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MammothMtn2"
+  },
+  {
+    "id": "Axis-MarionRidge1",
+    "lon": -116.73,
+    "lat": 33.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MarionRidge1"
+  },
+  {
+    "id": "Axis-MarionRidge2",
+    "lon": -116.73,
+    "lat": 33.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MarionRidge2"
+  },
+  {
+    "id": "Axis-MarzanoPeak1",
+    "lon": -118.11,
+    "lat": 37.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MarzanoPeak1"
+  },
+  {
+    "id": "Axis-MarzanoPeak2",
+    "lon": -118.11,
+    "lat": 37.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MarzanoPeak2"
+  },
+  {
+    "id": "Axis-McCabeRidge1",
+    "lon": -122.66,
+    "lat": 40.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-McCabeRidge1"
+  },
+  {
+    "id": "Axis-McCabeRidge2",
+    "lon": -122.66,
+    "lat": 40.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-McCabeRidge2"
+  },
+  {
+    "id": "Axis-McKinzieRidge",
+    "lon": -119.1,
+    "lat": 36.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-McKinzieRidge"
+  },
+  {
+    "id": "Axis-McKittrickNorth",
+    "lon": -119.76,
+    "lat": 35.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-McKittrickNorth"
+  },
+  {
+    "id": "Axis-McKittrickSouth",
+    "lon": -119.76,
+    "lat": 35.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-McKittrickSouth"
+  },
+  {
+    "id": "Axis-MeadowBrook1",
+    "lon": -120.82,
+    "lat": 38.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MeadowBrook1"
+  },
+  {
+    "id": "Axis-MeadowBrook2",
+    "lon": -120.82,
+    "lat": 38.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MeadowBrook2"
+  },
+  {
+    "id": "Axis-MeadowLakes",
+    "lon": -119.43,
+    "lat": 37.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MeadowLakes"
+  },
+  {
+    "id": "Axis-MeadowLakes2",
+    "lon": -119.43,
+    "lat": 37.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MeadowLakes2"
+  },
+  {
+    "id": "Axis-MeadowValley",
+    "lon": -120.99,
+    "lat": 39.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MeadowValley"
+  },
+  {
+    "id": "Axis-Mebane1",
+    "lon": -118.72,
+    "lat": 35.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Mebane1"
+  },
+  {
+    "id": "Axis-Mebane2",
+    "lon": -118.72,
+    "lat": 35.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Mebane2"
+  },
+  {
+    "id": "Axis-Merced1",
+    "lon": -120.44,
+    "lat": 37.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Merced1"
+  },
+  {
+    "id": "Axis-Merced2",
+    "lon": -120.44,
+    "lat": 37.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Merced2"
+  },
+  {
+    "id": "Axis-Merrell",
+    "lon": -120.23,
+    "lat": 37.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Merrell"
+  },
+  {
+    "id": "Axis-MesaGrandeNorth",
+    "lon": -116.76,
+    "lat": 33.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MesaGrandeNorth"
+  },
+  {
+    "id": "Axis-MesaGrandeSouth",
+    "lon": -116.76,
+    "lat": 33.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MesaGrandeSouth"
+  },
+  {
+    "id": "Axis-Meyers",
+    "lon": -123.2,
+    "lat": 38.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Meyers"
+  },
+  {
+    "id": "Axis-MiamiPeak1",
+    "lon": -119.75,
+    "lat": 37.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MiamiPeak1"
+  },
+  {
+    "id": "Axis-MiamiPeak2",
+    "lon": -119.75,
+    "lat": 37.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MiamiPeak2"
+  },
+  {
+    "id": "Axis-MiliasRanch1",
+    "lon": -121.49,
+    "lat": 37.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MiliasRanch1"
+  },
+  {
+    "id": "Axis-MiliasRanch2",
+    "lon": -121.49,
+    "lat": 37.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MiliasRanch2"
+  },
+  {
+    "id": "Axis-MillersRanch1",
+    "lon": -121.45,
+    "lat": 36.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MillersRanch1"
+  },
+  {
+    "id": "Axis-MillersRanch2",
+    "lon": -121.45,
+    "lat": 36.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MillersRanch2"
+  },
+  {
+    "id": "Axis-MinnesotaHill1",
+    "lon": -117.25,
+    "lat": 33.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MinnesotaHill1"
+  },
+  {
+    "id": "Axis-MinnesotaHill2",
+    "lon": -117.25,
+    "lat": 33.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MinnesotaHill2"
+  },
+  {
+    "id": "Axis-Mission1",
+    "lon": -121.86,
+    "lat": 37.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Mission1"
+  },
+  {
+    "id": "Axis-Mission2",
+    "lon": -121.86,
+    "lat": 37.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Mission2"
+  },
+  {
+    "id": "Axis-MoccasinPeak",
+    "lon": -120.33,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MoccasinPeak"
+  },
+  {
+    "id": "Axis-MoccasinPeak2",
+    "lon": -120.33,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MoccasinPeak2"
+  },
+  {
+    "id": "Axis-MohrhardtRidge1",
+    "lon": -123.16,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MohrhardtRidge1"
+  },
+  {
+    "id": "Axis-MohrhardtRidge2",
+    "lon": -123.16,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MohrhardtRidge2"
+  },
+  {
+    "id": "Axis-MojaveAdmin1",
+    "lon": -118.16,
+    "lat": 35.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MojaveAdmin1"
+  },
+  {
+    "id": "Axis-MojaveAdmin2",
+    "lon": -118.16,
+    "lat": 35.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MojaveAdmin2"
+  },
+  {
+    "id": "Axis-MontaraMtn",
+    "lon": -122.48,
+    "lat": 37.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MontaraMtn"
+  },
+  {
+    "id": "Axis-MontebelloPreserve",
+    "lon": -122.17,
+    "lat": 37.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MontebelloPreserve"
+  },
+  {
+    "id": "Axis-Monument",
+    "lon": -116.42,
+    "lat": 32.89,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Monument"
+  },
+  {
+    "id": "Axis-Moonraker",
+    "lon": -123.42,
+    "lat": 38.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Moonraker"
+  },
+  {
+    "id": "Axis-MoragaAltaMesa",
+    "lon": -122.12,
+    "lat": 37.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MoragaAltaMesa"
+  },
+  {
+    "id": "Axis-MoragaFayHill",
+    "lon": -122.12,
+    "lat": 37.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MoragaFayHill"
+  },
+  {
+    "id": "Axis-MorganSummit1",
+    "lon": -121.55,
+    "lat": 40.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MorganSummit1"
+  },
+  {
+    "id": "Axis-MountMcDill1",
+    "lon": -118.25,
+    "lat": 34.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MountMcDill1"
+  },
+  {
+    "id": "Axis-MountMcDill2",
+    "lon": -118.25,
+    "lat": 34.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MountMcDill2"
+  },
+  {
+    "id": "Axis-MountainGate1",
+    "lon": -118.48,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MountainGate1"
+  },
+  {
+    "id": "Axis-MountainGate2",
+    "lon": -118.48,
+    "lat": 34.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MountainGate2"
+  },
+  {
+    "id": "Axis-MtAbel1",
+    "lon": -119.2,
+    "lat": 34.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAbel1"
+  },
+  {
+    "id": "Axis-MtAbel2",
+    "lon": -119.2,
+    "lat": 34.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAbel2"
+  },
+  {
+    "id": "Axis-MtAdelaide1",
+    "lon": -118.75,
+    "lat": 35.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAdelaide1"
+  },
+  {
+    "id": "Axis-MtAdelaide2",
+    "lon": -118.75,
+    "lat": 35.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAdelaide2"
+  },
+  {
+    "id": "Axis-MtAdelaideNorth",
+    "lon": -118.74,
+    "lat": 35.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAdelaideNorth"
+  },
+  {
+    "id": "Axis-MtAllison",
+    "lon": -121.87,
+    "lat": 37.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAllison"
+  },
+  {
+    "id": "Axis-MtArarat1",
+    "lon": -120.94,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtArarat1"
+  },
+  {
+    "id": "Axis-MtArarat2",
+    "lon": -120.94,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtArarat2"
+  },
+  {
+    "id": "Axis-MtAukum1",
+    "lon": -120.73,
+    "lat": 38.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAukum1"
+  },
+  {
+    "id": "Axis-MtAukum2",
+    "lon": -120.73,
+    "lat": 38.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtAukum2"
+  },
+  {
+    "id": "Axis-MtBielawski",
+    "lon": -122.09,
+    "lat": 37.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtBielawski"
+  },
+  {
+    "id": "Axis-MtBradley1",
+    "lon": -122.31,
+    "lat": 41.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtBradley1"
+  },
+  {
+    "id": "Axis-MtBradley2",
+    "lon": -122.31,
+    "lat": 41.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtBradley2"
+  },
+  {
+    "id": "Axis-MtBurdellSouth1",
+    "lon": -122.59,
+    "lat": 38.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtBurdellSouth1"
+  },
+  {
+    "id": "Axis-MtChaul",
+    "lon": -121.83,
+    "lat": 37.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtChaul"
+  },
+  {
+    "id": "Axis-MtDanaher",
+    "lon": -120.67,
+    "lat": 38.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDanaher"
+  },
+  {
+    "id": "Axis-MtDavid1",
+    "lon": -117,
+    "lat": 33.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDavid1"
+  },
+  {
+    "id": "Axis-MtDavid2",
+    "lon": -117,
+    "lat": 33.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDavid2"
+  },
+  {
+    "id": "Axis-MtDiabloNorth",
+    "lon": -121.9,
+    "lat": 37.89,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDiabloNorth"
+  },
+  {
+    "id": "Axis-MtDiabloWest",
+    "lon": -121.92,
+    "lat": 37.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDiabloWest"
+  },
+  {
+    "id": "Axis-MtDisappointment1",
+    "lon": -118.11,
+    "lat": 34.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDisappointment1"
+  },
+  {
+    "id": "Axis-MtDisappointment2",
+    "lon": -118.11,
+    "lat": 34.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtDisappointment2"
+  },
+  {
+    "id": "Axis-MtElizabeth",
+    "lon": -120.25,
+    "lat": 38.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtElizabeth"
+  },
+  {
+    "id": "Axis-MtElizabeth2",
+    "lon": -120.25,
+    "lat": 38.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtElizabeth2"
+  },
+  {
+    "id": "Axis-MtEmma1",
+    "lon": -118.08,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtEmma1"
+  },
+  {
+    "id": "Axis-MtEmma2",
+    "lon": -118.08,
+    "lat": 34.48,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtEmma2"
+  },
+  {
+    "id": "Axis-MtFrazier1",
+    "lon": -118.97,
+    "lat": 34.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtFrazier1"
+  },
+  {
+    "id": "Axis-MtFrazier2",
+    "lon": -118.97,
+    "lat": 34.77,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtFrazier2"
+  },
+  {
+    "id": "Axis-MtHamiltonSCC1",
+    "lon": -121.64,
+    "lat": 37.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtHamiltonSCC1"
+  },
+  {
+    "id": "Axis-MtHamiltonSCC2",
+    "lon": -121.64,
+    "lat": 37.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtHamiltonSCC2"
+  },
+  {
+    "id": "Axis-MtHamiltonSCC3",
+    "lon": -121.64,
+    "lat": 37.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtHamiltonSCC3"
+  },
+  {
+    "id": "Axis-MtLeeN",
+    "lon": -118.32,
+    "lat": 34.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtLeeN"
+  },
+  {
+    "id": "Axis-MtLeeS",
+    "lon": -118.32,
+    "lat": 34.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtLeeS"
+  },
+  {
+    "id": "Axis-MtLewisTuolumne",
+    "lon": -120.16,
+    "lat": 38.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtLewisTuolumne"
+  },
+  {
+    "id": "Axis-MtLewisTuolumne2",
+    "lon": -120.16,
+    "lat": 38.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtLewisTuolumne2"
+  },
+  {
+    "id": "Axis-MtMadonna",
+    "lon": -121.78,
+    "lat": 37.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtMadonna"
+  },
+  {
+    "id": "Axis-MtProvo",
+    "lon": -120.23,
+    "lat": 38.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtProvo"
+  },
+  {
+    "id": "Axis-MtRodoni1",
+    "lon": -122.03,
+    "lat": 37.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtRodoni1"
+  },
+  {
+    "id": "Axis-MtRodoni2",
+    "lon": -122.03,
+    "lat": 37.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtRodoni2"
+  },
+  {
+    "id": "Axis-MtVaca5",
+    "lon": -122.12,
+    "lat": 38.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtVaca5"
+  },
+  {
+    "id": "Axis-MtVaca8",
+    "lon": -122.11,
+    "lat": 38.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtVaca8"
+  },
+  {
+    "id": "Axis-MtVaca82",
+    "lon": -122.11,
+    "lat": 38.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtVaca82"
+  },
+  {
+    "id": "Axis-MtZion1",
+    "lon": -120.65,
+    "lat": 38.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtZion1"
+  },
+  {
+    "id": "Axis-MtZion2",
+    "lon": -120.65,
+    "lat": 38.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtZion2"
+  },
+  {
+    "id": "Axis-MtnHighEast1",
+    "lon": -117.68,
+    "lat": 34.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighEast1"
+  },
+  {
+    "id": "Axis-MtnHighEast2",
+    "lon": -117.68,
+    "lat": 34.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighEast2"
+  },
+  {
+    "id": "Axis-MtnHighNorth1",
+    "lon": -117.68,
+    "lat": 34.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighNorth1"
+  },
+  {
+    "id": "Axis-MtnHighNorth2",
+    "lon": -117.68,
+    "lat": 34.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighNorth2"
+  },
+  {
+    "id": "Axis-MtnHighWest1",
+    "lon": -117.69,
+    "lat": 34.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighWest1"
+  },
+  {
+    "id": "Axis-MtnHighWest2",
+    "lon": -117.69,
+    "lat": 34.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MtnHighWest2"
+  },
+  {
+    "id": "Axis-MuirBeach",
+    "lon": -122.59,
+    "lat": 37.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MuirBeach"
+  },
+  {
+    "id": "Axis-MulhollandRidge",
+    "lon": -122.14,
+    "lat": 37.86,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-MulhollandRidge"
+  },
+  {
+    "id": "Axis-NicholKnob1",
+    "lon": -122.38,
+    "lat": 37.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NicholKnob1"
+  },
+  {
+    "id": "Axis-NorthFork1",
+    "lon": -119.51,
+    "lat": 37.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NorthFork1"
+  },
+  {
+    "id": "Axis-NorthFork2",
+    "lon": -119.51,
+    "lat": 37.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NorthFork2"
+  },
+  {
+    "id": "Axis-NorthPlacerville",
+    "lon": -120.8,
+    "lat": 38.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NorthPlacerville"
+  },
+  {
+    "id": "Axis-NorthPortola",
+    "lon": -120.47,
+    "lat": 39.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NorthPortola"
+  },
+  {
+    "id": "Axis-NostalgiaBonsall1",
+    "lon": -117.15,
+    "lat": 33.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NostalgiaBonsall1"
+  },
+  {
+    "id": "Axis-NostalgiaBonsall2",
+    "lon": -117.15,
+    "lat": 33.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-NostalgiaBonsall2"
+  },
+  {
+    "id": "Axis-OakCanyon1",
+    "lon": -117.75,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OakCanyon1"
+  },
+  {
+    "id": "Axis-OakCanyon2",
+    "lon": -117.75,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OakCanyon2"
+  },
+  {
+    "id": "Axis-OaklandClorox",
+    "lon": -122.27,
+    "lat": 37.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OaklandClorox"
+  },
+  {
+    "id": "Axis-OaklandColiseum",
+    "lon": -122.2,
+    "lat": 37.75,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OaklandColiseum"
+  },
+  {
+    "id": "Axis-Oakridge",
+    "lon": -123.29,
+    "lat": 38.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Oakridge"
+  },
+  {
+    "id": "Axis-Oakridge2",
+    "lon": -123.29,
+    "lat": 38.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Oakridge2"
+  },
+  {
+    "id": "Axis-OatNorth1",
+    "lon": -118.58,
+    "lat": 34.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OatNorth1"
+  },
+  {
+    "id": "Axis-OatNorth2",
+    "lon": -118.58,
+    "lat": 34.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OatNorth2"
+  },
+  {
+    "id": "Axis-OatSouth1",
+    "lon": -118.58,
+    "lat": 34.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OatSouth1"
+  },
+  {
+    "id": "Axis-OatSouth2",
+    "lon": -118.58,
+    "lat": 34.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OatSouth2"
+  },
+  {
+    "id": "Axis-ObsTehachapi1",
+    "lon": -118.46,
+    "lat": 35.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ObsTehachapi1"
+  },
+  {
+    "id": "Axis-ObsTehachapi2",
+    "lon": -118.46,
+    "lat": 35.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ObsTehachapi2"
+  },
+  {
+    "id": "Axis-Olancha1",
+    "lon": -118.01,
+    "lat": 36.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Olancha1"
+  },
+  {
+    "id": "Axis-Olancha2",
+    "lon": -118.01,
+    "lat": 36.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Olancha2"
+  },
+  {
+    "id": "Axis-OmoRanch1",
+    "lon": -120.61,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OmoRanch1"
+  },
+  {
+    "id": "Axis-OmoRanch2",
+    "lon": -120.61,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OmoRanch2"
+  },
+  {
+    "id": "Axis-OnyxPeakSouth1",
+    "lon": -116.71,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OnyxPeakSouth1"
+  },
+  {
+    "id": "Axis-OnyxPeakSouth2",
+    "lon": -116.71,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OnyxPeakSouth2"
+  },
+  {
+    "id": "Axis-Orcutt1",
+    "lon": -120.51,
+    "lat": 34.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Orcutt1"
+  },
+  {
+    "id": "Axis-Orcutt2",
+    "lon": -120.51,
+    "lat": 34.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Orcutt2"
+  },
+  {
+    "id": "Axis-OregonHouse",
+    "lon": -121.23,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OregonHouse"
+  },
+  {
+    "id": "Axis-OregonMt",
+    "lon": -122.98,
+    "lat": 40.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OregonMt"
+  },
+  {
+    "id": "Axis-OregonMt2",
+    "lon": -122.98,
+    "lat": 40.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OregonMt2"
+  },
+  {
+    "id": "Axis-OregonPeak1",
+    "lon": -121.18,
+    "lat": 39.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OregonPeak1"
+  },
+  {
+    "id": "Axis-OregonPeak2",
+    "lon": -121.18,
+    "lat": 39.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OregonPeak2"
+  },
+  {
+    "id": "Axis-OrovilleCaStParks",
+    "lon": -121.47,
+    "lat": 39.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OrovilleCaStParks"
+  },
+  {
+    "id": "Axis-OrtegaRidge1",
+    "lon": -119.59,
+    "lat": 34.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OrtegaRidge1"
+  },
+  {
+    "id": "Axis-OrtegaRidge2",
+    "lon": -119.59,
+    "lat": 34.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OrtegaRidge2"
+  },
+  {
+    "id": "Axis-Osborn1",
+    "lon": -122.59,
+    "lat": 38.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Osborn1"
+  },
+  {
+    "id": "Axis-Osborn2",
+    "lon": -122.59,
+    "lat": 38.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Osborn2"
+  },
+  {
+    "id": "Axis-Oso",
+    "lon": -121.37,
+    "lat": 37.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Oso"
+  },
+  {
+    "id": "Axis-Otay1",
+    "lon": -116.84,
+    "lat": 32.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Otay1"
+  },
+  {
+    "id": "Axis-Otay2",
+    "lon": -116.84,
+    "lat": 32.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Otay2"
+  },
+  {
+    "id": "Axis-Outingdale",
+    "lon": -120.71,
+    "lat": 38.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Outingdale"
+  },
+  {
+    "id": "Axis-OvenLid1",
+    "lon": -122.79,
+    "lat": 40.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OvenLid1"
+  },
+  {
+    "id": "Axis-OvenLid2",
+    "lon": -122.79,
+    "lat": 40.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OvenLid2"
+  },
+  {
+    "id": "Axis-OwensMtn",
+    "lon": -119.64,
+    "lat": 36.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OwensMtn"
+  },
+  {
+    "id": "Axis-OwensMtn2",
+    "lon": -119.64,
+    "lat": 36.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-OwensMtn2"
+  },
+  {
+    "id": "Axis-PachecoPeak1",
+    "lon": -121.29,
+    "lat": 37.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PachecoPeak1"
+  },
+  {
+    "id": "Axis-PachecoPeak2",
+    "lon": -121.29,
+    "lat": 37.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PachecoPeak2"
+  },
+  {
+    "id": "Axis-PaloEscrito1",
+    "lon": -121.49,
+    "lat": 36.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PaloEscrito1"
+  },
+  {
+    "id": "Axis-PaloEscrito2",
+    "lon": -121.49,
+    "lat": 36.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PaloEscrito2"
+  },
+  {
+    "id": "Axis-PalomarObs1",
+    "lon": -116.86,
+    "lat": 33.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PalomarObs1"
+  },
+  {
+    "id": "Axis-PalomarObs2",
+    "lon": -116.86,
+    "lat": 33.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PalomarObs2"
+  },
+  {
+    "id": "Axis-PanicPoint1",
+    "lon": -123.22,
+    "lat": 39.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PanicPoint1"
+  },
+  {
+    "id": "Axis-PanocheMtn1",
+    "lon": -120.76,
+    "lat": 36.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PanocheMtn1"
+  },
+  {
+    "id": "Axis-PanocheMtn2",
+    "lon": -120.76,
+    "lat": 36.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PanocheMtn2"
+  },
+  {
+    "id": "Axis-ParadiseCraggy1",
+    "lon": -122.55,
+    "lat": 41.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ParadiseCraggy1"
+  },
+  {
+    "id": "Axis-ParadiseCraggy2",
+    "lon": -122.55,
+    "lat": 41.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ParadiseCraggy2"
+  },
+  {
+    "id": "Axis-Parkfield1",
+    "lon": -120.38,
+    "lat": 35.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Parkfield1"
+  },
+  {
+    "id": "Axis-Parkfield2",
+    "lon": -120.38,
+    "lat": 35.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Parkfield2"
+  },
+  {
+    "id": "Axis-Patton",
+    "lon": -123.66,
+    "lat": 40.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Patton"
+  },
+  {
+    "id": "Axis-Patton2",
+    "lon": -123.66,
+    "lat": 40.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Patton2"
+  },
+  {
+    "id": "Axis-Paynes",
+    "lon": -121.38,
+    "lat": 39.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Paynes"
+  },
+  {
+    "id": "Axis-Pecwan1",
+    "lon": -123.88,
+    "lat": 41.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Pecwan1"
+  },
+  {
+    "id": "Axis-Pecwan2",
+    "lon": -123.88,
+    "lat": 41.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Pecwan2"
+  },
+  {
+    "id": "Axis-PelatoPeakEast",
+    "lon": -119.41,
+    "lat": 34.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PelatoPeakEast"
+  },
+  {
+    "id": "Axis-PelatoPeakWest",
+    "lon": -119.41,
+    "lat": 34.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PelatoPeakWest"
+  },
+  {
+    "id": "Axis-PenaAdobe",
+    "lon": -121.99,
+    "lat": 38.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PenaAdobe"
+  },
+  {
+    "id": "Axis-PenaAdobe2",
+    "lon": -121.99,
+    "lat": 38.32,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PenaAdobe2"
+  },
+  {
+    "id": "Axis-PenmanPeak1",
+    "lon": -120.62,
+    "lat": 39.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PenmanPeak1"
+  },
+  {
+    "id": "Axis-PenmanPeak2",
+    "lon": -120.62,
+    "lat": 39.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PenmanPeak2"
+  },
+  {
+    "id": "Axis-PennValley",
+    "lon": -121.22,
+    "lat": 39.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PennValley"
+  },
+  {
+    "id": "Axis-PepperwoodPreserve1",
+    "lon": -122.7,
+    "lat": 38.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PepperwoodPreserve1"
+  },
+  {
+    "id": "Axis-Petaluma1",
+    "lon": -122.65,
+    "lat": 38.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Petaluma1"
+  },
+  {
+    "id": "Axis-Petaluma2",
+    "lon": -122.65,
+    "lat": 38.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Petaluma2"
+  },
+  {
+    "id": "Axis-Philo1",
+    "lon": -123.42,
+    "lat": 39.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Philo1"
+  },
+  {
+    "id": "Axis-Philo2",
+    "lon": -123.42,
+    "lat": 39.06,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Philo2"
+  },
+  {
+    "id": "Axis-PierceMtn1",
+    "lon": -124.12,
+    "lat": 40.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PierceMtn1"
+  },
+  {
+    "id": "Axis-PierceMtn2",
+    "lon": -124.12,
+    "lat": 40.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PierceMtn2"
+  },
+  {
+    "id": "Axis-Pike",
+    "lon": -121.04,
+    "lat": 39.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Pike"
+  },
+  {
+    "id": "Axis-PillarPoint",
+    "lon": -122.48,
+    "lat": 37.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PillarPoint"
+  },
+  {
+    "id": "Axis-PilotHillEldorado1",
+    "lon": -121.03,
+    "lat": 38.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PilotHillEldorado1"
+  },
+  {
+    "id": "Axis-PilotHillEldorado2",
+    "lon": -121.03,
+    "lat": 38.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PilotHillEldorado2"
+  },
+  {
+    "id": "Axis-Pine",
+    "lon": -122.95,
+    "lat": 38.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Pine"
+  },
+  {
+    "id": "Axis-PineCreek",
+    "lon": -121.84,
+    "lat": 39.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineCreek"
+  },
+  {
+    "id": "Axis-PineMountainLA1",
+    "lon": -117.9,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineMountainLA1"
+  },
+  {
+    "id": "Axis-PineMountainLA2",
+    "lon": -117.9,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineMountainLA2"
+  },
+  {
+    "id": "Axis-PineMtnKern1",
+    "lon": -118.77,
+    "lat": 35.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineMtnKern1"
+  },
+  {
+    "id": "Axis-PineMtnKern2",
+    "lon": -118.77,
+    "lat": 35.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineMtnKern2"
+  },
+  {
+    "id": "Axis-PineyCreek1",
+    "lon": -121.43,
+    "lat": 36.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineyCreek1"
+  },
+  {
+    "id": "Axis-PineyCreek2",
+    "lon": -121.43,
+    "lat": 36.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PineyCreek2"
+  },
+  {
+    "id": "Axis-PinoleRidge",
+    "lon": -122.27,
+    "lat": 37.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PinoleRidge"
+  },
+  {
+    "id": "Axis-PinyonPeak1",
+    "lon": -121.79,
+    "lat": 36.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PinyonPeak1"
+  },
+  {
+    "id": "Axis-PinyonPeak2",
+    "lon": -121.79,
+    "lat": 36.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PinyonPeak2"
+  },
+  {
+    "id": "Axis-Pitts1",
+    "lon": -120.78,
+    "lat": 35.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Pitts1"
+  },
+  {
+    "id": "Axis-PlatteMtn1",
+    "lon": -121.65,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PlatteMtn1"
+  },
+  {
+    "id": "Axis-PlatteMtn2",
+    "lon": -121.65,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PlatteMtn2"
+  },
+  {
+    "id": "Axis-PleasantsNorth1",
+    "lon": -117.62,
+    "lat": 33.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PleasantsNorth1"
+  },
+  {
+    "id": "Axis-PleasantsNorth2",
+    "lon": -117.62,
+    "lat": 33.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PleasantsNorth2"
+  },
+  {
+    "id": "Axis-PleasantsWest1",
+    "lon": -117.62,
+    "lat": 33.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PleasantsWest1"
+  },
+  {
+    "id": "Axis-PleasantsWest2",
+    "lon": -117.62,
+    "lat": 33.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PleasantsWest2"
+  },
+  {
+    "id": "Axis-PlowsharePeak",
+    "lon": -120.04,
+    "lat": 35.05,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PlowsharePeak"
+  },
+  {
+    "id": "Axis-PoleMt",
+    "lon": -123.12,
+    "lat": 38.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PoleMt"
+  },
+  {
+    "id": "Axis-PoleMt2",
+    "lon": -123.12,
+    "lat": 38.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PoleMt2"
+  },
+  {
+    "id": "Axis-Ponderosa",
+    "lon": -120.18,
+    "lat": 37.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ponderosa"
+  },
+  {
+    "id": "Axis-PoplarLane",
+    "lon": -121,
+    "lat": 39.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PoplarLane"
+  },
+  {
+    "id": "Axis-PoplarLane2",
+    "lon": -121,
+    "lat": 39.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PoplarLane2"
+  },
+  {
+    "id": "Axis-PortalRidge1",
+    "lon": -118.43,
+    "lat": 34.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PortalRidge1"
+  },
+  {
+    "id": "Axis-PortalRidge2",
+    "lon": -118.43,
+    "lat": 34.68,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PortalRidge2"
+  },
+  {
+    "id": "Axis-PortnoffHill1",
+    "lon": -120.74,
+    "lat": 35.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PortnoffHill1"
+  },
+  {
+    "id": "Axis-PortnoffHill2",
+    "lon": -120.74,
+    "lat": 35.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PortnoffHill2"
+  },
+  {
+    "id": "Axis-PrattMtn1",
+    "lon": -123.69,
+    "lat": 40.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PrattMtn1"
+  },
+  {
+    "id": "Axis-PrattMtn2",
+    "lon": -123.69,
+    "lat": 40.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PrattMtn2"
+  },
+  {
+    "id": "Axis-PrefumoCanyon1",
+    "lon": -120.76,
+    "lat": 35.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PrefumoCanyon1"
+  },
+  {
+    "id": "Axis-PrefumoCanyon2",
+    "lon": -120.76,
+    "lat": 35.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PrefumoCanyon2"
+  },
+  {
+    "id": "Axis-PressonHill1",
+    "lon": -121.93,
+    "lat": 37.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PressonHill1"
+  },
+  {
+    "id": "Axis-PressonHill2",
+    "lon": -121.93,
+    "lat": 37.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-PressonHill2"
+  },
+  {
+    "id": "Axis-Prunedale1",
+    "lon": -121.68,
+    "lat": 36.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Prunedale1"
+  },
+  {
+    "id": "Axis-Prunedale2",
+    "lon": -121.68,
+    "lat": 36.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Prunedale2"
+  },
+  {
+    "id": "Axis-Purisma1",
+    "lon": -122.41,
+    "lat": 37.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Purisma1"
+  },
+  {
+    "id": "Axis-QuailCanyon1",
+    "lon": -117.26,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-QuailCanyon1"
+  },
+  {
+    "id": "Axis-QuailCanyon2",
+    "lon": -117.26,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-QuailCanyon2"
+  },
+  {
+    "id": "Axis-QuailRidge1",
+    "lon": -120.94,
+    "lat": 39.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-QuailRidge1"
+  },
+  {
+    "id": "Axis-QuailRidge2",
+    "lon": -120.94,
+    "lat": 39.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-QuailRidge2"
+  },
+  {
+    "id": "Axis-Quartzite1",
+    "lon": -117.29,
+    "lat": 34.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Quartzite1"
+  },
+  {
+    "id": "Axis-Quartzite2",
+    "lon": -117.29,
+    "lat": 34.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Quartzite2"
+  },
+  {
+    "id": "Axis-RadioHill1",
+    "lon": -120.93,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RadioHill1"
+  },
+  {
+    "id": "Axis-RadioHill2",
+    "lon": -120.93,
+    "lat": 39.94,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RadioHill2"
+  },
+  {
+    "id": "Axis-RainbowLake",
+    "lon": -122.69,
+    "lat": 40.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RainbowLake"
+  },
+  {
+    "id": "Axis-Ranchita1",
+    "lon": -116.5,
+    "lat": 33.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ranchita1"
+  },
+  {
+    "id": "Axis-Ranchita2",
+    "lon": -116.5,
+    "lat": 33.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ranchita2"
+  },
+  {
+    "id": "Axis-RanchoCarillo1",
+    "lon": -117.46,
+    "lat": 33.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RanchoCarillo1"
+  },
+  {
+    "id": "Axis-RanchoCarillo2",
+    "lon": -117.46,
+    "lat": 33.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RanchoCarillo2"
+  },
+  {
+    "id": "Axis-RanchoCucamongaFTC1",
+    "lon": -117.56,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RanchoCucamongaFTC1"
+  },
+  {
+    "id": "Axis-RanchoCucamongaFTC2",
+    "lon": -117.56,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RanchoCucamongaFTC2"
+  },
+  {
+    "id": "Axis-RangerPeak1",
+    "lon": -116.82,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RangerPeak1"
+  },
+  {
+    "id": "Axis-RangerPeak2",
+    "lon": -116.82,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RangerPeak2"
+  },
+  {
+    "id": "Axis-Rasnow1",
+    "lon": -118.91,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rasnow1"
+  },
+  {
+    "id": "Axis-Rasnow2",
+    "lon": -118.91,
+    "lat": 34.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rasnow2"
+  },
+  {
+    "id": "Axis-RattlesnakePeak",
+    "lon": -121.41,
+    "lat": 39.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RattlesnakePeak"
+  },
+  {
+    "id": "Axis-RattlesnakePeak2",
+    "lon": -121.41,
+    "lat": 39.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RattlesnakePeak2"
+  },
+  {
+    "id": "Axis-RechePeak1",
+    "lon": -117.25,
+    "lat": 33.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RechePeak1"
+  },
+  {
+    "id": "Axis-RechePeak2",
+    "lon": -117.25,
+    "lat": 33.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RechePeak2"
+  },
+  {
+    "id": "Axis-RedCorral",
+    "lon": -120.6,
+    "lat": 38.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedCorral"
+  },
+  {
+    "id": "Axis-RedCorral2",
+    "lon": -120.6,
+    "lat": 38.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedCorral2"
+  },
+  {
+    "id": "Axis-RedDelNorte1",
+    "lon": -123.91,
+    "lat": 41.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedDelNorte1"
+  },
+  {
+    "id": "Axis-RedDelNorte2",
+    "lon": -123.91,
+    "lat": 41.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedDelNorte2"
+  },
+  {
+    "id": "Axis-RedMtnGlenn1",
+    "lon": -122.61,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedMtnGlenn1"
+  },
+  {
+    "id": "Axis-RedMtnGlenn2",
+    "lon": -122.61,
+    "lat": 39.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedMtnGlenn2"
+  },
+  {
+    "id": "Axis-RedMtnNorth",
+    "lon": -117.19,
+    "lat": 33.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedMtnNorth"
+  },
+  {
+    "id": "Axis-RedMtnSouth",
+    "lon": -117.19,
+    "lat": 33.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedMtnSouth"
+  },
+  {
+    "id": "Axis-RedTop1",
+    "lon": -119.78,
+    "lat": 37.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedTop1"
+  },
+  {
+    "id": "Axis-RedTop2",
+    "lon": -119.78,
+    "lat": 37.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedTop2"
+  },
+  {
+    "id": "Axis-RedTower1",
+    "lon": -119.27,
+    "lat": 34.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedTower1"
+  },
+  {
+    "id": "Axis-RedTower2",
+    "lon": -119.27,
+    "lat": 34.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedTower2"
+  },
+  {
+    "id": "Axis-RedondoMesa1",
+    "lon": -117.34,
+    "lat": 33.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedondoMesa1"
+  },
+  {
+    "id": "Axis-RedondoMesa2",
+    "lon": -117.34,
+    "lat": 33.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedondoMesa2"
+  },
+  {
+    "id": "Axis-RedwoodCity1",
+    "lon": -122.23,
+    "lat": 37.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedwoodCity1"
+  },
+  {
+    "id": "Axis-RedwoodCity2",
+    "lon": -122.23,
+    "lat": 37.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedwoodCity2"
+  },
+  {
+    "id": "Axis-RedwoodValley",
+    "lon": -123.18,
+    "lat": 39.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedwoodValley"
+  },
+  {
+    "id": "Axis-RedwoodValley2",
+    "lon": -123.18,
+    "lat": 39.31,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RedwoodValley2"
+  },
+  {
+    "id": "Axis-Refugio1",
+    "lon": -120.07,
+    "lat": 34.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Refugio1"
+  },
+  {
+    "id": "Axis-Refugio2",
+    "lon": -120.07,
+    "lat": 34.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Refugio2"
+  },
+  {
+    "id": "Axis-RichardsonSprings",
+    "lon": -121.78,
+    "lat": 39.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RichardsonSprings"
+  },
+  {
+    "id": "Axis-Ridgeline1",
+    "lon": -119.04,
+    "lat": 34.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ridgeline1"
+  },
+  {
+    "id": "Axis-Ridgeline2",
+    "lon": -119.04,
+    "lat": 34.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ridgeline2"
+  },
+  {
+    "id": "Axis-Ridgewood",
+    "lon": -120.99,
+    "lat": 38.73,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Ridgewood"
+  },
+  {
+    "id": "Axis-RidgewoodGrade1",
+    "lon": -123.27,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RidgewoodGrade1"
+  },
+  {
+    "id": "Axis-RidgewoodGrade2",
+    "lon": -123.27,
+    "lat": 39.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RidgewoodGrade2"
+  },
+  {
+    "id": "Axis-Rimel1",
+    "lon": -117.75,
+    "lat": 33.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rimel1"
+  },
+  {
+    "id": "Axis-Rimel2",
+    "lon": -117.75,
+    "lat": 33.6,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rimel2"
+  },
+  {
+    "id": "Axis-Rincon1",
+    "lon": -119.42,
+    "lat": 34.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rincon1"
+  },
+  {
+    "id": "Axis-Rincon2",
+    "lon": -119.42,
+    "lat": 34.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rincon2"
+  },
+  {
+    "id": "Axis-RinconDelDiabloN",
+    "lon": -117.12,
+    "lat": 33.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RinconDelDiabloN"
+  },
+  {
+    "id": "Axis-RinconDelDiabloS",
+    "lon": -117.12,
+    "lat": 33.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RinconDelDiabloS"
+  },
+  {
+    "id": "Axis-RiversideRed1",
+    "lon": -116.85,
+    "lat": 33.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RiversideRed1"
+  },
+  {
+    "id": "Axis-RiversideRed2",
+    "lon": -116.85,
+    "lat": 33.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RiversideRed2"
+  },
+  {
+    "id": "Axis-RockCreek",
+    "lon": -120.74,
+    "lat": 38.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockCreek"
+  },
+  {
+    "id": "Axis-Rockpile1",
+    "lon": -123.05,
+    "lat": 38.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rockpile1"
+  },
+  {
+    "id": "Axis-Rockpile2",
+    "lon": -123.05,
+    "lat": 38.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rockpile2"
+  },
+  {
+    "id": "Axis-RocksRoad1",
+    "lon": -121.6,
+    "lat": 36.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RocksRoad1"
+  },
+  {
+    "id": "Axis-RocksRoad2",
+    "lon": -121.6,
+    "lat": 36.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RocksRoad2"
+  },
+  {
+    "id": "Axis-RockyButte",
+    "lon": -121.05,
+    "lat": 35.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyButte"
+  },
+  {
+    "id": "Axis-RockyButteTrail1",
+    "lon": -121.05,
+    "lat": 35.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyButteTrail1"
+  },
+  {
+    "id": "Axis-RockyButteTrail2",
+    "lon": -121.05,
+    "lat": 35.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyButteTrail2"
+  },
+  {
+    "id": "Axis-RockyHill",
+    "lon": -119.09,
+    "lat": 36.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyHill"
+  },
+  {
+    "id": "Axis-RockyHill2",
+    "lon": -119.09,
+    "lat": 36.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyHill2"
+  },
+  {
+    "id": "Axis-RockyPoint1",
+    "lon": -118.42,
+    "lat": 35.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyPoint1"
+  },
+  {
+    "id": "Axis-RockyPoint2",
+    "lon": -118.42,
+    "lat": 35.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyPoint2"
+  },
+  {
+    "id": "Axis-RockyRidge1",
+    "lon": -122.06,
+    "lat": 37.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RockyRidge1"
+  },
+  {
+    "id": "Axis-RodeoValley1",
+    "lon": -123.33,
+    "lat": 39.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RodeoValley1"
+  },
+  {
+    "id": "Axis-Rosamond",
+    "lon": -118.16,
+    "lat": 34.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rosamond"
+  },
+  {
+    "id": "Axis-Rosamond2",
+    "lon": -118.16,
+    "lat": 34.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rosamond2"
+  },
+  {
+    "id": "Axis-RoundMtnFresno",
+    "lon": -119.51,
+    "lat": 36.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnFresno"
+  },
+  {
+    "id": "Axis-RoundMtnFresno2",
+    "lon": -119.51,
+    "lat": 36.82,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnFresno2"
+  },
+  {
+    "id": "Axis-RoundMtnModoc1",
+    "lon": -121.46,
+    "lat": 41.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnModoc1"
+  },
+  {
+    "id": "Axis-RoundMtnModoc2",
+    "lon": -121.46,
+    "lat": 41.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnModoc2"
+  },
+  {
+    "id": "Axis-RoundMtnPaskenta",
+    "lon": -122.67,
+    "lat": 39.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnPaskenta"
+  },
+  {
+    "id": "Axis-RoundMtnPaskenta2",
+    "lon": -122.67,
+    "lat": 39.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnPaskenta2"
+  },
+  {
+    "id": "Axis-RoundMtnShasta",
+    "lon": -121.96,
+    "lat": 40.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnShasta"
+  },
+  {
+    "id": "Axis-RoundMtnShasta2",
+    "lon": -121.96,
+    "lat": 40.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundMtnShasta2"
+  },
+  {
+    "id": "Axis-RoundTop",
+    "lon": -122.19,
+    "lat": 37.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RoundTop"
+  },
+  {
+    "id": "Axis-RubyBluff1",
+    "lon": -120.84,
+    "lat": 39.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RubyBluff1"
+  },
+  {
+    "id": "Axis-RubyBluff2",
+    "lon": -120.84,
+    "lat": 39.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RubyBluff2"
+  },
+  {
+    "id": "Axis-RunningSprings1",
+    "lon": -117.1,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RunningSprings1"
+  },
+  {
+    "id": "Axis-RunningSprings2",
+    "lon": -117.1,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-RunningSprings2"
+  },
+  {
+    "id": "Axis-Rutherford",
+    "lon": -122.46,
+    "lat": 38.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Rutherford"
+  },
+  {
+    "id": "Axis-SEPopeValley1",
+    "lon": -122.33,
+    "lat": 38.55,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SEPopeValley1"
+  },
+  {
+    "id": "Axis-SGBF",
+    "lon": -116.59,
+    "lat": 33.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SGBF"
+  },
+  {
+    "id": "Axis-SLOECC",
+    "lon": -120.68,
+    "lat": 35.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SLOECC"
+  },
+  {
+    "id": "Axis-SRVFDStation31",
+    "lon": -121.99,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SRVFDStation31"
+  },
+  {
+    "id": "Axis-SYP",
+    "lon": -119.98,
+    "lat": 34.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SYP"
+  },
+  {
+    "id": "Axis-Saddle1",
+    "lon": -118.66,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Saddle1"
+  },
+  {
+    "id": "Axis-Saddle2",
+    "lon": -118.66,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Saddle2"
+  },
+  {
+    "id": "Axis-SaddleTimber1",
+    "lon": -120.58,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaddleTimber1"
+  },
+  {
+    "id": "Axis-SaddleTimber2",
+    "lon": -120.58,
+    "lat": 38.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaddleTimber2"
+  },
+  {
+    "id": "Axis-SaddlebackLookout1",
+    "lon": -120.86,
+    "lat": 39.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaddlebackLookout1"
+  },
+  {
+    "id": "Axis-SaddlebackLookout2",
+    "lon": -120.86,
+    "lat": 39.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaddlebackLookout2"
+  },
+  {
+    "id": "Axis-SagePeak1",
+    "lon": -118.67,
+    "lat": 34.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SagePeak1"
+  },
+  {
+    "id": "Axis-SagePeak2",
+    "lon": -118.67,
+    "lat": 34.24,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SagePeak2"
+  },
+  {
+    "id": "Axis-SaintJohn1",
+    "lon": -122.69,
+    "lat": 39.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaintJohn1"
+  },
+  {
+    "id": "Axis-SaintJohn2",
+    "lon": -122.69,
+    "lat": 39.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SaintJohn2"
+  },
+  {
+    "id": "Axis-SanAntonio",
+    "lon": -120.5,
+    "lat": 34.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanAntonio"
+  },
+  {
+    "id": "Axis-SanBenito1",
+    "lon": -121.2,
+    "lat": 36.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanBenito1"
+  },
+  {
+    "id": "Axis-SanBenito2",
+    "lon": -121.2,
+    "lat": 36.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanBenito2"
+  },
+  {
+    "id": "Axis-SanBenitoMtn1",
+    "lon": -120.64,
+    "lat": 36.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanBenitoMtn1"
+  },
+  {
+    "id": "Axis-SanBenitoMtn2",
+    "lon": -120.64,
+    "lat": 36.37,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanBenitoMtn2"
+  },
+  {
+    "id": "Axis-SanBrunoMtn1",
+    "lon": -122.44,
+    "lat": 37.69,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanBrunoMtn1"
+  },
+  {
+    "id": "Axis-SanClementeNorth",
+    "lon": -117.6,
+    "lat": 33.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanClementeNorth"
+  },
+  {
+    "id": "Axis-SanClementeSouth",
+    "lon": -117.6,
+    "lat": 33.43,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanClementeSouth"
+  },
+  {
+    "id": "Axis-SanJoseFoothills",
+    "lon": -121.77,
+    "lat": 37.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanJoseFoothills"
+  },
+  {
+    "id": "Axis-SanJuanHillsNorth",
+    "lon": -117.6,
+    "lat": 33.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanJuanHillsNorth"
+  },
+  {
+    "id": "Axis-SanJuanHillsSouth",
+    "lon": -117.6,
+    "lat": 33.5,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanJuanHillsSouth"
+  },
+  {
+    "id": "Axis-SanLuisReservoir1",
+    "lon": -121.09,
+    "lat": 37.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanLuisReservoir1"
+  },
+  {
+    "id": "Axis-SanLuisReservoir2",
+    "lon": -121.09,
+    "lat": 37.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanLuisReservoir2"
+  },
+  {
+    "id": "Axis-SanMarcosPeak1",
+    "lon": -117.19,
+    "lat": 33.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanMarcosPeak1"
+  },
+  {
+    "id": "Axis-SanMarcosPeak2",
+    "lon": -117.19,
+    "lat": 33.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanMarcosPeak2"
+  },
+  {
+    "id": "Axis-SanMiguelNorth",
+    "lon": -116.94,
+    "lat": 32.7,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanMiguelNorth"
+  },
+  {
+    "id": "Axis-SanMiguelSouth",
+    "lon": -116.94,
+    "lat": 32.7,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanMiguelSouth"
+  },
+  {
+    "id": "Axis-SanPedro",
+    "lon": -122.5,
+    "lat": 37.99,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanPedro"
+  },
+  {
+    "id": "Axis-SanRafaelHill1",
+    "lon": -122.53,
+    "lat": 37.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanRafaelHill1"
+  },
+  {
+    "id": "Axis-SanSevaine1",
+    "lon": -117.5,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanSevaine1"
+  },
+  {
+    "id": "Axis-SanSevaine2",
+    "lon": -117.5,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanSevaine2"
+  },
+  {
+    "id": "Axis-SanVicente1",
+    "lon": -118.51,
+    "lat": 34.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanVicente1"
+  },
+  {
+    "id": "Axis-SanVicente2",
+    "lon": -118.51,
+    "lat": 34.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SanVicente2"
+  },
+  {
+    "id": "Axis-Sanel1",
+    "lon": -123.22,
+    "lat": 38.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sanel1"
+  },
+  {
+    "id": "Axis-Sanel2",
+    "lon": -123.22,
+    "lat": 38.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sanel2"
+  },
+  {
+    "id": "Axis-SantaRitaQuarry1",
+    "lon": -120.81,
+    "lat": 35.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantaRitaQuarry1"
+  },
+  {
+    "id": "Axis-SantaRitaQuarry2",
+    "lon": -120.81,
+    "lat": 35.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantaRitaQuarry2"
+  },
+  {
+    "id": "Axis-SantaYnezPeakWest1",
+    "lon": -119.98,
+    "lat": 34.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantaYnezPeakWest1"
+  },
+  {
+    "id": "Axis-SantaYnezPeakWest2",
+    "lon": -119.98,
+    "lat": 34.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantaYnezPeakWest2"
+  },
+  {
+    "id": "Axis-SantiagoOne1",
+    "lon": -117.53,
+    "lat": 33.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantiagoOne1"
+  },
+  {
+    "id": "Axis-SantiagoOne2",
+    "lon": -117.53,
+    "lat": 33.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantiagoOne2"
+  },
+  {
+    "id": "Axis-SantiagoPeakCalOESN",
+    "lon": -117.53,
+    "lat": 33.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantiagoPeakCalOESN"
+  },
+  {
+    "id": "Axis-SantiagoPeakCalOESS",
+    "lon": -117.53,
+    "lat": 33.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SantiagoPeakCalOESS"
+  },
+  {
+    "id": "Axis-SargentOrchards1",
+    "lon": -117.22,
+    "lat": 34.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SargentOrchards1"
+  },
+  {
+    "id": "Axis-SargentOrchards2",
+    "lon": -117.22,
+    "lat": 34.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SargentOrchards2"
+  },
+  {
+    "id": "Axis-Satterlee",
+    "lon": -123.71,
+    "lat": 40.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Satterlee"
+  },
+  {
+    "id": "Axis-Satterlee2",
+    "lon": -123.71,
+    "lat": 40.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Satterlee2"
+  },
+  {
+    "id": "Axis-SawmillKern1",
+    "lon": -119.14,
+    "lat": 34.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SawmillKern1"
+  },
+  {
+    "id": "Axis-SawmillKern2",
+    "lon": -119.14,
+    "lat": 34.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SawmillKern2"
+  },
+  {
+    "id": "Axis-SawmillLookout",
+    "lon": -121.56,
+    "lat": 39.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SawmillLookout"
+  },
+  {
+    "id": "Axis-SawmillLookout2",
+    "lon": -121.56,
+    "lat": 39.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SawmillLookout2"
+  },
+  {
+    "id": "Axis-SchillHill1",
+    "lon": -118.81,
+    "lat": 35.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SchillHill1"
+  },
+  {
+    "id": "Axis-SchillHill2",
+    "lon": -118.81,
+    "lat": 35.64,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SchillHill2"
+  },
+  {
+    "id": "Axis-SearsPoint",
+    "lon": -122.46,
+    "lat": 38.16,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SearsPoint"
+  },
+  {
+    "id": "Axis-SedgwickReserve1",
+    "lon": -120.05,
+    "lat": 34.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SedgwickReserve1"
+  },
+  {
+    "id": "Axis-SedgwickReserve2",
+    "lon": -120.05,
+    "lat": 34.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SedgwickReserve2"
+  },
+  {
+    "id": "Axis-SeiglerMtn1",
+    "lon": -122.71,
+    "lat": 38.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SeiglerMtn1"
+  },
+  {
+    "id": "Axis-SeiglerMtn2",
+    "lon": -122.71,
+    "lat": 38.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SeiglerMtn2"
+  },
+  {
+    "id": "Axis-ShafferMtn",
+    "lon": -120.36,
+    "lat": 40.45,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShafferMtn"
+  },
+  {
+    "id": "Axis-Shandon1",
+    "lon": -120.35,
+    "lat": 35.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Shandon1"
+  },
+  {
+    "id": "Axis-Shandon2",
+    "lon": -120.35,
+    "lat": 35.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Shandon2"
+  },
+  {
+    "id": "Axis-ShastaLake1",
+    "lon": -122.41,
+    "lat": 40.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShastaLake1"
+  },
+  {
+    "id": "Axis-ShastaLake2",
+    "lon": -122.41,
+    "lat": 40.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShastaLake2"
+  },
+  {
+    "id": "Axis-ShastaSkiPark",
+    "lon": -122.2,
+    "lat": 41.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShastaSkiPark"
+  },
+  {
+    "id": "Axis-Shingletown",
+    "lon": -121.88,
+    "lat": 40.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Shingletown"
+  },
+  {
+    "id": "Axis-ShirleyPeak1",
+    "lon": -118.56,
+    "lat": 35.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShirleyPeak1"
+  },
+  {
+    "id": "Axis-ShirleyPeak2",
+    "lon": -118.56,
+    "lat": 35.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ShirleyPeak2"
+  },
+  {
+    "id": "Axis-Shoeinhorse1",
+    "lon": -122.07,
+    "lat": 41.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Shoeinhorse1"
+  },
+  {
+    "id": "Axis-Shoeinhorse2",
+    "lon": -122.07,
+    "lat": 41.07,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Shoeinhorse2"
+  },
+  {
+    "id": "Axis-SierraButtes1",
+    "lon": -120.65,
+    "lat": 39.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraButtes1"
+  },
+  {
+    "id": "Axis-SierraButtes2",
+    "lon": -120.65,
+    "lat": 39.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraButtes2"
+  },
+  {
+    "id": "Axis-SierraMadreBridge",
+    "lon": -118.04,
+    "lat": 34.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraMadreBridge"
+  },
+  {
+    "id": "Axis-SierraMadreCanyon1",
+    "lon": -118.04,
+    "lat": 34.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraMadreCanyon1"
+  },
+  {
+    "id": "Axis-SierraMadreCanyon2",
+    "lon": -118.04,
+    "lat": 34.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraMadreCanyon2"
+  },
+  {
+    "id": "Axis-SierraOrange1",
+    "lon": -117.65,
+    "lat": 33.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraOrange1"
+  },
+  {
+    "id": "Axis-SierraOrange2",
+    "lon": -117.65,
+    "lat": 33.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraOrange2"
+  },
+  {
+    "id": "Axis-SierraVista",
+    "lon": -120.61,
+    "lat": 38.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraVista"
+  },
+  {
+    "id": "Axis-SierraVista2",
+    "lon": -120.61,
+    "lat": 38.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SierraVista2"
+  },
+  {
+    "id": "Axis-SignalPeak1",
+    "lon": -117.81,
+    "lat": 33.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SignalPeak1"
+  },
+  {
+    "id": "Axis-SignalPeak2",
+    "lon": -117.81,
+    "lat": 33.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SignalPeak2"
+  },
+  {
+    "id": "Axis-SignalPeakNV1",
+    "lon": -120.54,
+    "lat": 39.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SignalPeakNV1"
+  },
+  {
+    "id": "Axis-SignalPeakNV2",
+    "lon": -120.54,
+    "lat": 39.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SignalPeakNV2"
+  },
+  {
+    "id": "Axis-SillerBrosTower",
+    "lon": -121.2,
+    "lat": 39.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SillerBrosTower"
+  },
+  {
+    "id": "Axis-SilverMountain1",
+    "lon": -121.93,
+    "lat": 37.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SilverMountain1"
+  },
+  {
+    "id": "Axis-SilverPeak1",
+    "lon": -118.19,
+    "lat": 37.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SilverPeak1"
+  },
+  {
+    "id": "Axis-SilverPeak2",
+    "lon": -118.19,
+    "lat": 37.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SilverPeak2"
+  },
+  {
+    "id": "Axis-Siri",
+    "lon": -123.03,
+    "lat": 38.49,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Siri"
+  },
+  {
+    "id": "Axis-Sites1",
+    "lon": -122.33,
+    "lat": 39.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sites1"
+  },
+  {
+    "id": "Axis-Sites2",
+    "lon": -122.33,
+    "lat": 39.29,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sites2"
+  },
+  {
+    "id": "Axis-SkyOaksNorth",
+    "lon": -116.62,
+    "lat": 33.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SkyOaksNorth"
+  },
+  {
+    "id": "Axis-SkyOaksSouth",
+    "lon": -116.62,
+    "lat": 33.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SkyOaksSouth"
+  },
+  {
+    "id": "Axis-SkylineCollege",
+    "lon": -122.47,
+    "lat": 37.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SkylineCollege"
+  },
+  {
+    "id": "Axis-SlateMtn1",
+    "lon": -120.86,
+    "lat": 40.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SlateMtn1"
+  },
+  {
+    "id": "Axis-Sleepy",
+    "lon": -122.5,
+    "lat": 38.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sleepy"
+  },
+  {
+    "id": "Axis-Sloan1",
+    "lon": -120.71,
+    "lat": 35.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sloan1"
+  },
+  {
+    "id": "Axis-Sloan2",
+    "lon": -120.71,
+    "lat": 35.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sloan2"
+  },
+  {
+    "id": "Axis-SloatMtn",
+    "lon": -120.71,
+    "lat": 39.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SloatMtn"
+  },
+  {
+    "id": "Axis-SmithRidge",
+    "lon": -123.17,
+    "lat": 38.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SmithRidge"
+  },
+  {
+    "id": "Axis-SnagHill1",
+    "lon": -121.01,
+    "lat": 40.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnagHill1"
+  },
+  {
+    "id": "Axis-SnagHill2",
+    "lon": -121.01,
+    "lat": 40.97,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnagHill2"
+  },
+  {
+    "id": "Axis-SnowPeak1",
+    "lon": -116.81,
+    "lat": 34.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnowPeak1"
+  },
+  {
+    "id": "Axis-SnowPeak2",
+    "lon": -116.81,
+    "lat": 34.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnowPeak2"
+  },
+  {
+    "id": "Axis-SnowSummitSouth",
+    "lon": -116.89,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnowSummitSouth"
+  },
+  {
+    "id": "Axis-SnowSummitWest",
+    "lon": -116.89,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SnowSummitWest"
+  },
+  {
+    "id": "Axis-SodaRidge1",
+    "lon": -122.24,
+    "lat": 41.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SodaRidge1"
+  },
+  {
+    "id": "Axis-SodaRidge2",
+    "lon": -122.24,
+    "lat": 41.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SodaRidge2"
+  },
+  {
+    "id": "Axis-SoledadPeak1",
+    "lon": -121.43,
+    "lat": 36.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SoledadPeak1"
+  },
+  {
+    "id": "Axis-SoledadPeak2",
+    "lon": -121.43,
+    "lat": 36.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SoledadPeak2"
+  },
+  {
+    "id": "Axis-Somerset",
+    "lon": -120.7,
+    "lat": 38.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Somerset"
+  },
+  {
+    "id": "Axis-SonomaMt",
+    "lon": -122.58,
+    "lat": 38.35,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SonomaMt"
+  },
+  {
+    "id": "Axis-SonoraEast",
+    "lon": -120.4,
+    "lat": 37.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SonoraEast"
+  },
+  {
+    "id": "Axis-SonoraWest",
+    "lon": -120.4,
+    "lat": 37.98,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SonoraWest"
+  },
+  {
+    "id": "Axis-SouthForks",
+    "lon": -122.53,
+    "lat": 40.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SouthForks"
+  },
+  {
+    "id": "Axis-SouthForks2",
+    "lon": -122.53,
+    "lat": 40.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SouthForks2"
+  },
+  {
+    "id": "Axis-SouthMountainEast1",
+    "lon": -119.02,
+    "lat": 34.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SouthMountainEast1"
+  },
+  {
+    "id": "Axis-SouthMountainEast2",
+    "lon": -119.02,
+    "lat": 34.33,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SouthMountainEast2"
+  },
+  {
+    "id": "Axis-SouthOroville",
+    "lon": -121.58,
+    "lat": 39.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SouthOroville"
+  },
+  {
+    "id": "Axis-Southworth",
+    "lon": -120.92,
+    "lat": 38.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Southworth"
+  },
+  {
+    "id": "Axis-SpanishMine1",
+    "lon": -120.79,
+    "lat": 39.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SpanishMine1"
+  },
+  {
+    "id": "Axis-SpanishMine2",
+    "lon": -120.79,
+    "lat": 39.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SpanishMine2"
+  },
+  {
+    "id": "Axis-SpinksCanyon",
+    "lon": -117.96,
+    "lat": 34.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SpinksCanyon"
+  },
+  {
+    "id": "Axis-StHelenaNorth",
+    "lon": -122.63,
+    "lat": 38.67,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StHelenaNorth"
+  },
+  {
+    "id": "Axis-StHelenaSouth",
+    "lon": -122.61,
+    "lat": 38.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StHelenaSouth"
+  },
+  {
+    "id": "Axis-StanfordDish",
+    "lon": -122.18,
+    "lat": 37.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StanfordDish"
+  },
+  {
+    "id": "Axis-Starletta",
+    "lon": -120.59,
+    "lat": 37.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Starletta"
+  },
+  {
+    "id": "Axis-StarrCanyon1",
+    "lon": -121.55,
+    "lat": 37.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StarrCanyon1"
+  },
+  {
+    "id": "Axis-StarrCanyon2",
+    "lon": -121.55,
+    "lat": 37.18,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StarrCanyon2"
+  },
+  {
+    "id": "Axis-StoneyRidge",
+    "lon": -121.13,
+    "lat": 38.92,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StoneyRidge"
+  },
+  {
+    "id": "Axis-Stover1",
+    "lon": -121.3,
+    "lat": 40.28,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Stover1"
+  },
+  {
+    "id": "Axis-Strawberry",
+    "lon": -120.03,
+    "lat": 38.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Strawberry"
+  },
+  {
+    "id": "Axis-Strawberry2",
+    "lon": -120.03,
+    "lat": 38.2,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Strawberry2"
+  },
+  {
+    "id": "Axis-StrawberryPeakArrowhead1",
+    "lon": -117.24,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StrawberryPeakArrowhead1"
+  },
+  {
+    "id": "Axis-StrawberryPeakArrowhead2",
+    "lon": -117.24,
+    "lat": 34.23,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-StrawberryPeakArrowhead2"
+  },
+  {
+    "id": "Axis-SugarHill1",
+    "lon": -120.33,
+    "lat": 41.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SugarHill1"
+  },
+  {
+    "id": "Axis-SugarHill2",
+    "lon": -120.33,
+    "lat": 41.8,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SugarHill2"
+  },
+  {
+    "id": "Axis-SugarloafRidge",
+    "lon": -122.22,
+    "lat": 38.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SugarloafRidge"
+  },
+  {
+    "id": "Axis-SugarloafShasta",
+    "lon": -122.44,
+    "lat": 40.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SugarloafShasta"
+  },
+  {
+    "id": "Axis-SugarloafShasta2",
+    "lon": -122.44,
+    "lat": 40.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SugarloafShasta2"
+  },
+  {
+    "id": "Axis-SuisunValley",
+    "lon": -122.09,
+    "lat": 38.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SuisunValley"
+  },
+  {
+    "id": "Axis-SulphurEast1",
+    "lon": -119.16,
+    "lat": 34.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SulphurEast1"
+  },
+  {
+    "id": "Axis-SulphurEast2",
+    "lon": -119.16,
+    "lat": 34.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SulphurEast2"
+  },
+  {
+    "id": "Axis-SunolRidge1",
+    "lon": -121.92,
+    "lat": 37.62,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunolRidge1"
+  },
+  {
+    "id": "Axis-SunolRidge2",
+    "lon": -121.92,
+    "lat": 37.62,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunolRidge2"
+  },
+  {
+    "id": "Axis-Sunset1",
+    "lon": -117.7,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sunset1"
+  },
+  {
+    "id": "Axis-Sunset2",
+    "lon": -117.7,
+    "lat": 34.19,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Sunset2"
+  },
+  {
+    "id": "Axis-SunsetHill1",
+    "lon": -121.3,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunsetHill1"
+  },
+  {
+    "id": "Axis-SunsetHill2",
+    "lon": -121.3,
+    "lat": 39.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunsetHill2"
+  },
+  {
+    "id": "Axis-SunsetRedlands1",
+    "lon": -117.14,
+    "lat": 34.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunsetRedlands1"
+  },
+  {
+    "id": "Axis-SunsetRedlands2",
+    "lon": -117.14,
+    "lat": 34.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunsetRedlands2"
+  },
+  {
+    "id": "Axis-SunsetRedlands3",
+    "lon": -117.14,
+    "lat": 34.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SunsetRedlands3"
+  },
+  {
+    "id": "Axis-SutroTower1",
+    "lon": -122.45,
+    "lat": 37.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SutroTower1"
+  },
+  {
+    "id": "Axis-SutroTower2",
+    "lon": -122.45,
+    "lat": 37.76,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SutroTower2"
+  },
+  {
+    "id": "Axis-SutterButtes",
+    "lon": -121.82,
+    "lat": 39.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SutterButtes"
+  },
+  {
+    "id": "Axis-SweeneyRidge",
+    "lon": -122.46,
+    "lat": 37.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SweeneyRidge"
+  },
+  {
+    "id": "Axis-SycamoreFlat1",
+    "lon": -121.35,
+    "lat": 36.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SycamoreFlat1"
+  },
+  {
+    "id": "Axis-SycamoreFlat2",
+    "lon": -121.35,
+    "lat": 36.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-SycamoreFlat2"
+  },
+  {
+    "id": "Axis-TDLLN1",
+    "lon": -117.24,
+    "lat": 32.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TDLLN1"
+  },
+  {
+    "id": "Axis-TDLLN2",
+    "lon": -117.24,
+    "lat": 32.87,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TDLLN2"
+  },
+  {
+    "id": "Axis-TVHillMontecito1",
+    "lon": -119.71,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TVHillMontecito1"
+  },
+  {
+    "id": "Axis-TVHillMontecito2",
+    "lon": -119.71,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TVHillMontecito2"
+  },
+  {
+    "id": "Axis-Table1",
+    "lon": -117.66,
+    "lat": 34.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Table1"
+  },
+  {
+    "id": "Axis-Table2",
+    "lon": -117.66,
+    "lat": 34.38,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Table2"
+  },
+  {
+    "id": "Axis-TamEast",
+    "lon": -122.58,
+    "lat": 37.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TamEast"
+  },
+  {
+    "id": "Axis-TamWest",
+    "lon": -122.58,
+    "lat": 37.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TamWest"
+  },
+  {
+    "id": "Axis-TassajaraPeak",
+    "lon": -120.71,
+    "lat": 35.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TassajaraPeak"
+  },
+  {
+    "id": "Axis-TecuyaMtn1",
+    "lon": -119,
+    "lat": 34.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TecuyaMtn1"
+  },
+  {
+    "id": "Axis-TecuyaMtn2",
+    "lon": -119,
+    "lat": 34.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TecuyaMtn2"
+  },
+  {
+    "id": "Axis-TehamaCarmel1",
+    "lon": -121.84,
+    "lat": 36.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TehamaCarmel1"
+  },
+  {
+    "id": "Axis-TelegraphHill",
+    "lon": -120.35,
+    "lat": 38.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TelegraphHill"
+  },
+  {
+    "id": "Axis-TelegraphHill2",
+    "lon": -120.35,
+    "lat": 38.03,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TelegraphHill2"
+  },
+  {
+    "id": "Axis-TemescalTrailhead1",
+    "lon": -118.55,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TemescalTrailhead1"
+  },
+  {
+    "id": "Axis-TemescalTrailhead2",
+    "lon": -118.55,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TemescalTrailhead2"
+  },
+  {
+    "id": "Axis-Templeton1",
+    "lon": -120.82,
+    "lat": 35.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Templeton1"
+  },
+  {
+    "id": "Axis-Templeton2",
+    "lon": -120.82,
+    "lat": 35.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Templeton2"
+  },
+  {
+    "id": "Axis-TenMile",
+    "lon": -123.63,
+    "lat": 38.9,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TenMile"
+  },
+  {
+    "id": "Axis-ThumbMtn1",
+    "lon": -118.24,
+    "lat": 35.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ThumbMtn1"
+  },
+  {
+    "id": "Axis-ThumbMtn2",
+    "lon": -118.24,
+    "lat": 35.27,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ThumbMtn2"
+  },
+  {
+    "id": "Axis-ThunderValleyCasinoEast",
+    "lon": -121.31,
+    "lat": 38.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ThunderValleyCasinoEast"
+  },
+  {
+    "id": "Axis-ThunderValleyCasinoWest",
+    "lon": -121.32,
+    "lat": 38.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ThunderValleyCasinoWest"
+  },
+  {
+    "id": "Axis-TimberMtn1",
+    "lon": -121.3,
+    "lat": 41.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TimberMtn1"
+  },
+  {
+    "id": "Axis-TimberMtn2",
+    "lon": -121.3,
+    "lat": 41.63,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TimberMtn2"
+  },
+  {
+    "id": "Axis-TobiasPeak1",
+    "lon": -118.57,
+    "lat": 35.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TobiasPeak1"
+  },
+  {
+    "id": "Axis-TobiasPeak2",
+    "lon": -118.57,
+    "lat": 35.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TobiasPeak2"
+  },
+  {
+    "id": "Axis-ToddEymannRd1",
+    "lon": -119.03,
+    "lat": 36.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ToddEymannRd1"
+  },
+  {
+    "id": "Axis-ToddEymannRd2",
+    "lon": -119.03,
+    "lat": 36.71,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ToddEymannRd2"
+  },
+  {
+    "id": "Axis-TopOfTheWorld1",
+    "lon": -117.76,
+    "lat": 33.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopOfTheWorld1"
+  },
+  {
+    "id": "Axis-TopOfTheWorld2",
+    "lon": -117.76,
+    "lat": 33.56,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopOfTheWorld2"
+  },
+  {
+    "id": "Axis-TopangaCanyon1",
+    "lon": -118.58,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopangaCanyon1"
+  },
+  {
+    "id": "Axis-TopangaCanyon2",
+    "lon": -118.58,
+    "lat": 34.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopangaCanyon2"
+  },
+  {
+    "id": "Axis-TopangaPeak1",
+    "lon": -118.64,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopangaPeak1"
+  },
+  {
+    "id": "Axis-TopangaPeak2",
+    "lon": -118.64,
+    "lat": 34.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TopangaPeak2"
+  },
+  {
+    "id": "Axis-ToroPeak1",
+    "lon": -116.43,
+    "lat": 33.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ToroPeak1"
+  },
+  {
+    "id": "Axis-ToroPeak2",
+    "lon": -116.43,
+    "lat": 33.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ToroPeak2"
+  },
+  {
+    "id": "Axis-Tudor1",
+    "lon": -121.63,
+    "lat": 39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Tudor1"
+  },
+  {
+    "id": "Axis-Tunitas",
+    "lon": -122.34,
+    "lat": 37.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Tunitas"
+  },
+  {
+    "id": "Axis-TuscanButte",
+    "lon": -122.09,
+    "lat": 40.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TuscanButte"
+  },
+  {
+    "id": "Axis-TuscanButte2",
+    "lon": -122.09,
+    "lat": 40.26,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TuscanButte2"
+  },
+  {
+    "id": "Axis-TwinPeaksEast1",
+    "lon": -122.17,
+    "lat": 38.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwinPeaksEast1"
+  },
+  {
+    "id": "Axis-TwinPeaksEast2",
+    "lon": -122.17,
+    "lat": 38.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwinPeaksEast2"
+  },
+  {
+    "id": "Axis-TwinSistersNorth1",
+    "lon": -122.17,
+    "lat": 38.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwinSistersNorth1"
+  },
+  {
+    "id": "Axis-TwinSistersNorth2",
+    "lon": -122.17,
+    "lat": 38.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwinSistersNorth2"
+  },
+  {
+    "id": "Axis-TwoHarbors1",
+    "lon": -118.49,
+    "lat": 33.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwoHarbors1"
+  },
+  {
+    "id": "Axis-TwoHarbors2",
+    "lon": -118.49,
+    "lat": 33.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-TwoHarbors2"
+  },
+  {
+    "id": "Axis-UCSBCampus",
+    "lon": -119.85,
+    "lat": 34.42,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UCSBCampus"
+  },
+  {
+    "id": "Axis-UpperBear",
+    "lon": -120.73,
+    "lat": 38.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperBear"
+  },
+  {
+    "id": "Axis-UpperBear2",
+    "lon": -120.73,
+    "lat": 38.12,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperBear2"
+  },
+  {
+    "id": "Axis-UpperBellNorth",
+    "lon": -117.55,
+    "lat": 33.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperBellNorth"
+  },
+  {
+    "id": "Axis-UpperBellSouth",
+    "lon": -117.55,
+    "lat": 33.61,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperBellSouth"
+  },
+  {
+    "id": "Axis-UpperLake1",
+    "lon": -122.93,
+    "lat": 39.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperLake1"
+  },
+  {
+    "id": "Axis-UpperLake2",
+    "lon": -122.93,
+    "lat": 39.17,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperLake2"
+  },
+  {
+    "id": "Axis-UpperMyersGrade1",
+    "lon": -123.2,
+    "lat": 38.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperMyersGrade1"
+  },
+  {
+    "id": "Axis-UpperMyersGrade2",
+    "lon": -123.2,
+    "lat": 38.53,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperMyersGrade2"
+  },
+  {
+    "id": "Axis-UpperTalegaNorth",
+    "lon": -117.48,
+    "lat": 33.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperTalegaNorth"
+  },
+  {
+    "id": "Axis-UpperTalegaSouth",
+    "lon": -117.48,
+    "lat": 33.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-UpperTalegaSouth"
+  },
+  {
+    "id": "Axis-Vacaville1",
+    "lon": -122.07,
+    "lat": 38.36,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Vacaville1"
+  },
+  {
+    "id": "Axis-ValleySprings",
+    "lon": -120.82,
+    "lat": 38.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-ValleySprings"
+  },
+  {
+    "id": "Axis-VerdugoPeak1",
+    "lon": -118.28,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-VerdugoPeak1"
+  },
+  {
+    "id": "Axis-VerdugoPeak2",
+    "lon": -118.28,
+    "lat": 34.21,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-VerdugoPeak2"
+  },
+  {
+    "id": "Axis-Vision",
+    "lon": -122.87,
+    "lat": 38.08,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Vision"
+  },
+  {
+    "id": "Axis-Volcan",
+    "lon": -116.58,
+    "lat": 33.11,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Volcan"
+  },
+  {
+    "id": "Axis-VolcanTractIIINorth",
+    "lon": -116.62,
+    "lat": 33.14,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-VolcanTractIIINorth"
+  },
+  {
+    "id": "Axis-VolcanTractIIISouth",
+    "lon": -116.62,
+    "lat": 33.14,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-VolcanTractIIISouth"
+  },
+  {
+    "id": "Axis-Vollmer",
+    "lon": -122.22,
+    "lat": 37.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Vollmer"
+  },
+  {
+    "id": "Axis-VollmerTowerTop",
+    "lon": -122.22,
+    "lat": 37.88,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-VollmerTowerTop"
+  },
+  {
+    "id": "Axis-WalkerRidge1",
+    "lon": -122.5,
+    "lat": 39.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WalkerRidge1"
+  },
+  {
+    "id": "Axis-WalkerRidge2",
+    "lon": -122.5,
+    "lat": 39.04,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WalkerRidge2"
+  },
+  {
+    "id": "Axis-WalnutGrove1",
+    "lon": -121.5,
+    "lat": 38.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WalnutGrove1"
+  },
+  {
+    "id": "Axis-WalnutGrove2",
+    "lon": -121.5,
+    "lat": 38.25,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WalnutGrove2"
+  },
+  {
+    "id": "Axis-Watsonville1",
+    "lon": -121.76,
+    "lat": 36.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Watsonville1"
+  },
+  {
+    "id": "Axis-Watsonville2",
+    "lon": -121.76,
+    "lat": 36.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Watsonville2"
+  },
+  {
+    "id": "Axis-Weed",
+    "lon": -122.37,
+    "lat": 41.51,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Weed"
+  },
+  {
+    "id": "Axis-Weed1",
+    "lon": -122.4,
+    "lat": 41.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Weed1"
+  },
+  {
+    "id": "Axis-Weed2",
+    "lon": -122.4,
+    "lat": 41.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Weed2"
+  },
+  {
+    "id": "Axis-WeirCanyon1",
+    "lon": -117.74,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirCanyon1"
+  },
+  {
+    "id": "Axis-WeirCanyon2",
+    "lon": -117.74,
+    "lat": 33.84,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirCanyon2"
+  },
+  {
+    "id": "Axis-WeirCanyonNorth1",
+    "lon": -117.72,
+    "lat": 33.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirCanyonNorth1"
+  },
+  {
+    "id": "Axis-WeirCanyonNorth2",
+    "lon": -117.72,
+    "lat": 33.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirCanyonNorth2"
+  },
+  {
+    "id": "Axis-WeirEastridge1",
+    "lon": -117.74,
+    "lat": 33.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirEastridge1"
+  },
+  {
+    "id": "Axis-WeirEastridge2",
+    "lon": -117.74,
+    "lat": 33.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WeirEastridge2"
+  },
+  {
+    "id": "Axis-WestGonzales1",
+    "lon": -121.48,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestGonzales1"
+  },
+  {
+    "id": "Axis-WestGonzales2",
+    "lon": -121.48,
+    "lat": 36.46,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestGonzales2"
+  },
+  {
+    "id": "Axis-WestPeak1",
+    "lon": -122.51,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestPeak1"
+  },
+  {
+    "id": "Axis-WestPeak2",
+    "lon": -122.51,
+    "lat": 40.54,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestPeak2"
+  },
+  {
+    "id": "Axis-WestPoint",
+    "lon": -120.53,
+    "lat": 38.4,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestPoint"
+  },
+  {
+    "id": "Axis-WestProspect1",
+    "lon": -121.38,
+    "lat": 40.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestProspect1"
+  },
+  {
+    "id": "Axis-WestProspect2",
+    "lon": -121.38,
+    "lat": 40.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WestProspect2"
+  },
+  {
+    "id": "Axis-Weston1",
+    "lon": -122.02,
+    "lat": 37.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Weston1"
+  },
+  {
+    "id": "Axis-Westridge1",
+    "lon": -118.51,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Westridge1"
+  },
+  {
+    "id": "Axis-Westridge2",
+    "lon": -118.51,
+    "lat": 34.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Westridge2"
+  },
+  {
+    "id": "Axis-WheelerCanyon1",
+    "lon": -119.15,
+    "lat": 34.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WheelerCanyon1"
+  },
+  {
+    "id": "Axis-WheelerCanyon2",
+    "lon": -119.15,
+    "lat": 34.39,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WheelerCanyon2"
+  },
+  {
+    "id": "Axis-WhippleRidge",
+    "lon": -123.45,
+    "lat": 39.09,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhippleRidge"
+  },
+  {
+    "id": "Axis-WhitakerMiddlePeak1",
+    "lon": -118.74,
+    "lat": 34.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitakerMiddlePeak1"
+  },
+  {
+    "id": "Axis-WhitakerMiddlePeak2",
+    "lon": -118.74,
+    "lat": 34.57,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitakerMiddlePeak2"
+  },
+  {
+    "id": "Axis-WhitakerRidge1",
+    "lon": -118.72,
+    "lat": 34.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitakerRidge1"
+  },
+  {
+    "id": "Axis-WhitakerRidge2",
+    "lon": -118.72,
+    "lat": 34.58,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitakerRidge2"
+  },
+  {
+    "id": "Axis-WhiteStarNorth",
+    "lon": -116.32,
+    "lat": 32.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhiteStarNorth"
+  },
+  {
+    "id": "Axis-WhiteStarSouth",
+    "lon": -116.32,
+    "lat": 32.65,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhiteStarSouth"
+  },
+  {
+    "id": "Axis-WhitneyPortal1",
+    "lon": -118.14,
+    "lat": 36.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitneyPortal1"
+  },
+  {
+    "id": "Axis-WhitneyPortal2",
+    "lon": -118.14,
+    "lat": 36.59,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WhitneyPortal2"
+  },
+  {
+    "id": "Axis-WiedemannHill",
+    "lon": -121.99,
+    "lat": 37.74,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WiedemannHill"
+  },
+  {
+    "id": "Axis-WildFrontier1",
+    "lon": -123.88,
+    "lat": 41.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WildFrontier1"
+  },
+  {
+    "id": "Axis-WildFrontier2",
+    "lon": -123.88,
+    "lat": 41.83,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WildFrontier2"
+  },
+  {
+    "id": "Axis-WildcatCanyon",
+    "lon": -122.32,
+    "lat": 37.96,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WildcatCanyon"
+  },
+  {
+    "id": "Axis-WildhorseValley1",
+    "lon": -122.2,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WildhorseValley1"
+  },
+  {
+    "id": "Axis-WildhorseValley2",
+    "lon": -122.2,
+    "lat": 38.34,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WildhorseValley2"
+  },
+  {
+    "id": "Axis-Willet1",
+    "lon": -119.19,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Willet1"
+  },
+  {
+    "id": "Axis-Willet2",
+    "lon": -119.19,
+    "lat": 34.41,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Willet2"
+  },
+  {
+    "id": "Axis-WilliamRustSummit",
+    "lon": -122.29,
+    "lat": 37.93,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WilliamRustSummit"
+  },
+  {
+    "id": "Axis-Williams1",
+    "lon": -122.16,
+    "lat": 39.15,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Williams1"
+  },
+  {
+    "id": "Axis-WilliamsHill1",
+    "lon": -121,
+    "lat": 35.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WilliamsHill1"
+  },
+  {
+    "id": "Axis-WilliamsHill2",
+    "lon": -121,
+    "lat": 35.95,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WilliamsHill2"
+  },
+  {
+    "id": "Axis-WillisPeak1",
+    "lon": -119.23,
+    "lat": 34.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WillisPeak1"
+  },
+  {
+    "id": "Axis-WillisPeak2",
+    "lon": -119.23,
+    "lat": 34.3,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WillisPeak2"
+  },
+  {
+    "id": "Axis-WillowCreek",
+    "lon": -120.93,
+    "lat": 38.44,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WillowCreek"
+  },
+  {
+    "id": "Axis-Wilshire1",
+    "lon": -118.5,
+    "lat": 34.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Wilshire1"
+  },
+  {
+    "id": "Axis-Wilshire2",
+    "lon": -118.5,
+    "lat": 34.02,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Wilshire2"
+  },
+  {
+    "id": "Axis-WilsonEast",
+    "lon": -118.06,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WilsonEast"
+  },
+  {
+    "id": "Axis-WilsonWest",
+    "lon": -118.06,
+    "lat": 34.22,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WilsonWest"
+  },
+  {
+    "id": "Axis-Winters1",
+    "lon": -121.98,
+    "lat": 38.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Winters1"
+  },
+  {
+    "id": "Axis-Winters2",
+    "lon": -121.98,
+    "lat": 38.52,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Winters2"
+  },
+  {
+    "id": "Axis-WolfMtn1",
+    "lon": -121.1,
+    "lat": 39.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WolfMtn1"
+  },
+  {
+    "id": "Axis-WolfMtn2",
+    "lon": -121.1,
+    "lat": 39.13,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WolfMtn2"
+  },
+  {
+    "id": "Axis-WolfbackRidge",
+    "lon": -122.5,
+    "lat": 37.85,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-WolfbackRidge"
+  },
+  {
+    "id": "Axis-Woodson",
+    "lon": -116.97,
+    "lat": 33.01,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Woodson"
+  },
+  {
+    "id": "Axis-YankeeHill",
+    "lon": -121.53,
+    "lat": 39.72,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-YankeeHill"
+  },
+  {
+    "id": "Axis-YosemiteLakes",
+    "lon": -119.94,
+    "lat": 37.81,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-YosemiteLakes"
+  },
+  {
+    "id": "Axis-YosemiteWest",
+    "lon": -119.77,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-YosemiteWest"
+  },
+  {
+    "id": "Axis-YosemiteWest2",
+    "lon": -119.77,
+    "lat": 37.66,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-YosemiteWest2"
+  },
+  {
+    "id": "Axis-Zinfandel1",
+    "lon": -122.48,
+    "lat": 38.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Zinfandel1"
+  },
+  {
+    "id": "Axis-Zinfandel2",
+    "lon": -122.48,
+    "lat": 38.47,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-Zinfandel2"
+  },
+  {
+    "id": "Axis-georgetown2",
+    "lon": -120.87,
+    "lat": 38.91,
+    "url": "https://cameras.alertcalifornia.org/?id=Axis-georgetown2"
+  }
+]
