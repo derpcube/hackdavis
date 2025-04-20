@@ -1,0 +1,3686 @@
+[
+  {
+    "name": "Adelanto Fire Dept",
+    "address": "11600 Air Expy, Adelanto, CA 92301",
+    "latitude": 34.5725395,
+    "longitude": -117.4111605
+  },
+  {
+    "name": "Adin Fire Dept",
+    "address": "305 N Main, Adin, CA 96006",
+    "latitude": 41.1991762,
+    "longitude": -120.9441235
+  },
+  {
+    "name": "Aero Union Corp",
+    "address": "3403 Taxi Way #A, McClellan, CA 95652",
+    "latitude": 38.6607142,
+    "longitude": -121.4097758
+  },
+  {
+    "name": "Alameda Fire Dept",
+    "address": "1300 Park St, Alameda, CA 94501",
+    "latitude": 37.7627792,
+    "longitude": -122.2437835
+  },
+  {
+    "name": "Alameda Fire Station 1",
+    "address": "2401 Encinal Ave, Alameda, CA 94501",
+    "latitude": 37.7625856,
+    "longitude": -122.2437376
+  },
+  {
+    "name": "Alameda Fire Station 2",
+    "address": "635 Pacific Ave, Alameda, CA 94501",
+    "latitude": 37.776559,
+    "longitude": -122.277775
+  },
+  {
+    "name": "Alameda Fire Station 3",
+    "address": "1703 Grand St, Alameda, CA 94501",
+    "latitude": 37.7739219,
+    "longitude": -122.2548983
+  },
+  {
+    "name": "Alameda Fire Station 4",
+    "address": "2595 Mecartney Rd, Alameda, CA 94502",
+    "latitude": 37.7376566,
+    "longitude": -122.2526048
+  },
+  {
+    "name": "Alameda Fire Station 5",
+    "address": "950 W Ranger Ave, Alameda, CA 94501",
+    "latitude": 37.7841069,
+    "longitude": -122.3027348
+  },
+  {
+    "name": "Albany Fire Dept",
+    "address": "1000 San Pablo Ave, Albany, CA 94706",
+    "latitude": 37.8875372,
+    "longitude": -122.2990141
+  },
+  {
+    "name": "Alhambra Fire Dept",
+    "address": "301 N 1st St, Alhambra, CA 91801",
+    "latitude": 34.0972159,
+    "longitude": -118.1300908
+  },
+  {
+    "name": "Alhambra Fire Prevention",
+    "address": "301 N 1st St, Alhambra, CA 91801",
+    "latitude": 34.0972159,
+    "longitude": -118.1300908
+  },
+  {
+    "name": "Alpine Fire Protection Dist",
+    "address": "1364 Tavern Rd, Alpine, CA 91901",
+    "latitude": 32.8359661,
+    "longitude": -116.7772212
+  },
+  {
+    "name": "Alta Fire Dept",
+    "address": "33950 Alta Bonnynook Rd, Alta, CA 95701",
+    "latitude": 39.2069712,
+    "longitude": -120.810451
+  },
+  {
+    "name": "Alturas Fire Dept",
+    "address": "200 N Warner St, Alturas, CA 96101",
+    "latitude": 41.4850056,
+    "longitude": -120.5590871
+  },
+  {
+    "name": "Amador Fire Protection Dist",
+    "address": "810 Court St, Jackson, CA 95642",
+    "latitude": 38.35239360000001,
+    "longitude": -120.7672917
+  },
+  {
+    "name": "American Canyon Fire Dist",
+    "address": "911 Donaldson Way E, American Canyon, CA 94503",
+    "latitude": 38.1717501,
+    "longitude": -122.2484366
+  },
+  {
+    "name": "Anaheim Fire Dept",
+    "address": "201 S Anaheim Blvd, Anaheim, CA 92805",
+    "latitude": 33.8346578,
+    "longitude": -117.9141443
+  },
+  {
+    "name": "Anaheim Fire Dept Station 2",
+    "address": "1101 N Anaheim Blvd, Anaheim, CA 92801",
+    "latitude": 33.8480709,
+    "longitude": -117.9198088
+  },
+  {
+    "name": "Anaheim Fire Prevention",
+    "address": "201 S Anaheim Blvd, Anaheim, CA 92805",
+    "latitude": 33.8346578,
+    "longitude": -117.9141443
+  },
+  {
+    "name": "Anderson Fire Dept",
+    "address": "1925 Howard St, Anderson, CA 96007",
+    "latitude": 40.4481075,
+    "longitude": -122.299879
+  },
+  {
+    "name": "Angels Camp Fire Dept",
+    "address": "1404 Vallecito Rd, Angels Camp, CA 95222",
+    "latitude": 38.0689324,
+    "longitude": -120.537354
+  },
+  {
+    "name": "Antelope Valley Fire Dept",
+    "address": "5022 W Avenue N # 102, Palmdale, CA 93551",
+    "latitude": 34.6292792,
+    "longitude": -118.2194706
+  },
+  {
+    "name": "Antioch Fire Dept",
+    "address": "3230 Lone Tree Way, Antioch, CA 94509",
+    "latitude": 37.9893653,
+    "longitude": -121.808206
+  },
+  {
+    "name": "Apple Valley Fire Protection",
+    "address": "22400 Headquarters Dr, Apple Valley, CA 92307",
+    "latitude": 34.5028876,
+    "longitude": -117.174892
+  },
+  {
+    "name": "Aptos Fire Station",
+    "address": "6934 Soquel Dr, Aptos, CA 95003",
+    "latitude": 36.9858797,
+    "longitude": -121.9187566
+  },
+  {
+    "name": "Arcadia Fire Dept",
+    "address": "710 S Santa Anita Ave, Arcadia, CA 91006",
+    "latitude": 34.13201859999999,
+    "longitude": -118.0309716
+  },
+  {
+    "name": "Arcata Fire Dept",
+    "address": "631 9th St, Arcata, CA 95521",
+    "latitude": 40.8684922,
+    "longitude": -124.0850428
+  },
+  {
+    "name": "Arcata Fire Protection Dist",
+    "address": "2149 Central Ave, Mckinleyville, CA 95519",
+    "latitude": 40.9437831,
+    "longitude": -124.1005678
+  },
+  {
+    "name": "Arroyo Grande Fire Dept",
+    "address": "1400 E Grand Ave, Arroyo Grande, CA 93420",
+    "latitude": 35.1210498,
+    "longitude": -120.6049168
+  },
+  {
+    "name": "Artesia Fire Dept",
+    "address": "18747 Clarkdale Ave, Artesia, CA 90701",
+    "latitude": 33.860007,
+    "longitude": -118.0799542
+  },
+  {
+    "name": "Arvin Fire Dept",
+    "address": "200 Campus Dr, Arvin, CA 93203",
+    "latitude": 35.2102328,
+    "longitude": -118.8327676
+  },
+  {
+    "name": "Atascadero Fire Dept",
+    "address": "6005 Lewis Ave, Atascadero, CA 93422",
+    "latitude": 35.491394,
+    "longitude": -120.6686639
+  },
+  {
+    "name": "Atherton Fire Dept",
+    "address": "32 Almendral Ave, Atherton, CA 94027",
+    "latitude": 37.4624797,
+    "longitude": -122.2065798
+  },
+  {
+    "name": "Atwater Fire Dept",
+    "address": "212 4th St, Atwater, CA 95301",
+    "latitude": 37.353701,
+    "longitude": -120.60626
+  },
+  {
+    "name": "Auburn Fire Dept",
+    "address": "1225 Lincoln Way, Auburn, CA 95603",
+    "latitude": 38.8975279,
+    "longitude": -121.0743115
+  },
+  {
+    "name": "Avalon Fire Dept",
+    "address": "420 Avalon Cyn Rd, Avalon, CA 90704",
+    "latitude": 33.3392986,
+    "longitude": -118.3287756
+  },
+  {
+    "name": "Avenal Fire Dept",
+    "address": "526 Park Ave, Avenal, CA 93204",
+    "latitude": 36.00949749999999,
+    "longitude": -120.1255806
+  },
+  {
+    "name": "Azusa Fire Dept",
+    "address": "301 N Foothill Blvd, Azusa, CA 91702",
+    "latitude": 34.1335959,
+    "longitude": -117.9049095
+  },
+  {
+    "name": "Bakersfield Fire Dept",
+    "address": "2101 E St, Bakersfield, CA 93301",
+    "latitude": 35.3781613,
+    "longitude": -119.0246864
+  },
+  {
+    "name": "Bakersfield Fire Prevention",
+    "address": "2101 E St, Bakersfield, CA 93301",
+    "latitude": 35.3781613,
+    "longitude": -119.0246864
+  },
+  {
+    "name": "Bakersfield Fire Station",
+    "address": "4900 Poppyseed St, Bakersfield, CA 93313",
+    "latitude": 35.2913898,
+    "longitude": -119.0570739
+  },
+  {
+    "name": "Baldwin Park Fire Dept",
+    "address": "14403 Pacific Ave, Baldwin Park, CA 91706",
+    "latitude": 34.08546219999999,
+    "longitude": -117.9596806
+  },
+  {
+    "name": "Banning Fire Dept",
+    "address": "3900 W Wilson St, Banning, CA 92220",
+    "latitude": 33.9323071,
+    "longitude": -116.9204216
+  },
+  {
+    "name": "Barstow Fire Dept",
+    "address": "861 Barstow Rd, Barstow, CA 92311",
+    "latitude": 34.8885739,
+    "longitude": -117.0223322
+  },
+  {
+    "name": "Bass Lake Volunteer Fire Dept",
+    "address": "40601 Road 274, Bass Lake, CA 93604",
+    "latitude": 37.3383425,
+    "longitude": -119.581961
+  },
+  {
+    "name": "Bayshore Fire Protection",
+    "address": "445 Midway Dr, San Mateo, CA 94402",
+    "latitude": 37.5649467,
+    "longitude": -122.3491984
+  },
+  {
+    "name": "Beale Afb Fire Dept",
+    "address": "17600 25th St, Beale Afb, CA 95903",
+    "latitude": 39.1155176,
+    "longitude": -121.3905711
+  },
+  {
+    "name": "Beckworth Fire Dept",
+    "address": "180 Main, Beckwourth, CA 96129",
+    "latitude": 39.8202784,
+    "longitude": -120.3756388
+  },
+  {
+    "name": "Bell Fire Dept",
+    "address": "6320 Pine Ave, Bell, CA 90201",
+    "latitude": 33.97941900000001,
+    "longitude": -118.1885066
+  },
+  {
+    "name": "Bell Gardens Fire Dept",
+    "address": "7100 Garfield Ave, Bell Gardens, CA 90201",
+    "latitude": 33.967794,
+    "longitude": -118.1498878
+  },
+  {
+    "name": "Bella Vista Fire Co",
+    "address": "Highway 299 E, Bella Vista, CA 96008",
+    "latitude": 40.6385556,
+    "longitude": -122.2416006
+  },
+  {
+    "name": "Bella Vista Volunteer Fire",
+    "address": "14112 Dry Creek Rd, Bella Vista, CA 96008",
+    "latitude": 40.6977192,
+    "longitude": -122.2449859
+  },
+  {
+    "name": "Belmont Fire Dept",
+    "address": "1835 Ralston Ave, Belmont, CA 94002",
+    "latitude": 37.5125586,
+    "longitude": -122.2925466
+  },
+  {
+    "name": "Ben Lomond Fire Dept",
+    "address": "9430 Highway 9, Ben Lomond, CA 95005",
+    "latitude": 37.0896248,
+    "longitude": -122.0886391
+  },
+  {
+    "name": "Benicia Fire Dept",
+    "address": "150 Military W, Benicia, CA 94510",
+    "latitude": 38.0541581,
+    "longitude": -122.1572799
+  },
+  {
+    "name": "Benicia Fire Prevention",
+    "address": "250 E L St, Benicia, CA 94510",
+    "latitude": 38.0523428,
+    "longitude": -122.1531834
+  },
+  {
+    "name": "Bennett Valley Fire Protection",
+    "address": "6161 Bennett Valley Rd, Santa Rosa, CA 95404",
+    "latitude": 38.3979189,
+    "longitude": -122.6264973
+  },
+  {
+    "name": "Benton Volunteer Fire Dept",
+    "address": "25540 Highway 6, Benton, CA 93512",
+    "latitude": 37.8148469,
+    "longitude": -118.4756869
+  },
+  {
+    "name": "Berkeley Fire Dept",
+    "address": "2121 Mckinley Ave, Berkeley, CA 94703",
+    "latitude": 37.8697925,
+    "longitude": -122.2738287
+  },
+  {
+    "name": "Berkeley Fire Prevention",
+    "address": "2100 Martin Luther King Jr Way, Berkeley, CA 94704",
+    "latitude": 37.86994869999999,
+    "longitude": -122.2730202
+  },
+  {
+    "name": "Beverly Hills Fire Dept",
+    "address": "445 N Rexford Dr, Beverly Hills, CA 90210",
+    "latitude": 34.07254,
+    "longitude": -118.3998632
+  },
+  {
+    "name": "Big Bear City Fire Dept",
+    "address": "301 W Big Bear Blvd, Big Bear City, CA 92314",
+    "latitude": 34.2615044,
+    "longitude": -116.8489837
+  },
+  {
+    "name": "Big Bear Lake Fire Dept",
+    "address": "41090 Big Bear Blvd, Big Bear Lake, CA 92315",
+    "latitude": 34.2443221,
+    "longitude": -116.9052626
+  },
+  {
+    "name": "Big Pine Fire Dept",
+    "address": "181 N Main St, Big Pine, CA 93513",
+    "latitude": 37.1673997,
+    "longitude": -118.2899002
+  },
+  {
+    "name": "Biggs Fire Dept",
+    "address": "434 B St, Biggs, CA 95917",
+    "latitude": 39.4138468,
+    "longitude": -121.7091475
+  },
+  {
+    "name": "Bishop Fire Dept",
+    "address": "209 W Line St, Bishop, CA 93514",
+    "latitude": 37.361557,
+    "longitude": -118.3966908
+  },
+  {
+    "name": "Bloomington Fire Station",
+    "address": "11466 Cedar Ave, Bloomington, CA 92316",
+    "latitude": 34.045496,
+    "longitude": -117.3964601
+  },
+  {
+    "name": "Blythe Fire Dept",
+    "address": "270 N Broadway, Blythe, CA 92225",
+    "latitude": 33.6133545,
+    "longitude": -114.5965691
+  },
+  {
+    "name": "Bodega Volunteer Fire Dept",
+    "address": "17184 Bodega Hwy, Bodega, CA 94922",
+    "latitude": 38.3458143,
+    "longitude": -122.9733784
+  },
+  {
+    "name": "Bolinas Fire Protection Dist",
+    "address": "100 Mesa Rd, Bolinas, CA 94924",
+    "latitude": 37.9107977,
+    "longitude": -122.6973971
+  },
+  {
+    "name": "Boonville Fire Dept",
+    "address": "14281 Highway 128, Boonville, CA 95415",
+    "latitude": 39.007134,
+    "longitude": -123.3648129
+  },
+  {
+    "name": "Boron Fire Station",
+    "address": "26965 Cote St, Boron, CA 93516",
+    "latitude": 35.0032456,
+    "longitude": -117.6505837
+  },
+  {
+    "name": "Borrego Springs Fire Dist",
+    "address": "2324 Stirrup Rd, Borrego Springs, CA 92004",
+    "latitude": 33.2614657,
+    "longitude": -116.3715469
+  },
+  {
+    "name": "Boulder Creek Fire Dept",
+    "address": "13230 Highway 9, Boulder Creek, CA 95006",
+    "latitude": 37.1257883,
+    "longitude": -122.12213
+  },
+  {
+    "name": "Brawley Fire Dept",
+    "address": "220 Main St, Brawley, CA 92227",
+    "latitude": 32.978373,
+    "longitude": -115.5391491
+  },
+  {
+    "name": "Brea Fire Dept",
+    "address": "1 Civic Center Cir, Brea, CA 92821",
+    "latitude": 33.9170238,
+    "longitude": -117.8889357
+  },
+  {
+    "name": "Brea Fire Prevention",
+    "address": "1 Civic Center Cir, Brea, CA 92821",
+    "latitude": 33.9170238,
+    "longitude": -117.8889357
+  },
+  {
+    "name": "Brentwood Fire Dept",
+    "address": "2400 Sand Creek Rd, Brentwood, CA 94513",
+    "latitude": 37.9418666,
+    "longitude": -121.737713
+  },
+  {
+    "name": "Bridgeville Volunteer Fire",
+    "address": "38717 Kneeland Rd, Bridgeville, CA 95526",
+    "latitude": 40.4713861,
+    "longitude": -123.7958215
+  },
+  {
+    "name": "Brisbane Fire Dept",
+    "address": "3445 Bayshore Blvd, Brisbane, CA 94005",
+    "latitude": 37.6876469,
+    "longitude": -122.4000252
+  },
+  {
+    "name": "Brooktrails Fire Dept",
+    "address": "24860 Birch St, Willits, CA 95490",
+    "latitude": 39.4370369,
+    "longitude": -123.384891
+  },
+  {
+    "name": "Browns Valley Community Svc",
+    "address": "9471 Browns Valley School Rd, Browns Valley, CA 95918",
+    "latitude": 39.2341872,
+    "longitude": -121.4080066
+  },
+  {
+    "name": "Burbank Fire Dept",
+    "address": "311 E Orange Grove Ave, Burbank, CA 91502",
+    "latitude": 34.1831997,
+    "longitude": -118.3082872
+  },
+  {
+    "name": "Burlingame Fire Dept",
+    "address": "1399 Rollins Rd, Burlingame, CA 94010",
+    "latitude": 37.5908917,
+    "longitude": -122.3673616
+  },
+  {
+    "name": "Burson Fire Dept",
+    "address": "3061 W Hwy 12, Burson, CA 95225",
+    "latitude": 38.1826987,
+    "longitude": -120.8862052
+  },
+  {
+    "name": "Calexico Fire Dept",
+    "address": "430 E 5th St, Calexico, CA 92231",
+    "latitude": 32.6696479,
+    "longitude": -115.4918652
+  },
+  {
+    "name": "California City Fire Chief",
+    "address": "20890 Hacienda Blvd, California City, CA 93505",
+    "latitude": 35.1235176,
+    "longitude": -117.9594078
+  },
+  {
+    "name": "California City Fire Dept",
+    "address": "20890 Hacienda Blvd, California City, CA 93505",
+    "latitude": 35.1235176,
+    "longitude": -117.9594078
+  },
+  {
+    "name": "California Conservation Corps",
+    "address": "15108 Sunrise Hwy, Julian, CA 92036",
+    "latitude": 32.9850611,
+    "longitude": -116.5412765
+  },
+  {
+    "name": "California Department-Forestry",
+    "address": "2840 Mount Danaher Rd, Camino, CA 95709",
+    "latitude": 38.74387,
+    "longitude": -120.6671321
+  },
+  {
+    "name": "Calimesa Fire Dept",
+    "address": "906 Park Ave, Calimesa, CA 92320",
+    "latitude": 34.0035338,
+    "longitude": -117.0587086
+  },
+  {
+    "name": "Calipatria Fire Dept",
+    "address": "125 N Park Ave, Calipatria, CA 92233",
+    "latitude": 33.126552,
+    "longitude": -115.5160629
+  },
+  {
+    "name": "Calistoga Fire Dept",
+    "address": "1113 Washington St, Calistoga, CA 94515",
+    "latitude": 38.5780889,
+    "longitude": -122.57829
+  },
+  {
+    "name": "Camarillo Fire Dept",
+    "address": "2160 Pickwick Dr, Camarillo, CA 93010",
+    "latitude": 34.2218258,
+    "longitude": -119.0407682
+  },
+  {
+    "name": "Cambria Fire Dept",
+    "address": "1650 Main St, Cambria, CA 93428",
+    "latitude": 35.5631941,
+    "longitude": -121.0865893
+  },
+  {
+    "name": "Camp Pendleton Fire Dept",
+    "address": "1401 Vandegrift Blvd, Camp Pendleton, CA 92055",
+    "latitude": 33.3085395,
+    "longitude": -117.3112023
+  },
+  {
+    "name": "Campbell Fire Dept",
+    "address": "1234 E Campbell Ave, Campbell, CA 95008",
+    "latitude": 37.2866166,
+    "longitude": -121.9275887
+  },
+  {
+    "name": "Canby Fire Dept",
+    "address": "110 County Road 213, Canby, CA 96015",
+    "latitude": 41.443412,
+    "longitude": -120.8707782
+  },
+  {
+    "name": "Capay Fire Protection Dist",
+    "address": "14215 State Highway 16, Brooks, CA 95606",
+    "latitude": 38.731803,
+    "longitude": -122.1430954
+  },
+  {
+    "name": "Capitola Fire Dept",
+    "address": "405 Capitola Ave, Capitola, CA 95010",
+    "latitude": 36.97404119999999,
+    "longitude": -121.9535958
+  },
+  {
+    "name": "Carlsbad Fire Dept",
+    "address": "2560 Orion Way, Carlsbad, CA 92008",
+    "latitude": 33.1375702,
+    "longitude": -117.2655641
+  },
+  {
+    "name": "Carmel Fire Dept",
+    "address": "Junipero Ave & 4th Ave, Carmel, CA 93923",
+    "latitude": 36.5581326,
+    "longitude": -121.9199575
+  },
+  {
+    "name": "Carmel Valley Fire Dept",
+    "address": "8455 Carmel Valley Rd, Carmel, CA 93923",
+    "latitude": 36.5304633,
+    "longitude": -121.827903
+  },
+  {
+    "name": "Carpinteria Fire Dept",
+    "address": "911 Walnut Ave, Carpinteria, CA 93013",
+    "latitude": 34.3968465,
+    "longitude": -119.517526
+  },
+  {
+    "name": "Carson Fire Dept",
+    "address": "21356 Avalon Blvd, Carson, CA 90745",
+    "latitude": 33.8344333,
+    "longitude": -118.2630541
+  },
+  {
+    "name": "Castaic Fire Station",
+    "address": "31865 Castaic Rd, Castaic, CA 91384",
+    "latitude": 34.4980426,
+    "longitude": -118.6241088
+  },
+  {
+    "name": "Cathedral City Fire Dept",
+    "address": "32100 Desert Vista Rd, Cathedral City, CA 92234",
+    "latitude": 33.8149969,
+    "longitude": -116.461263
+  },
+  {
+    "name": "Cathedral City Fire Prevention",
+    "address": "32100 Desert Vista Rd, Cathedral City, CA 92234",
+    "latitude": 33.8149969,
+    "longitude": -116.461263
+  },
+  {
+    "name": "Catheys Valley Volunteers Fire",
+    "address": "2820 State Highway 140, Catheys Valley, CA 95306",
+    "latitude": 37.4375718,
+    "longitude": -120.0867731
+  },
+  {
+    "name": "Cayucos Fire Dept",
+    "address": "201 Cayucos Dr, Cayucos, CA 93430",
+    "latitude": 35.4504248,
+    "longitude": -120.9054578
+  },
+  {
+    "name": "Cdf/Manton Fire Station",
+    "address": "21840 Ponderosa Way, Manton, CA 96059",
+    "latitude": 40.424487,
+    "longitude": -121.814139
+  },
+  {
+    "name": "Cedar Valley Fire Department",
+    "address": "44907 Lakeside Dr, Oakhurst, CA 93644",
+    "latitude": 37.4023487,
+    "longitude": -119.6220029
+  },
+  {
+    "name": "Cedarville Fire Dept",
+    "address": "461 Main St, Cedarville, CA 96104",
+    "latitude": 41.5272048,
+    "longitude": -120.1715579
+  },
+  {
+    "name": "Cedarville Fire Station",
+    "address": "461 Main St, Cedarville, CA 96104",
+    "latitude": 41.5272048,
+    "longitude": -120.1715579
+  },
+  {
+    "name": "Cedarville Volunteer Fire Dept",
+    "address": "461 Main St, Cedarville, CA 96104",
+    "latitude": 41.5272048,
+    "longitude": -120.1715579
+  },
+  {
+    "name": "Central Calaveras Fire & Rescu",
+    "address": "8019 Washington, Mountain Ranch, CA 95246",
+    "latitude": 38.2276209,
+    "longitude": -120.5422505
+  },
+  {
+    "name": "Central Calaveras Fire Protect",
+    "address": "19927 Jesus Maria Rd, Mokelumne Hill, CA 95245",
+    "latitude": 38.2842904,
+    "longitude": -120.5116943
+  },
+  {
+    "name": "Central County Fire Dept",
+    "address": "1399 Rollins Rd, Burlingame, CA 94010",
+    "latitude": 37.5908917,
+    "longitude": -122.3673616
+  },
+  {
+    "name": "Central Fire Protection",
+    "address": "930 17th Ave, Santa Cruz, CA 95062",
+    "latitude": 36.9679639,
+    "longitude": -121.9844032
+  },
+  {
+    "name": "Central Valley Fire Dept",
+    "address": "15380 San Bernardino Ave, Fontana, CA 92335",
+    "latitude": 34.0780327,
+    "longitude": -117.4694899
+  },
+  {
+    "name": "Ceres City Fire Station 1",
+    "address": "2225 North St, Ceres, CA 95307",
+    "latitude": 37.5916657,
+    "longitude": -120.9556613
+  },
+  {
+    "name": "Ceres City Fire Station 2",
+    "address": "830 Pecos Ave, Modesto, CA 95351",
+    "latitude": 37.6164257,
+    "longitude": -120.9819105
+  },
+  {
+    "name": "Ceres Fire Dept",
+    "address": "2727 3rd St, Ceres, CA 95307",
+    "latitude": 37.5923857,
+    "longitude": -120.9549667
+  },
+  {
+    "name": "Ceres Fire Marshal",
+    "address": "2727 3rd St, Ceres, CA 95307",
+    "latitude": 37.5923857,
+    "longitude": -120.9549667
+  },
+  {
+    "name": "Ceres Public Safety Dept",
+    "address": "2225 North St, Ceres, CA 95307",
+    "latitude": 37.5916657,
+    "longitude": -120.9556613
+  },
+  {
+    "name": "Cerritos Fire Dept",
+    "address": "18125 Bloomfield Ave, Cerritos, CA 90703",
+    "latitude": 33.8667832,
+    "longitude": -118.0641246
+  },
+  {
+    "name": "Chester Fire Dept",
+    "address": "Highway 36, Chester, CA 96020",
+    "latitude": 40.2934271,
+    "longitude": -121.2420787
+  },
+  {
+    "name": "Chico City Fire Prevention Bur",
+    "address": "842 Salem St, Chico, CA 95928",
+    "latitude": 39.7243105,
+    "longitude": -121.8373564
+  },
+  {
+    "name": "Chico Fire Dept",
+    "address": "842 Salem St, Chico, CA 95928",
+    "latitude": 39.7243105,
+    "longitude": -121.8373564
+  },
+  {
+    "name": "Chico Fire Training Div",
+    "address": "842 Salem St, Chico, CA 95928",
+    "latitude": 39.7243105,
+    "longitude": -121.8373564
+  },
+  {
+    "name": "Chino Fire Dept",
+    "address": "2005 Grand Ave, Chino Hills, CA 91709",
+    "latitude": 33.9937551,
+    "longitude": -117.7610839
+  },
+  {
+    "name": "Chino Valley Fire Dist",
+    "address": "14011 City Center Dr, Chino Hills, CA 91709",
+    "latitude": 33.9979065,
+    "longitude": -117.7298133
+  },
+  {
+    "name": "Chowchilla Fire Dept",
+    "address": "240 N 1st St, Chowchilla, CA 93610",
+    "latitude": 37.1250588,
+    "longitude": -120.2604549
+  },
+  {
+    "name": "Chula Vista Fire Dept",
+    "address": "447 F St, Chula Vista, CA 91910",
+    "latitude": 32.6399432,
+    "longitude": -117.085774
+  },
+  {
+    "name": "Citrus Heights Fire Dept",
+    "address": "7641 Greenback Ln, Citrus Heights, CA 95610",
+    "latitude": 38.6788928,
+    "longitude": -121.2834479
+  },
+  {
+    "name": "City Of Angels Fire Dept",
+    "address": "1404 Vallecito Rd, Angels Camp, CA 95222",
+    "latitude": 38.0689324,
+    "longitude": -120.537354
+  },
+  {
+    "name": "Claremont Fire Dept",
+    "address": "100 N College Ave, Claremont, CA 91711",
+    "latitude": 34.0947006,
+    "longitude": -117.7149311
+  },
+  {
+    "name": "Clearlake Fire Dept",
+    "address": "14815 Olympic Dr, Clearlake, CA 95422",
+    "latitude": 38.9611223,
+    "longitude": -122.6348923
+  },
+  {
+    "name": "Clements Fire Station",
+    "address": "18901 E Highway 88, Clements, CA 95227",
+    "latitude": 38.1923334,
+    "longitude": -121.0860311
+  },
+  {
+    "name": "Cloverdale Fire Dept",
+    "address": "116 W 1st St, Cloverdale, CA 95425",
+    "latitude": 38.8050478,
+    "longitude": -123.017977
+  },
+  {
+    "name": "Clovis Fire Dept",
+    "address": "1233 5th St, Clovis, CA 93612",
+    "latitude": 36.8244912,
+    "longitude": -119.6933379
+  },
+  {
+    "name": "Coachella Fire Dept",
+    "address": "1515 6th St, Coachella, CA 92236",
+    "latitude": 33.6795123,
+    "longitude": -116.1762297
+  },
+  {
+    "name": "Coalinga Fire Dept",
+    "address": "300 W Elm Ave, Coalinga, CA 93210",
+    "latitude": 36.1376103,
+    "longitude": -120.3628559
+  },
+  {
+    "name": "Colfax Fire Dept",
+    "address": "33 Church St, Colfax, CA 95713",
+    "latitude": 39.0998649,
+    "longitude": -120.954849
+  },
+  {
+    "name": "Colton Fire Dept",
+    "address": "209 N La Cadena Dr, Colton, CA 92324",
+    "latitude": 34.0670856,
+    "longitude": -117.3242937
+  },
+  {
+    "name": "Colusa Fire Dept",
+    "address": "750 Market St, Colusa, CA 95932",
+    "latitude": 39.215195,
+    "longitude": -122.0116401
+  },
+  {
+    "name": "Commerce Fire Dept",
+    "address": "2535 Commerce Way, Commerce, CA 90040",
+    "latitude": 34.0006804,
+    "longitude": -118.1555649
+  },
+  {
+    "name": "Compton Fire Dept",
+    "address": "201 S Acacia Ave, Compton, CA 90220",
+    "latitude": 33.8949896,
+    "longitude": -118.2266329
+  },
+  {
+    "name": "Contra Costa County Fire",
+    "address": "2945 Treat Blvd, Concord, CA 94518",
+    "latitude": 37.9383095,
+    "longitude": -122.0276079
+  },
+  {
+    "name": "Corcoran Fire Dept",
+    "address": "1131 Hanna Ave, Corcoran, CA 93212",
+    "latitude": 36.0997077,
+    "longitude": -119.5588021
+  },
+  {
+    "name": "Cordelia Fire Protection Dist",
+    "address": "2155 Cordelia Rd, Fairfield, CA 94534",
+    "latitude": 38.2113151,
+    "longitude": -122.1330406
+  },
+  {
+    "name": "Corning Fire Dept",
+    "address": "814 5th St, Corning, CA 96021",
+    "latitude": 39.9272273,
+    "longitude": -122.182389
+  },
+  {
+    "name": "Corona Fire Dept",
+    "address": "815 W 6th St, Corona, CA 92882",
+    "latitude": 33.8771035,
+    "longitude": -117.5769988
+  },
+  {
+    "name": "Coronado Fire Dept",
+    "address": "1001 6th St, Coronado, CA 92118",
+    "latitude": 32.6922165,
+    "longitude": -117.1773453
+  },
+  {
+    "name": "Corte Madera Fire Dept",
+    "address": "342 Tamalpais Dr, Corte Madera, CA 94925",
+    "latitude": 37.9259409,
+    "longitude": -122.5269617
+  },
+  {
+    "name": "Costa Mesa Fire Dept",
+    "address": "800 Baker St, Costa Mesa, CA 92626",
+    "latitude": 33.6804307,
+    "longitude": -117.8898294
+  },
+  {
+    "name": "Cotati Fire Dept",
+    "address": "100 W Sierra Ave, Cotati, CA 94931",
+    "latitude": 38.3249754,
+    "longitude": -122.7075571
+  },
+  {
+    "name": "Covelo Fire Dept",
+    "address": "75900 Covelo Rd, Covelo, CA 95428",
+    "latitude": 39.7870058,
+    "longitude": -123.2487531
+  },
+  {
+    "name": "Covina Fire Dept",
+    "address": "455 N 3rd Ave, Covina, CA 91723",
+    "latitude": 34.0896639,
+    "longitude": -117.8923994
+  },
+  {
+    "name": "Crescent City Fire Dept",
+    "address": "520 I St, Crescent City, CA 95531",
+    "latitude": 41.754087,
+    "longitude": -124.1986779
+  },
+  {
+    "name": "Cressey Fire Department",
+    "address": "9255 Cressey Way, Cressey, CA 95312",
+    "latitude": 37.42213,
+    "longitude": -120.6680333
+  },
+  {
+    "name": "Creston Fire Dept",
+    "address": "5105 O Donovan Rd, Creston, CA 93432",
+    "latitude": 35.5184786,
+    "longitude": -120.522846
+  },
+  {
+    "name": "Crockett Carquinez Fire Dist",
+    "address": "746 Loring Ave, Crockett, CA 94525",
+    "latitude": 38.0561179,
+    "longitude": -122.2176465
+  },
+  {
+    "name": "Cudahy Fire Dept",
+    "address": "4626 Santa Ana St, Cudahy, CA 90201",
+    "latitude": 33.9606324,
+    "longitude": -118.1868146
+  },
+  {
+    "name": "Culver City Fire Dept",
+    "address": "9770 Culver Blvd, Culver City, CA 90232",
+    "latitude": 34.0215692,
+    "longitude": -118.395456
+  },
+  {
+    "name": "Culver City Fire Prevention",
+    "address": "9770 Culver Blvd, Culver City, CA 90232",
+    "latitude": 34.0215692,
+    "longitude": -118.395456
+  },
+  {
+    "name": "Cypress Fire Dept",
+    "address": "5275 Orange Ave, Cypress, CA 90630",
+    "latitude": 33.8248287,
+    "longitude": -118.0405962
+  },
+  {
+    "name": "Daly City Fire Dept",
+    "address": "10 Wembley Dr, Daly City, CA 94015",
+    "latitude": 37.6630437,
+    "longitude": -122.4696685
+  },
+  {
+    "name": "Dana Point Fire Dept",
+    "address": "180 S Water St, Orange, CA 92866",
+    "latitude": 33.7862344,
+    "longitude": -117.8420272
+  },
+  {
+    "name": "Danville Fire Dept",
+    "address": "1500 Bollinger Canyon Rd, San Ramon, CA 94583",
+    "latitude": 37.772074,
+    "longitude": -121.9948512
+  },
+  {
+    "name": "Davis Creek Fire Dept",
+    "address": "Eastside Hwy 395, Davis Creek, CA 96108",
+    "latitude": 41.7332245,
+    "longitude": -120.3718979
+  },
+  {
+    "name": "Davis Fire Dept",
+    "address": "530 5th St, Davis, CA 95616",
+    "latitude": 38.546759,
+    "longitude": -121.7423879
+  },
+  {
+    "name": "Del Mar Fire Dept",
+    "address": "2200 Jimmy Durante Blvd, Del Mar, CA 92014",
+    "latitude": 32.971935,
+    "longitude": -117.2616677
+  },
+  {
+    "name": "Del Rey Fire Station",
+    "address": "9719 E Jefferson Ave, Del Rey, CA 93616",
+    "latitude": 36.6562325,
+    "longitude": -119.6105928
+  },
+  {
+    "name": "Delhi Fire Station",
+    "address": "16056 Locust St, Delhi, CA 95315",
+    "latitude": 37.4307581,
+    "longitude": -120.7785396
+  },
+  {
+    "name": "Denair Fire Dept",
+    "address": "3918 N Gratton Rd, Denair, CA 95316",
+    "latitude": 37.528623,
+    "longitude": -120.7934653
+  },
+  {
+    "name": "Desert Hot Springs Fire Dept",
+    "address": "65958 Pierson Blvd, Desert Hot Springs, CA 92240",
+    "latitude": 33.9618224,
+    "longitude": -116.5105019
+  },
+  {
+    "name": "Diamond Springs Fire Dept",
+    "address": "3732 Diamond Springs Rd, Diamond Springs, CA 95619",
+    "latitude": 38.7017464,
+    "longitude": -120.8181958
+  },
+  {
+    "name": "Dinuba Fire Dept",
+    "address": "496 E Tulare St, Dinuba, CA 93618",
+    "latitude": 36.5434167,
+    "longitude": -119.3863513
+  },
+  {
+    "name": "Dixon Fire Dept",
+    "address": "205 Ford Way, Dixon, CA 95620",
+    "latitude": 38.4577234,
+    "longitude": -121.820199
+  },
+  {
+    "name": "Dorris Volunteer Fire Dept",
+    "address": "307 S Main St, Dorris, CA 96023",
+    "latitude": 41.9638581,
+    "longitude": -121.9179112
+  },
+  {
+    "name": "Dos Palos Fire Dept",
+    "address": "1549 Golden Gate Ave, Dos Palos, CA 93620",
+    "latitude": 36.9849954,
+    "longitude": -120.627495
+  },
+  {
+    "name": "Downey Fire Dept",
+    "address": "11111 Brookshire Ave, Downey, CA 90241",
+    "latitude": 33.9404464,
+    "longitude": -118.128444
+  },
+  {
+    "name": "Downieville Fire Dept",
+    "address": "321 Main St, Downieville, CA 95936",
+    "latitude": 39.560647,
+    "longitude": -120.827481
+  },
+  {
+    "name": "Duarte Fire Dept",
+    "address": "1600 Huntington Dr, Duarte, CA 91010",
+    "latitude": 34.1393558,
+    "longitude": -117.9717995
+  },
+  {
+    "name": "Dublin Fire Dept",
+    "address": "6200 Madigan Dr, Dublin, CA 94568",
+    "latitude": 37.71518140000001,
+    "longitude": -121.8837907
+  },
+  {
+    "name": "Dunsmuir Fire Dept",
+    "address": "5915 Sacramento Ave, Dunsmuir, CA 96025",
+    "latitude": 41.209474,
+    "longitude": -122.2715922
+  },
+  {
+    "name": "East Contra Costa Fire Dist",
+    "address": "3231 Main St, Oakley, CA 94561",
+    "latitude": 37.9971321,
+    "longitude": -121.7181535
+  },
+  {
+    "name": "East Nicolaus Fire Dept",
+    "address": "1981 E Nicolaus Ave, Nicolaus, CA 95659",
+    "latitude": 38.9101325,
+    "longitude": -121.5438546
+  },
+  {
+    "name": "East Palo Alto Fire Dept",
+    "address": "2400 University Ave, East Palo Alto, CA 94303",
+    "latitude": 37.4711862,
+    "longitude": -122.1391008
+  },
+  {
+    "name": "East Sonora Fire Station",
+    "address": "15936 Mono Way, Sonora, CA 95370",
+    "latitude": 37.977501,
+    "longitude": -120.3170807
+  },
+  {
+    "name": "El Cajon Fire Dept",
+    "address": "100 E Lexington Ave, El Cajon, CA 92020",
+    "latitude": 32.7927372,
+    "longitude": -116.9619946
+  },
+  {
+    "name": "El Centro Fire Dept",
+    "address": "1910 N Waterman Ave, El Centro, CA 92243",
+    "latitude": 32.8104014,
+    "longitude": -115.5747358
+  },
+  {
+    "name": "El Cerrito Fire Dept",
+    "address": "10900 San Pablo Ave, El Cerrito, CA 94530",
+    "latitude": 37.9160665,
+    "longitude": -122.3113717
+  },
+  {
+    "name": "El Dorado County Fire Dist",
+    "address": "4040 Carson Rd, Camino, CA 95709",
+    "latitude": 38.7382288,
+    "longitude": -120.6777164
+  },
+  {
+    "name": "El Dorado Hills Fire Dept",
+    "address": "1050 Wilson Blvd, El Dorado Hills, CA 95762",
+    "latitude": 38.667953,
+    "longitude": -121.075381
+  },
+  {
+    "name": "El Monte Fire Dept",
+    "address": "11333 Valley Blvd, El Monte, CA 91731",
+    "latitude": 34.0715889,
+    "longitude": -118.0302756
+  },
+  {
+    "name": "El Segundo Fire Dept",
+    "address": "314 Main St, El Segundo, CA 90245",
+    "latitude": 33.9196022,
+    "longitude": -118.4155344
+  },
+  {
+    "name": "El Sobrante Fire Station",
+    "address": "5111 Appian Way, El Sobrante, CA 94803",
+    "latitude": 37.9769558,
+    "longitude": -122.2956636
+  },
+  {
+    "name": "Elk Grove Fire Dept",
+    "address": "1050 E Elk Grove Blvd, Elk Grove, CA 95624",
+    "latitude": 38.4090001,
+    "longitude": -121.3690714
+  },
+  {
+    "name": "Elk Volunteer Fire Dept",
+    "address": "14183 Highway 1, Elk, CA 95432",
+    "latitude": 39.1318995,
+    "longitude": -123.7179503
+  },
+  {
+    "name": "Encinitas Fire Dept",
+    "address": "505 S Vulcan Ave, Encinitas, CA 92024",
+    "latitude": 33.0454235,
+    "longitude": -117.2914003
+  },
+  {
+    "name": "Escalon Fire Dept",
+    "address": "1749 Coley Ave, Escalon, CA 95320",
+    "latitude": 37.795185,
+    "longitude": -120.9925207
+  },
+  {
+    "name": "Escondido Fire Dept",
+    "address": "1163 N Centre City Pkwy, Escondido, CA 92026",
+    "latitude": 33.1356502,
+    "longitude": -117.0937173
+  },
+  {
+    "name": "Esparto Fire Dept",
+    "address": "16960 Yolo Ave, Esparto, CA 95627",
+    "latitude": 38.6934707,
+    "longitude": -122.0169884
+  },
+  {
+    "name": "Etna Fire Dept",
+    "address": "448 Main St, Etna, CA 96027",
+    "latitude": 41.4562806,
+    "longitude": -122.8938408
+  },
+  {
+    "name": "Eureka Fire Dept",
+    "address": "533 C St, Eureka, CA 95501",
+    "latitude": 40.8009223,
+    "longitude": -124.168679
+  },
+  {
+    "name": "Exeter Fire Dept",
+    "address": "501 W Firebaugh Ave, Exeter, CA 93221",
+    "latitude": 36.2899825,
+    "longitude": -119.1452473
+  },
+  {
+    "name": "Fair Oaks Fire Dept",
+    "address": "7641 Greenback Ln, Citrus Heights, CA 95610",
+    "latitude": 38.6788928,
+    "longitude": -121.2834479
+  },
+  {
+    "name": "Fairfax Fire Dept",
+    "address": "16 Park Rd, Fairfax, CA 94930",
+    "latitude": 37.985569,
+    "longitude": -122.5912045
+  },
+  {
+    "name": "Fairfield Fire Dept",
+    "address": "1200 Kentucky St, Fairfield, CA 94533",
+    "latitude": 38.2522372,
+    "longitude": -122.0494511
+  },
+  {
+    "name": "Fall River Mills Fire Dept",
+    "address": "43155 Highway 299 E, Fall River Mills, CA 96028",
+    "latitude": 41.0050746,
+    "longitude": -121.4375508
+  },
+  {
+    "name": "Fallbrook Fire Dept",
+    "address": "315 E Ivy St, Fallbrook, CA 92028",
+    "latitude": 33.3827879,
+    "longitude": -117.2488844
+  },
+  {
+    "name": "Farmersville Fire Dept",
+    "address": "909 N Virginia St, Farmersville, CA 93223",
+    "latitude": 36.3064516,
+    "longitude": -119.2154544
+  },
+  {
+    "name": "Felton Fire Stations",
+    "address": "6059 Highway 9, Felton, CA 95018",
+    "latitude": 37.0484672,
+    "longitude": -122.0737583
+  },
+  {
+    "name": "Ferndale Fire Dept",
+    "address": "565 Main St, Ferndale, CA 95536",
+    "latitude": 40.57766489999999,
+    "longitude": -124.2625914
+  },
+  {
+    "name": "Fillmore Fire Dept",
+    "address": "250 Central Ave, Fillmore, CA 93015",
+    "latitude": 34.3986106,
+    "longitude": -118.9123885
+  },
+  {
+    "name": "Firebaugh Fire Dept",
+    "address": "1575 11th St, Firebaugh, CA 93622",
+    "latitude": 36.8595664,
+    "longitude": -120.4558808
+  },
+  {
+    "name": "Folsom City Fire Dept",
+    "address": "48 Natoma St, Folsom, CA 95630",
+    "latitude": 38.6821451,
+    "longitude": -121.163664
+  },
+  {
+    "name": "Folsom Fire Dept",
+    "address": "535 Glenn Dr, Folsom, CA 95630",
+    "latitude": 38.668413,
+    "longitude": -121.1654051
+  },
+  {
+    "name": "Fontana Fire Dept",
+    "address": "16981 Arrow Blvd, Fontana, CA 92335",
+    "latitude": 34.0989476,
+    "longitude": -117.4338677
+  },
+  {
+    "name": "Foothill Fire Station",
+    "address": "1275 E Foothill Blvd, San Luis Obispo, CA 93405",
+    "latitude": 35.2954569,
+    "longitude": -120.6624152
+  },
+  {
+    "name": "Forestry Fire Station",
+    "address": "6185 Elwood Rd, Sanger, CA 93657",
+    "latitude": 36.8127181,
+    "longitude": -119.3820556
+  },
+  {
+    "name": "Foresthill Fire Dept",
+    "address": "24320 Main St, Foresthill, CA 95631",
+    "latitude": 39.01913030000001,
+    "longitude": -120.8213789
+  },
+  {
+    "name": "Forestville Fire Protection",
+    "address": "6554 Mirabel Rd, Forestville, CA 95436",
+    "latitude": 38.47523710000001,
+    "longitude": -122.8955339
+  },
+  {
+    "name": "Fort Bragg Fire Dept",
+    "address": "141 N Main St, Fort Bragg, CA 95437",
+    "latitude": 39.4423917,
+    "longitude": -123.8063572
+  },
+  {
+    "name": "Fort Jones Fire Dept",
+    "address": "31 Quarry Rd, Fort Jones, CA 96032",
+    "latitude": 41.6076387,
+    "longitude": -122.8403099
+  },
+  {
+    "name": "Fort Jones Fire Hall",
+    "address": "31 Newton St, Fort Jones, CA 96032",
+    "latitude": 41.6064368,
+    "longitude": -122.8433937
+  },
+  {
+    "name": "Fortuna Fire Dept",
+    "address": "320 S Fortuna Blvd, Fortuna, CA 95540",
+    "latitude": 40.5891926,
+    "longitude": -124.1476817
+  },
+  {
+    "name": "Foster City Fire Dept",
+    "address": "1040 E Hillsdale Blvd, Foster City, CA 94404",
+    "latitude": 37.5599742,
+    "longitude": -122.2696445
+  },
+  {
+    "name": "Fountain Valley Fire Dept",
+    "address": "10200 Slater Ave, Fountain Valley, CA 92708",
+    "latitude": 33.7086432,
+    "longitude": -117.9521821
+  },
+  {
+    "name": "Fountain Valley Fire Marshall",
+    "address": "10200 Slater Ave, Fountain Valley, CA 92708",
+    "latitude": 33.7086432,
+    "longitude": -117.9521821
+  },
+  {
+    "name": "Fowler Fire Dept",
+    "address": "128 S 5th St, Fowler, CA 93625",
+    "latitude": 36.6302864,
+    "longitude": -119.6772301
+  },
+  {
+    "name": "Fremont Fire Dept",
+    "address": "39100 Liberty St, Fremont, CA 94538",
+    "latitude": 37.55114289999999,
+    "longitude": -121.9825955
+  },
+  {
+    "name": "Fremont Fire Dept-Weed Abtmnt",
+    "address": "39100 Liberty St, Fremont, CA 94538",
+    "latitude": 37.55114289999999,
+    "longitude": -121.9825955
+  },
+  {
+    "name": "French Camp Fire District",
+    "address": "310 E French Camp Rd, French Camp, CA 95231",
+    "latitude": 37.8827796,
+    "longitude": -121.2694688
+  },
+  {
+    "name": "Fresno County Fire District",
+    "address": "4706 E Drummond Ave, Fresno, CA 93725",
+    "latitude": 36.7057255,
+    "longitude": -119.7412014
+  },
+  {
+    "name": "Fresno Fire Dept",
+    "address": "911 H St, Fresno, CA 93721",
+    "latitude": 36.7318088,
+    "longitude": -119.7918763
+  },
+  {
+    "name": "Fullerton Fire Dept",
+    "address": "312 E Commonwealth Ave, Fullerton, CA 92832",
+    "latitude": 33.8700813,
+    "longitude": -117.919183
+  },
+  {
+    "name": "Galt Fire Dept",
+    "address": "229 4th St, Galt, CA 95632",
+    "latitude": 38.2528026,
+    "longitude": -121.305583
+  },
+  {
+    "name": "Garden Grove Fire Dept",
+    "address": "11301 Acacia Pkwy, Garden Grove, CA 92840",
+    "latitude": 33.7763715,
+    "longitude": -117.9357469
+  },
+  {
+    "name": "Gardena Fire Dept",
+    "address": "1650 W 162nd St, Gardena, CA 90247",
+    "latitude": 33.8833794,
+    "longitude": -118.3060502
+  },
+  {
+    "name": "Garfield Fire Station",
+    "address": "1624 E Slauson Ave, Los Angeles, CA 90011",
+    "latitude": 33.9893083,
+    "longitude": -118.2451287
+  },
+  {
+    "name": "Gaviota Fire Station",
+    "address": "100 Hollister Ranch Rd, Gaviota, CA 93117",
+    "latitude": 34.4734147,
+    "longitude": -120.2970966
+  },
+  {
+    "name": "Gazelle Fire Dept",
+    "address": "21133 Gazelle Callahan Rd, Gazelle, CA 96034",
+    "latitude": 41.4823731,
+    "longitude": -122.5729617
+  },
+  {
+    "name": "Georgetown Fire Dept",
+    "address": "6281 Main St, Georgetown, CA 95634",
+    "latitude": 38.90674630000001,
+    "longitude": -120.8390374
+  },
+  {
+    "name": "Geyserville Fire Dept",
+    "address": "20975 Geyserville Ave, Geyserville, CA 95441",
+    "latitude": 38.7056657,
+    "longitude": -122.9034722
+  },
+  {
+    "name": "Gilroy Fire Dept",
+    "address": "7070 Chestnut St, Gilroy, CA 95020",
+    "latitude": 37.0030288,
+    "longitude": -121.5608428
+  },
+  {
+    "name": "Glendale Fire Dept",
+    "address": "421 Oak St, Glendale, CA 91204",
+    "latitude": 34.1436297,
+    "longitude": -118.2613548
+  },
+  {
+    "name": "Glendora Fire Dept",
+    "address": "455 W Gladstone St, Glendora, CA 91740",
+    "latitude": 34.1141871,
+    "longitude": -117.8714161
+  },
+  {
+    "name": "Glennville Fire Station",
+    "address": "10251 Highway 155, Glennville, CA 93226",
+    "latitude": 35.7285341,
+    "longitude": -118.7115601
+  },
+  {
+    "name": "Goleta Fire Dept",
+    "address": "7950 Hollister Ave, Goleta, CA 93117",
+    "latitude": 34.4312622,
+    "longitude": -119.9053811
+  },
+  {
+    "name": "Gonzales Fire Dept",
+    "address": "441 4th St, Gonzales, CA 93926",
+    "latitude": 36.5092316,
+    "longitude": -121.4419111
+  },
+  {
+    "name": "Grass Valley Fire Dept",
+    "address": "125 E Main St, Grass Valley, CA 95945",
+    "latitude": 39.2191483,
+    "longitude": -121.0611449
+  },
+  {
+    "name": "Green Valley Fire Station",
+    "address": "1257 Green Valley Rd, Watsonville, CA 95076",
+    "latitude": 36.9840326,
+    "longitude": -121.7780063
+  },
+  {
+    "name": "Greenfield Fire Dept",
+    "address": "845 Oak Ave, Greenfield, CA 93927",
+    "latitude": 36.3203402,
+    "longitude": -121.2438058
+  },
+  {
+    "name": "Gridley Fire Dept",
+    "address": "460 Kentucky St, Gridley, CA 95948",
+    "latitude": 39.3632329,
+    "longitude": -121.696083
+  },
+  {
+    "name": "Groveland Fire Dept",
+    "address": "18966 Ferretti Rd, Groveland, CA 95321",
+    "latitude": 37.8446677,
+    "longitude": -120.2262566
+  },
+  {
+    "name": "Grover Beach Fire Dept",
+    "address": "701 Rockaway Ave, Grover Beach, CA 93433",
+    "latitude": 35.1207721,
+    "longitude": -120.622537
+  },
+  {
+    "name": "Guadalupe Fire Dept",
+    "address": "918 Obispo St, Guadalupe, CA 93434",
+    "latitude": 34.9694849,
+    "longitude": -120.5688772
+  },
+  {
+    "name": "Guerneville Fire Dept",
+    "address": "14700 Armstrong Woods Rd, Guerneville, CA 95446",
+    "latitude": 38.5112892,
+    "longitude": -122.9958627
+  },
+  {
+    "name": "Gustine Fire Dept",
+    "address": "686 3rd Ave, Gustine, CA 95322",
+    "latitude": 37.2566052,
+    "longitude": -121.0018169
+  },
+  {
+    "name": "Half Moon Bay Fire Dept",
+    "address": "501 St Francis St, Half Moon Bay, CA 94019",
+    "latitude": 37.4635519,
+    "longitude": -122.4285862
+  },
+  {
+    "name": "Hamilton City Fire Dept",
+    "address": "420 1st St, Hamilton City, CA 95951",
+    "latitude": 39.7385353,
+    "longitude": -122.0115519
+  },
+  {
+    "name": "Hanford Fire Dept",
+    "address": "350 W Grangeville Blvd, Hanford, CA 93230",
+    "latitude": 36.3430849,
+    "longitude": -119.6501799
+  },
+  {
+    "name": "Happy Camp Fire Dept",
+    "address": "38 Park Way, Happy Camp, CA 96039",
+    "latitude": 41.7960082,
+    "longitude": -123.3739103
+  },
+  {
+    "name": "Hawaiian Gardens Fire Dept",
+    "address": "12310 Civic Center Dr, Hawaiian Gardens, CA 90716",
+    "latitude": 33.8295627,
+    "longitude": -118.0720534
+  },
+  {
+    "name": "Hawthorne Fire Dept",
+    "address": "4475 W 126th St, Hawthorne, CA 90250",
+    "latitude": 33.9185205,
+    "longitude": -118.3544318
+  },
+  {
+    "name": "Hayward Fire Dept",
+    "address": "22770 Main St, Hayward, CA 94541",
+    "latitude": 37.6713022,
+    "longitude": -122.0807485
+  },
+  {
+    "name": "Healdsburg Fire Dept",
+    "address": "601 Healdsburg Ave, Healdsburg, CA 95448",
+    "latitude": 38.6161349,
+    "longitude": -122.8723335
+  },
+  {
+    "name": "Hemet Fire Dept",
+    "address": "510 E Florida Ave, Hemet, CA 92543",
+    "latitude": 33.747818,
+    "longitude": -116.9671112
+  },
+  {
+    "name": "Hercules Fire Dept",
+    "address": "1680 Refugio Valley Rd, Hercules, CA 94547",
+    "latitude": 38.0045445,
+    "longitude": -122.2630957
+  },
+  {
+    "name": "Hermosa Beach Fire Dept",
+    "address": "540 Pier Ave, Hermosa Beach, CA 90254",
+    "latitude": 33.8641375,
+    "longitude": -118.3958848
+  },
+  {
+    "name": "Hesperia Fire Dept",
+    "address": "17288 Olive St, Hesperia, CA 92345",
+    "latitude": 34.4158452,
+    "longitude": -117.2858437
+  },
+  {
+    "name": "Highland Fire Station",
+    "address": "26974 Baseline St, Highland, CA 92346",
+    "latitude": 34.12154659999999,
+    "longitude": -117.2160115
+  },
+  {
+    "name": "Hollister Fire Dept",
+    "address": "110 5th St, Hollister, CA 95023",
+    "latitude": 36.8517213,
+    "longitude": -121.4003199
+  },
+  {
+    "name": "Holtville Fire Dept",
+    "address": "645 Pine Ave, Holtville, CA 92250",
+    "latitude": 32.8136966,
+    "longitude": -115.3816989
+  },
+  {
+    "name": "Hornbrook Fire Protection",
+    "address": "15321 Hornbrook Rd, Hornbrook, CA 96044",
+    "latitude": 41.90624649999999,
+    "longitude": -122.5568744
+  },
+  {
+    "name": "Hughson Fire Dept",
+    "address": "2317 Charles St, Hughson, CA 95326",
+    "latitude": 37.59743,
+    "longitude": -120.8658359
+  },
+  {
+    "name": "Humboldt Fire Protection Dist",
+    "address": "5333 Myrtle Ave, Eureka, CA 95503",
+    "latitude": 40.7842816,
+    "longitude": -124.0991611
+  },
+  {
+    "name": "Huntington Beach Fire Dept",
+    "address": "2000 Main St, Huntington Beach, CA 92648",
+    "latitude": 33.6779666,
+    "longitude": -118.0010588
+  },
+  {
+    "name": "Huntington Park Fire Dept",
+    "address": "6301 Santa Fe Ave, Huntington Park, CA 90255",
+    "latitude": 33.9833205,
+    "longitude": -118.230615
+  },
+  {
+    "name": "Huron Fire Dept",
+    "address": "36000 Lassen Ave, Huron, CA 93234",
+    "latitude": 36.2104143,
+    "longitude": -120.1035885
+  },
+  {
+    "name": "Idyllwild Fire Protection",
+    "address": "54160 Maranatha Dr, Idyllwild, CA 92549",
+    "latitude": 33.7472596,
+    "longitude": -116.7156649
+  },
+  {
+    "name": "Imperial Beach Fire Dept",
+    "address": "865 Imperial Beach Blvd, Imperial Beach, CA 91932",
+    "latitude": 32.5762538,
+    "longitude": -117.1151914
+  },
+  {
+    "name": "Imperial Fire Dept",
+    "address": "230 S H St, Imperial, CA 92251",
+    "latitude": 32.8458265,
+    "longitude": -115.5709452
+  },
+  {
+    "name": "Independence Fire Dept",
+    "address": "202 S Main St, Independence, CA 93526",
+    "latitude": 36.8031276,
+    "longitude": -118.2033189
+  },
+  {
+    "name": "Indian Wells Fire Dept",
+    "address": "44900 Eldorado Dr, Indian Wells, CA 92210",
+    "latitude": 33.7133254,
+    "longitude": -116.3395288
+  },
+  {
+    "name": "Indio Fire Dept",
+    "address": "46990 Jackson St, Indio, CA 92201",
+    "latitude": 33.7080636,
+    "longitude": -116.2159317
+  },
+  {
+    "name": "Inglewood Fire Dept",
+    "address": "323 N Prairie Ave, Inglewood, CA 90301",
+    "latitude": 33.9663825,
+    "longitude": -118.3442772
+  },
+  {
+    "name": "Inverness Volunteer Fire Dept",
+    "address": "50 Inverness Way, Inverness, CA 94937",
+    "latitude": 38.0969415,
+    "longitude": -122.8544167
+  },
+  {
+    "name": "Ione Fire Dept",
+    "address": "85 W Main St, Ione, CA 95640",
+    "latitude": 38.3525401,
+    "longitude": -120.9343174
+  },
+  {
+    "name": "Irvine Fire Dept",
+    "address": "1 Civic Center Plz, Irvine, CA 92606",
+    "latitude": 33.6861936,
+    "longitude": -117.8262888
+  },
+  {
+    "name": "Irwindale Fire Dept",
+    "address": "5200 Irwindale Ave, Irwindale, CA 91706",
+    "latitude": 34.1075851,
+    "longitude": -117.9334866
+  },
+  {
+    "name": "Isleton Fire Dept",
+    "address": "100 2nd St, Isleton, CA 95641",
+    "latitude": 38.1616788,
+    "longitude": -121.612574
+  },
+  {
+    "name": "Jackson Fire Dept",
+    "address": "33 Broadway, Jackson, CA 95642",
+    "latitude": 38.3475167,
+    "longitude": -120.7730387
+  },
+  {
+    "name": "Jamestown Fire Dept",
+    "address": "18250 Main St, Jamestown, CA 95327",
+    "latitude": 37.9539411,
+    "longitude": -120.4230247
+  },
+  {
+    "name": "Julian Fire Station",
+    "address": "2727 Farmer Rd, Julian, CA 92036",
+    "latitude": 33.0798667,
+    "longitude": -116.6041322
+  },
+  {
+    "name": "Jurupa Valley Fire Station",
+    "address": "5870 Mission Blvd, Jurupa Valley, CA 92509",
+    "latitude": 33.9998984,
+    "longitude": -117.4155703
+  },
+  {
+    "name": "Kelseyville Fire Dept",
+    "address": "4020 Main St, Kelseyville, CA 95451",
+    "latitude": 38.9780472,
+    "longitude": -122.8370887
+  },
+  {
+    "name": "Kentfield Fire Protection",
+    "address": "1004 Sir Francis Drake Blvd, Kentfield, CA 94904",
+    "latitude": 37.95611,
+    "longitude": -122.5475285
+  },
+  {
+    "name": "Kernville Fire Station",
+    "address": "76 Kernville Rd, Kernville, CA 93238",
+    "latitude": 35.7553303,
+    "longitude": -118.4214063
+  },
+  {
+    "name": "Keyes Fire Dept",
+    "address": "5601 7th St, Keyes, CA 95328",
+    "latitude": 37.55318940000001,
+    "longitude": -120.9119047
+  },
+  {
+    "name": "King City Fire Dept",
+    "address": "212 S Vanderhurst Ave, King City, CA 93930",
+    "latitude": 36.2106874,
+    "longitude": -121.126968
+  },
+  {
+    "name": "Kingsburg Fire Dept",
+    "address": "1460 Marion St, Kingsburg, CA 93631",
+    "latitude": 36.5143867,
+    "longitude": -119.5519385
+  },
+  {
+    "name": "Knights Landing Fire Dept",
+    "address": "42151 4th St, Knights Landing, CA 95645",
+    "latitude": 38.8004198,
+    "longitude": -121.7209458
+  },
+  {
+    "name": "La Canada Flintridge Fire",
+    "address": "1327 Foothill Blvd, La Canada Flintridge, CA 91011",
+    "latitude": 34.2077977,
+    "longitude": -118.206944
+  },
+  {
+    "name": "La Habra Fire Dept",
+    "address": "520 S Harbor Blvd, La Habra, CA 90631",
+    "latitude": 33.9269781,
+    "longitude": -117.9326151
+  },
+  {
+    "name": "La Habra Heights Fire Dept",
+    "address": "1245 N Hacienda Rd, La Habra Heights, CA 90631",
+    "latitude": 33.9471048,
+    "longitude": -117.9654817
+  },
+  {
+    "name": "La Mesa Fire Dept",
+    "address": "8054 Allison Ave, La Mesa, CA 91942",
+    "latitude": 32.7663561,
+    "longitude": -117.024098
+  },
+  {
+    "name": "La Verne Fire Dept",
+    "address": "2061 3rd St, La Verne, CA 91750",
+    "latitude": 34.100972,
+    "longitude": -117.7713449
+  },
+  {
+    "name": "Lafayette Fire Dept",
+    "address": "3333 Mt Diablo Blvd, Lafayette, CA 94549",
+    "latitude": 37.89534099999999,
+    "longitude": -122.1041371
+  },
+  {
+    "name": "Laguna Beach Fire Dept",
+    "address": "505 Forest Ave, Laguna Beach, CA 92651",
+    "latitude": 33.521206,
+    "longitude": -117.755867
+  },
+  {
+    "name": "Lake Arrowhead Fire Station",
+    "address": "301 S State Hwy 173, Lake Arrowhead, CA 92352",
+    "latitude": 34.2476043,
+    "longitude": -117.1895431
+  },
+  {
+    "name": "Lake County Fire Protection",
+    "address": "14815 Olympic Dr, Clearlake, CA 95422",
+    "latitude": 38.9611223,
+    "longitude": -122.6348923
+  },
+  {
+    "name": "Lake Forest Fire Station",
+    "address": "24252 Trabuco Rd, Lake Forest, CA 92630",
+    "latitude": 33.6546187,
+    "longitude": -117.7021712
+  },
+  {
+    "name": "Lake Isabella Fire Station",
+    "address": "5108 Lake Isabella Blvd, Lake Isabella, CA 93240",
+    "latitude": 35.6107597,
+    "longitude": -118.4819164
+  },
+  {
+    "name": "Lake Morena Fire Station",
+    "address": "29690 Oak Dr, Campo, CA 91906",
+    "latitude": 32.6794729,
+    "longitude": -116.5074662
+  },
+  {
+    "name": "Lake Shastina Fire Dept",
+    "address": "16309 Lake Shastina Dr, Weed, CA 96094",
+    "latitude": 41.5233092,
+    "longitude": -122.3681314
+  },
+  {
+    "name": "Lake Valley Fire Protection",
+    "address": "2211 Keetner Rd, South Lake Tahoe, CA 96150",
+    "latitude": 38.9601546,
+    "longitude": -119.9484725
+  },
+  {
+    "name": "Lakeport Fire Dept",
+    "address": "445 N Main St, Lakeport, CA 95453",
+    "latitude": 39.0450733,
+    "longitude": -122.9155104
+  },
+  {
+    "name": "Lakeside Fire Protection Dist",
+    "address": "12365 Parkside St, Lakeside, CA 92040",
+    "latitude": 32.8579079,
+    "longitude": -116.9234559
+  },
+  {
+    "name": "Lakeville Volunteer Fire Dept",
+    "address": "5100 Lakeville Hwy, Petaluma, CA 94954",
+    "latitude": 38.2123269,
+    "longitude": -122.5493212
+  },
+  {
+    "name": "Lamont Fire Station",
+    "address": "7909 Myrtle Ave, Lamont, CA 93241",
+    "latitude": 35.2667374,
+    "longitude": -118.9099158
+  },
+  {
+    "name": "Lancaster Fire Dept",
+    "address": "1650 W Avenue L, Lancaster, CA 93534",
+    "latitude": 34.6599874,
+    "longitude": -118.1603459
+  },
+  {
+    "name": "Larkspur Fire Dept",
+    "address": "420 Magnolia Ave, Larkspur, CA 94939",
+    "latitude": 37.9345535,
+    "longitude": -122.5353464
+  },
+  {
+    "name": "Lassen County Fire Dept",
+    "address": "711-045 Center Rd, Susanville, CA 96130",
+    "latitude": 40.399577,
+    "longitude": -120.5145854
+  },
+  {
+    "name": "Lathrop Manteca Fire Dist",
+    "address": "800 E J St, Lathrop, CA 95330",
+    "latitude": 37.8227559,
+    "longitude": -121.2782495
+  },
+  {
+    "name": "Laton Volunteer Fire Dept",
+    "address": "2901 S Cedar Ave, Laton, CA 93242",
+    "latitude": 36.6162842,
+    "longitude": -119.7548679
+  },
+  {
+    "name": "Lawndale Fire Dept",
+    "address": "15300 Mansel Ave, Lawndale, CA 90260",
+    "latitude": 33.8922356,
+    "longitude": -118.3556641
+  },
+  {
+    "name": "Laytonville Fire Dept",
+    "address": "44920 Willis Ave, Laytonville, CA 95454",
+    "latitude": 39.6866393,
+    "longitude": -123.4853576
+  },
+  {
+    "name": "Lemon Grove Fire Dept",
+    "address": "7853 Central Ave, Lemon Grove, CA 91945",
+    "latitude": 32.7387934,
+    "longitude": -117.0299953
+  },
+  {
+    "name": "Lemoore Fire Dept",
+    "address": "210 W Hanford Armona Rd, Lemoore, CA 93245",
+    "latitude": 36.3137556,
+    "longitude": -119.7845819
+  },
+  {
+    "name": "Lewiston Volunteer Fire Dept",
+    "address": "200 Texas Ave, Lewiston, CA 96052",
+    "latitude": 40.6981649,
+    "longitude": -122.8062388
+  },
+  {
+    "name": "Liberty Fire Station",
+    "address": "20800 E Avenue I, Lancaster, CA 93535",
+    "latitude": 34.7046937,
+    "longitude": -117.7597036
+  },
+  {
+    "name": "Lincoln Fire Dept",
+    "address": "316 1st St, Lincoln, CA 95648",
+    "latitude": 38.8865155,
+    "longitude": -121.2884222
+  },
+  {
+    "name": "Linden Peters Fire Dept",
+    "address": "17725 E Milton Rd, Linden, CA 95236",
+    "latitude": 37.9846297,
+    "longitude": -121.098445
+  },
+  {
+    "name": "Little Lake Fire Prtctn Dist",
+    "address": "74 E Commercial St, Willits, CA 95490",
+    "latitude": 39.4127184,
+    "longitude": -123.3535683
+  },
+  {
+    "name": "Little Valley Fire Dept",
+    "address": "PO Box 6, Little Valley, CA 96056",
+    "latitude": 40.89415890000001,
+    "longitude": -121.1766214
+  },
+  {
+    "name": "Live Oak Fire Dept",
+    "address": "2745 Fir St, Live Oak, CA 95953",
+    "latitude": 39.2741785,
+    "longitude": -121.6644747
+  },
+  {
+    "name": "Livermore Fire Dept",
+    "address": "4550 East Ave, Livermore, CA 94550",
+    "latitude": 37.6802754,
+    "longitude": -121.7395288
+  },
+  {
+    "name": "Livermore Fire Prevention",
+    "address": "3560 Nevada, Pleasanton, CA 94566",
+    "latitude": 37.6664875,
+    "longitude": -121.857195
+  },
+  {
+    "name": "Livingston Fire Dept",
+    "address": "1430 C St, Livingston, CA 95334",
+    "latitude": 37.384988,
+    "longitude": -120.7225659
+  },
+  {
+    "name": "Lodi Fire Dept",
+    "address": "217 W Elm St, Lodi, CA 95240",
+    "latitude": 38.1357936,
+    "longitude": -121.276995
+  },
+  {
+    "name": "Loma Linda Fire Dept",
+    "address": "11325 Loma Linda Dr, Loma Linda, CA 92354",
+    "latitude": 34.047206,
+    "longitude": -117.2477129
+  },
+  {
+    "name": "Loma Linda Fire Prevention",
+    "address": "25541 Barton Rd, Loma Linda, CA 92354",
+    "latitude": 34.0478032,
+    "longitude": -117.2467322
+  },
+  {
+    "name": "Lompoc Fire Dept",
+    "address": "115 S G St, Lompoc, CA 93436",
+    "latitude": 34.6383121,
+    "longitude": -120.4568986
+  },
+  {
+    "name": "Long Barn Fire Department",
+    "address": "25910 Long Barn Dr, Long Barn, CA 95335",
+    "latitude": 38.0915381,
+    "longitude": -120.1379549
+  },
+  {
+    "name": "Long Beach Fire Dept",
+    "address": "3205 Lakewood Blvd, Long Beach, CA 90808",
+    "latitude": 33.8152298,
+    "longitude": -118.1396288
+  },
+  {
+    "name": "Loomis Fire Protection Dist",
+    "address": "5840 Horseshoe Bar Rd, Loomis, CA 95650",
+    "latitude": 38.8209251,
+    "longitude": -121.1929031
+  },
+  {
+    "name": "Los Alamitos Fire Dept",
+    "address": "3642 Green Ave, Los Alamitos, CA 90720",
+    "latitude": 33.8016738,
+    "longitude": -118.0696162
+  },
+  {
+    "name": "Los Alamos Fire Station",
+    "address": "320 W Orchard St, Los Alamos, CA 93440",
+    "latitude": 34.7444264,
+    "longitude": -120.2782114
+  },
+  {
+    "name": "Los Altos Fire Station",
+    "address": "10 S San Antonio Rd, Los Altos, CA 94022",
+    "latitude": 37.3811649,
+    "longitude": -122.1141141
+  },
+  {
+    "name": "Los Angeles Fire Dept",
+    "address": "200 N Main St, Los Angeles, CA 90012",
+    "latitude": 34.0530795,
+    "longitude": -118.2418352
+  },
+  {
+    "name": "Los Banos Fire Dept",
+    "address": "333 7th St, Los Banos, CA 93635",
+    "latitude": 37.0660888,
+    "longitude": -120.843
+  },
+  {
+    "name": "Los Gatos Fire Dept",
+    "address": "306 University Ave, Los Gatos, CA 95030",
+    "latitude": 37.2268208,
+    "longitude": -121.9798725
+  },
+  {
+    "name": "Los Osos Fire Station",
+    "address": "2315 Bayview Heights Dr, Los Osos, CA 93402",
+    "latitude": 35.3093776,
+    "longitude": -120.833913
+  },
+  {
+    "name": "Loyalton Fire Dept",
+    "address": "605 Main St, Loyalton, CA 96118",
+    "latitude": 39.6760656,
+    "longitude": -120.2426246
+  },
+  {
+    "name": "Lynwood Fire Dept",
+    "address": "3161 E Imperial Hwy, Lynwood, CA 90262",
+    "latitude": 33.930556,
+    "longitude": -118.2140928
+  },
+  {
+    "name": "Madera Fire Dept",
+    "address": "200 S Schnoor St, Madera, CA 93637",
+    "latitude": 36.9495801,
+    "longitude": -120.0837028
+  },
+  {
+    "name": "Madison Fire Protection Dist",
+    "address": "17880 Stephens St, Madison, CA 95653",
+    "latitude": 38.6800175,
+    "longitude": -121.9720763
+  },
+  {
+    "name": "Malibu Fire Dept",
+    "address": "28990 Pacific Coast Hwy, Malibu, CA 90265",
+    "latitude": 34.0213666,
+    "longitude": -118.8035104
+  },
+  {
+    "name": "Mammoth Lakes Fire Dept",
+    "address": "3150 Main St, Mammoth Lakes, CA 93546",
+    "latitude": 37.6478672,
+    "longitude": -118.9679272
+  },
+  {
+    "name": "Manhattan Beach Fire Dept",
+    "address": "400 15th St, Manhattan Beach, CA 90266",
+    "latitude": 33.8878858,
+    "longitude": -118.4093897
+  },
+  {
+    "name": "Manteca Fire Dept",
+    "address": "1154 S Union Rd, Manteca, CA 95337",
+    "latitude": 37.7860699,
+    "longitude": -121.2337188
+  },
+  {
+    "name": "March Arb Fire Dept",
+    "address": "23520 Meyer Dr, March Arb, CA 92518",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Marin County Fire Dept",
+    "address": "33 Castle Rock Dr, Woodacre, CA 94973",
+    "latitude": 38.0071603,
+    "longitude": -122.6354295
+  },
+  {
+    "name": "Marina Fire Dept",
+    "address": "211 Hillcrest Ave, Marina, CA 93933",
+    "latitude": 36.68181939999999,
+    "longitude": -121.8032036
+  },
+  {
+    "name": "Mariposa Fire Dept",
+    "address": "5264 Highway 49 N, Mariposa, CA 95338",
+    "latitude": 37.4962185,
+    "longitude": -119.9797895
+  },
+  {
+    "name": "Martinez Fire Dept",
+    "address": "5215 Imhoff Pl, Martinez, CA 94553",
+    "latitude": 37.9971544,
+    "longitude": -122.0698148
+  },
+  {
+    "name": "Marysville Fire Dept",
+    "address": "107 9th St, Marysville, CA 95901",
+    "latitude": 39.1455305,
+    "longitude": -121.5855622
+  },
+  {
+    "name": "Maywood Fire Dept",
+    "address": "4319 E 54th St, Maywood, CA 90270",
+    "latitude": 33.9925393,
+    "longitude": -118.1885675
+  },
+  {
+    "name": "Mcfarland Fire Dept",
+    "address": "401 W Kern Ave, Mcfarland, CA 93250",
+    "latitude": 35.6777561,
+    "longitude": -119.2326708
+  },
+  {
+    "name": "Mckinleyville Fire Station",
+    "address": "1646 Sutter Rd, Mckinleyville, CA 95519",
+    "latitude": 40.9354822,
+    "longitude": -124.1001023
+  },
+  {
+    "name": "Mendocino Fire Dept",
+    "address": "44700 Little Lake Rd, Mendocino, CA 95460",
+    "latitude": 39.3106712,
+    "longitude": -123.7947233
+  },
+  {
+    "name": "Menifee Fire Station",
+    "address": "26020 Wickerd Rd, Menifee, CA 92584",
+    "latitude": 33.6492817,
+    "longitude": -117.2049003
+  },
+  {
+    "name": "Menlo Park Fire Protection",
+    "address": "300 Middlefield Rd, Menlo Park, CA 94025",
+    "latitude": 37.4563611,
+    "longitude": -122.166742
+  },
+  {
+    "name": "Merced Fire Dept",
+    "address": "99 E 16th St, Merced, CA 95340",
+    "latitude": 37.29722,
+    "longitude": -120.4748103
+  },
+  {
+    "name": "Mill Valley Fire Dept",
+    "address": "1 Hamilton Dr, Mill Valley, CA 94941",
+    "latitude": 37.8971117,
+    "longitude": -122.5227993
+  },
+  {
+    "name": "Milpitas Fire Dept",
+    "address": "777 S Main St, Milpitas, CA 95035",
+    "latitude": 37.4189856,
+    "longitude": -121.9043071
+  },
+  {
+    "name": "Modesto Fire Dept",
+    "address": "600 11th St, Modesto, CA 95354",
+    "latitude": 37.6379151,
+    "longitude": -120.9949602
+  },
+  {
+    "name": "Mokelumne Hill Fire Dept",
+    "address": "8160 Church St, Mokelumne Hill, CA 95245",
+    "latitude": 38.2987814,
+    "longitude": -120.7031769
+  },
+  {
+    "name": "Monrovia Fire Dept",
+    "address": "602 S Myrtle Ave, Monrovia, CA 91016",
+    "latitude": 34.1457961,
+    "longitude": -118.0007955
+  },
+  {
+    "name": "Montague Fire Dept",
+    "address": "230 S 13th St, Montague, CA 99364",
+    "latitude": 41.727766,
+    "longitude": -122.5321101
+  },
+  {
+    "name": "Montclair Fire Dept",
+    "address": "8901 Monte Vista Ave, Montclair, CA 91763",
+    "latitude": 34.0919728,
+    "longitude": -117.697834
+  },
+  {
+    "name": "Monte Rio Fire Protection",
+    "address": "9870 Main St, Monte Rio, CA 95462",
+    "latitude": 38.4639129,
+    "longitude": -123.0110046
+  },
+  {
+    "name": "Montebello Fire Dept",
+    "address": "600 N Montebello Blvd, Montebello, CA 90640",
+    "latitude": 34.0191133,
+    "longitude": -118.1050672
+  },
+  {
+    "name": "Monterey Fire Dept",
+    "address": "600 Pacific St, Monterey, CA 93940",
+    "latitude": 36.5971917,
+    "longitude": -121.8978052
+  },
+  {
+    "name": "Monterey Park Fire Dept",
+    "address": "2001 S Garfield Ave, Monterey Park, CA 91754",
+    "latitude": 34.0408768,
+    "longitude": -118.1295421
+  },
+  {
+    "name": "Moorpark Fire Dept",
+    "address": "255 W Los Angeles Ave, Moorpark, CA 93021",
+    "latitude": 34.2790131,
+    "longitude": -118.8847314
+  },
+  {
+    "name": "Moraga Orinda Fire Dist",
+    "address": "1280 Moraga Way, Moraga, CA 94556",
+    "latitude": 37.8358897,
+    "longitude": -122.1325847
+  },
+  {
+    "name": "Morgan Hill Fire Dept",
+    "address": "15600 Monterey St, Morgan Hill, CA 95037",
+    "latitude": 36.5606122,
+    "longitude": -121.91394
+  },
+  {
+    "name": "Morro Bay Fire Dept",
+    "address": "715 Harbor St, Morro Bay, CA 93442",
+    "latitude": 35.3670708,
+    "longitude": -120.8451838
+  },
+  {
+    "name": "Mountain View Fire Dept",
+    "address": "1000 Villa St, Mountain View, CA 94041",
+    "latitude": 37.395169,
+    "longitude": -122.0818471
+  },
+  {
+    "name": "Mt Shasta Fire Dept",
+    "address": "305 N Mt Shasta Blvd, Mt Shasta, CA 96067",
+    "latitude": 41.3133324,
+    "longitude": -122.312831
+  },
+  {
+    "name": "Murphys Fire Protection Dist",
+    "address": "37 Jones St, Murphys, CA 95247",
+    "latitude": 38.1356508,
+    "longitude": -120.4568041
+  },
+  {
+    "name": "Murrieta Fire Dept",
+    "address": "41825 Juniper St, Murrieta, CA 92562",
+    "latitude": 33.5556963,
+    "longitude": -117.2121521
+  },
+  {
+    "name": "Napa Fire Dept",
+    "address": "1600 1st St, Napa, CA 94559",
+    "latitude": 38.2977836,
+    "longitude": -122.2912914
+  },
+  {
+    "name": "National City Fire Dept",
+    "address": "343 E 16th St, National City, CA 91950",
+    "latitude": 32.6704893,
+    "longitude": -117.1006205
+  },
+  {
+    "name": "Needles Fire Dept",
+    "address": "817 2nd St, Needles, CA 92363",
+    "latitude": 34.8393035,
+    "longitude": -114.6072463
+  },
+  {
+    "name": "Nevada City Fire Dept",
+    "address": "201 Providence Mine Rd, Nevada City, CA 95959",
+    "latitude": 39.249847,
+    "longitude": -121.029867
+  },
+  {
+    "name": "Newark Fire Dept",
+    "address": "3900 Newpark Mall, Newark, CA 94560",
+    "latitude": 37.5251345,
+    "longitude": -122.0046272
+  },
+  {
+    "name": "Newman Fire Dept",
+    "address": "1162 N St, Newman, CA 95360",
+    "latitude": 37.3179859,
+    "longitude": -121.021863
+  },
+  {
+    "name": "Newport Beach Fire Dept",
+    "address": "100 Civic Center Dr, Newport Beach, CA 92660",
+    "latitude": 33.6095441,
+    "longitude": -117.8724881
+  },
+  {
+    "name": "Norco Fire Dept",
+    "address": "2870 Clark Ave, Norco, CA 92860",
+    "latitude": 33.9231926,
+    "longitude": -117.561814
+  },
+  {
+    "name": "North County Fire Protection",
+    "address": "315 E Ivy St, Fallbrook, CA 92028",
+    "latitude": 33.3827879,
+    "longitude": -117.2488844
+  },
+  {
+    "name": "North San Juan Fire Dept",
+    "address": "13224 Tyler Foote Rd, North San Juan, CA 95960",
+    "latitude": 39.35438329999999,
+    "longitude": -121.0642719
+  },
+  {
+    "name": "North Tahoe Fire Protection",
+    "address": "222 Fairway Dr, Tahoe City, CA 96145",
+    "latitude": 39.1674997,
+    "longitude": -120.1477415
+  },
+  {
+    "name": "Northridge Fire Station",
+    "address": "18500 Parthenia St, Northridge, CA 91324",
+    "latitude": 34.2281928,
+    "longitude": -118.5367335
+  },
+  {
+    "name": "Norwalk Fire Dept",
+    "address": "12700 Norwalk Blvd, Norwalk, CA 90650",
+    "latitude": 33.9162035,
+    "longitude": -118.0715839
+  },
+  {
+    "name": "Novato Fire Protection Dist",
+    "address": "95 Rowland Way, Novato, CA 94945",
+    "latitude": 38.095527,
+    "longitude": -122.559607
+  },
+  {
+    "name": "Oakdale Fire Dept",
+    "address": "325 E G St, Oakdale, CA 95361",
+    "latitude": 37.7651617,
+    "longitude": -120.8466352
+  },
+  {
+    "name": "Oakland Fire Dept",
+    "address": "1605 Martin Luther King Jr Way, Oakland, CA 94612",
+    "latitude": 37.8080575,
+    "longitude": -122.2752249
+  },
+  {
+    "name": "Oceanside Fire Dept",
+    "address": "300 N Coast Hwy, Oceanside, CA 92054",
+    "latitude": 33.1979475,
+    "longitude": -117.3795323
+  },
+  {
+    "name": "Ojai Fire Dept",
+    "address": "506 E Aliso St, Ojai, CA 93023",
+    "latitude": 34.4502692,
+    "longitude": -119.2412153
+  },
+  {
+    "name": "Ontario Fire Dept",
+    "address": "425 E B St, Ontario, CA 91764",
+    "latitude": 34.0648755,
+    "longitude": -117.646693
+  },
+  {
+    "name": "Orange Cove Fire Dept",
+    "address": "500 Park Blvd, Orange Cove, CA 93646",
+    "latitude": 36.6245738,
+    "longitude": -119.3110452
+  },
+  {
+    "name": "Orange Fire Dept",
+    "address": "176 S Grand St, Orange, CA 92866",
+    "latitude": 33.7864422,
+    "longitude": -117.8512672
+  },
+  {
+    "name": "Orland Fire Dept",
+    "address": "810 5th St, Orland, CA 95963",
+    "latitude": 39.745803,
+    "longitude": -122.1958862
+  },
+  {
+    "name": "Oroville Fire Dept",
+    "address": "2055 Lincoln St, Oroville, CA 95966",
+    "latitude": 39.5076356,
+    "longitude": -121.5536191
+  },
+  {
+    "name": "Oxnard Fire Dept",
+    "address": "360 W 2nd St, Oxnard, CA 93030",
+    "latitude": 34.2015349,
+    "longitude": -119.1804823
+  },
+  {
+    "name": "Pacific Grove Fire Dept",
+    "address": "600 Pine Ave, Pacific Grove, CA 93950",
+    "latitude": 36.6193097,
+    "longitude": -121.919473
+  },
+  {
+    "name": "Palm Desert Fire Station",
+    "address": "73995 Country Club Dr, Palm Desert, CA 92260",
+    "latitude": 33.7576555,
+    "longitude": -116.3740963
+  },
+  {
+    "name": "Palm Springs Fire Dept",
+    "address": "300 N El Cielo Rd, Palm Springs, CA 92262",
+    "latitude": 33.8269734,
+    "longitude": -116.510298
+  },
+  {
+    "name": "Palmdale Fire Dept",
+    "address": "1007 E Palmdale Blvd, Palmdale, CA 93550",
+    "latitude": 34.5797741,
+    "longitude": -118.1115622
+  },
+  {
+    "name": "Palo Alto Fire Dept",
+    "address": "250 Hamilton Ave, Palo Alto, CA 94301",
+    "latitude": 37.444215,
+    "longitude": -122.1596371
+  },
+  {
+    "name": "Paradise Fire Dept",
+    "address": "767 Birch St, Paradise, CA 95969",
+    "latitude": 39.7538077,
+    "longitude": -121.6245785
+  },
+  {
+    "name": "Paramount Fire Dept",
+    "address": "16400 Colorado Ave, Paramount, CA 90723",
+    "latitude": 33.8848403,
+    "longitude": -118.1610786
+  },
+  {
+    "name": "Parlier Fire Dept",
+    "address": "13700 E Parlier Ave, Parlier, CA 93648",
+    "latitude": 36.6125729,
+    "longitude": -119.5434951
+  },
+  {
+    "name": "Pasadena Fire Dept",
+    "address": "199 S Los Robles Ave, Pasadena, CA 91101",
+    "latitude": 34.1424498,
+    "longitude": -118.1419375
+  },
+  {
+    "name": "Paso Robles Fire Dept",
+    "address": "617 12th St, Paso Robles, CA 93446",
+    "latitude": 35.6268452,
+    "longitude": -120.6922172
+  },
+  {
+    "name": "Patterson Fire Dept",
+    "address": "344 W Las Palmas Ave, Patterson, CA 95363",
+    "latitude": 37.4706368,
+    "longitude": -121.1315161
+  },
+  {
+    "name": "Perris Fire Dept",
+    "address": "210 W San Jacinto Ave, Perris, CA 92570",
+    "latitude": 33.7870146,
+    "longitude": -117.2308871
+  },
+  {
+    "name": "Petaluma Fire Dept",
+    "address": "1001 D St, Petaluma, CA 94952",
+    "latitude": 38.2244703,
+    "longitude": -122.6418398
+  },
+  {
+    "name": "Pico Rivera Fire Dept",
+    "address": "6706 Passons Blvd, Pico Rivera, CA 90660",
+    "latitude": 33.9811594,
+    "longitude": -118.088473
+  },
+  {
+    "name": "Piedmont Fire Dept",
+    "address": "120 Vista Ave, Piedmont, CA 94611",
+    "latitude": 37.8241257,
+    "longitude": -122.2326241
+  },
+  {
+    "name": "Pinole Fire Dept",
+    "address": "1950 Pinole Valley Rd, Pinole, CA 94564",
+    "latitude": 37.9981346,
+    "longitude": -122.2868841
+  },
+  {
+    "name": "Pismo Beach Fire Dept",
+    "address": "990 Bello St, Pismo Beach, CA 93449",
+    "latitude": 35.1440952,
+    "longitude": -120.6403307
+  },
+  {
+    "name": "Pittsburg Fire Dept",
+    "address": "2151 N Broadway Ave, Pittsburg, CA 94565",
+    "latitude": 38.0326504,
+    "longitude": -121.9408688
+  },
+  {
+    "name": "Placentia Fire Dept",
+    "address": "120 S Bradford Ave, Placentia, CA 92870",
+    "latitude": 33.8712336,
+    "longitude": -117.8704339
+  },
+  {
+    "name": "Placer County Fire Dept",
+    "address": "1300 Lincoln Way, Auburn, CA 95603",
+    "latitude": 38.8981198,
+    "longitude": -121.0757776
+  },
+  {
+    "name": "Placerville Fire Dept",
+    "address": "3200 Country Club Dr, Placerville, CA 95667",
+    "latitude": 38.7239944,
+    "longitude": -120.7657031
+  },
+  {
+    "name": "Pleasant Hill Fire Dept",
+    "address": "6500 Amador St, Pleasant Hill, CA 94523",
+    "latitude": 37.9448915,
+    "longitude": -122.0723816
+  },
+  {
+    "name": "Pleasanton Fire Dept",
+    "address": "3560 Nevada St, Pleasanton, CA 94566",
+    "latitude": 37.6664875,
+    "longitude": -121.857195
+  },
+  {
+    "name": "Plymouth Fire Dept",
+    "address": "9439 Main St, Plymouth, CA 95669",
+    "latitude": 38.4815293,
+    "longitude": -120.8473517
+  },
+  {
+    "name": "Point Arena Fire Dept",
+    "address": "451 School St, Point Arena, CA 95468",
+    "latitude": 38.916528,
+    "longitude": -123.7037689
+  },
+  {
+    "name": "Pomona Fire Dept",
+    "address": "169 W 2nd St, Pomona, CA 91766",
+    "latitude": 34.0580265,
+    "longitude": -117.7509039
+  },
+  {
+    "name": "Port Hueneme Fire Dept",
+    "address": "250 N Ventura Rd, Port Hueneme, CA 93041",
+    "latitude": 34.1496962,
+    "longitude": -119.1949182
+  },
+  {
+    "name": "Porterville Fire Dept",
+    "address": "40 W Cleveland Ave, Porterville, CA 93257",
+    "latitude": 36.070981,
+    "longitude": -119.01705
+  },
+  {
+    "name": "Poway Fire Dept",
+    "address": "13050 Civic Center Dr, Poway, CA 92064",
+    "latitude": 32.9551881,
+    "longitude": -117.0465768
+  },
+  {
+    "name": "Princeton Fire Dept",
+    "address": "428 Norman Rd, Princeton, CA 95970",
+    "latitude": 39.4055398,
+    "longitude": -122.0106799
+  },
+  {
+    "name": "Quincy Fire Dept",
+    "address": "505 Lawrence St, Quincy, CA 95971",
+    "latitude": 39.937796,
+    "longitude": -120.9479525
+  },
+  {
+    "name": "Ramona Fire Dept",
+    "address": "829 San Vicente Rd, Ramona, CA 92065",
+    "latitude": 33.036562,
+    "longitude": -116.8651707
+  },
+  {
+    "name": "Rancho Cucamonga Fire Dept",
+    "address": "10500 Civic Center Dr, Rancho Cucamonga, CA 91730",
+    "latitude": 34.1032957,
+    "longitude": -117.5751836
+  },
+  {
+    "name": "Rancho Santa Fe Fire Dist",
+    "address": "16930 Four Gee Rd, San Diego, CA 92127",
+    "latitude": 33.0224526,
+    "longitude": -117.123005
+  },
+  {
+    "name": "Red Bluff Fire Dept",
+    "address": "555 Washington St, Red Bluff, CA 96080",
+    "latitude": 40.1756065,
+    "longitude": -122.2351784
+  },
+  {
+    "name": "Redding Fire Dept",
+    "address": "1515 Shasta St, Redding, CA 96001",
+    "latitude": 40.5858263,
+    "longitude": -122.3933247
+  },
+  {
+    "name": "Redlands Fire Dept",
+    "address": "35 Cajon St, Redlands, CA 92373",
+    "latitude": 34.0549504,
+    "longitude": -117.1816643
+  },
+  {
+    "name": "Redondo Beach Fire Dept",
+    "address": "401 S Broadway, Redondo Beach, CA 90277",
+    "latitude": 33.8364571,
+    "longitude": -118.3869494
+  },
+  {
+    "name": "Redwood City Fire Dept",
+    "address": "755 Marshall St, Redwood City, CA 94063",
+    "latitude": 37.48782449999999,
+    "longitude": -122.2275129
+  },
+  {
+    "name": "Reedley Fire Dept",
+    "address": "1060 D St, Reedley, CA 93654",
+    "latitude": 36.5989315,
+    "longitude": -119.4477502
+  },
+  {
+    "name": "Rialto Fire Dept",
+    "address": "131 S Willow Ave, Rialto, CA 92376",
+    "latitude": 34.0996593,
+    "longitude": -117.3742638
+  },
+  {
+    "name": "Richmond Fire Dept",
+    "address": "440 Civic Center Plz, Richmond, CA 94804",
+    "latitude": 37.93676079999999,
+    "longitude": -122.3427951
+  },
+  {
+    "name": "Ridgecrest Fire Dept",
+    "address": "139 E Las Flores Ave, Ridgecrest, CA 93555",
+    "latitude": 35.6284122,
+    "longitude": -117.6679857
+  },
+  {
+    "name": "Rio Dell Fire Dept",
+    "address": "50 Center St, Rio Dell, CA 95562",
+    "latitude": 40.5011021,
+    "longitude": -124.1069508
+  },
+  {
+    "name": "Rio Vista Fire Dept",
+    "address": "270 S 2nd St, Rio Vista, CA 94571",
+    "latitude": 38.1547475,
+    "longitude": -121.6940706
+  },
+  {
+    "name": "Ripon Fire Dept",
+    "address": "142 S Stockton Ave, Ripon, CA 95366",
+    "latitude": 37.7385734,
+    "longitude": -121.1235319
+  },
+  {
+    "name": "Riverbank Fire Dept",
+    "address": "6727 3rd St, Riverbank, CA 95367",
+    "latitude": 37.7367196,
+    "longitude": -120.9360581
+  },
+  {
+    "name": "Riverdale Fire Dept",
+    "address": "21175 Malsbary St, Riverdale, CA 93656",
+    "latitude": 36.4290406,
+    "longitude": -119.8616872
+  },
+  {
+    "name": "Riverside Fire Dept",
+    "address": "3401 7th St, Riverside, CA 92501",
+    "latitude": 33.9774592,
+    "longitude": -117.3587008
+  },
+  {
+    "name": "Rocklin Fire Dept",
+    "address": "4060 Rocklin Rd, Rocklin, CA 95677",
+    "latitude": 38.7892103,
+    "longitude": -121.2335162
+  },
+  {
+    "name": "Rodeo Hercules Fire Dist",
+    "address": "1680 Refugio Valley Rd, Hercules, CA 94547",
+    "latitude": 38.0045445,
+    "longitude": -122.2630957
+  },
+  {
+    "name": "Rohnert Park Fire Dept",
+    "address": "500 City Center Dr, Rohnert Park, CA 94928",
+    "latitude": 38.3492835,
+    "longitude": -122.703132
+  },
+  {
+    "name": "Rolling Hills Estates Fire",
+    "address": "1 Rolling Hills Rd, Rolling Hills Estates, CA 90274",
+    "latitude": 33.7860581,
+    "longitude": -118.3405311
+  },
+  {
+    "name": "Rosemead Fire Dept",
+    "address": "8838 E Valley Blvd, Rosemead, CA 91770",
+    "latitude": 34.0802954,
+    "longitude": -118.0763465
+  },
+  {
+    "name": "Roseville Fire Dept",
+    "address": "401 Oak St, Roseville, CA 95678",
+    "latitude": 38.7469158,
+    "longitude": -121.283928
+  },
+  {
+    "name": "Ross Fire Dept",
+    "address": "33 Sir Francis Drake Blvd, Ross, CA 94957",
+    "latitude": 37.9630791,
+    "longitude": -122.5566787
+  },
+  {
+    "name": "Running Springs Fire Dept",
+    "address": "31250 Hilltop Blvd, Running Springs, CA 92382",
+    "latitude": 34.2147298,
+    "longitude": -117.1212819
+  },
+  {
+    "name": "Sacramento Fire Dept",
+    "address": "5770 Freeport Blvd, Sacramento, CA 95822",
+    "latitude": 38.5216336,
+    "longitude": -121.4990158
+  },
+  {
+    "name": "Salinas Fire Dept",
+    "address": "65 W Alisal St, Salinas, CA 93901",
+    "latitude": 36.6733463,
+    "longitude": -121.65638
+  },
+  {
+    "name": "San Anselmo Fire Dept",
+    "address": "525 San Anselmo Ave, San Anselmo, CA 94960",
+    "latitude": 37.974739,
+    "longitude": -122.5627915
+  },
+  {
+    "name": "San Bernardino Fire Dept",
+    "address": "200 E 3rd St, San Bernardino, CA 92415",
+    "latitude": 34.1048928,
+    "longitude": -117.2823391
+  },
+  {
+    "name": "San Bruno Fire Dept",
+    "address": "618 San Mateo Ave, San Bruno, CA 94066",
+    "latitude": 37.6269407,
+    "longitude": -122.4110437
+  },
+  {
+    "name": "San Clemente Fire Dept",
+    "address": "100 N Calle Seville, San Clemente, CA 92672",
+    "latitude": 33.4242686,
+    "longitude": -117.6177699
+  },
+  {
+    "name": "San Diego Fire-Rescue Dept",
+    "address": "4260 54th St, San Diego, CA 92115",
+    "latitude": 32.7541533,
+    "longitude": -117.0800978
+  },
+  {
+    "name": "San Dimas Fire Station",
+    "address": "245 E Bonita Ave, San Dimas, CA 91773",
+    "latitude": 34.1069995,
+    "longitude": -117.8042814
+  },
+  {
+    "name": "San Fernando Fire Dept",
+    "address": "1330 San Fernando Rd, San Fernando, CA 91340",
+    "latitude": 34.2860827,
+    "longitude": -118.4449899
+  },
+  {
+    "name": "San Francisco Fire Dept",
+    "address": "698 2nd St, San Francisco, CA 94107",
+    "latitude": 37.78051420000001,
+    "longitude": -122.3911965
+  },
+  {
+    "name": "San Gabriel Fire Dept",
+    "address": "1303 S Del Mar Ave, San Gabriel, CA 91776",
+    "latitude": 34.0843546,
+    "longitude": -118.1004057
+  },
+  {
+    "name": "San Jacinto Fire Dept",
+    "address": "200 E Main St, San Jacinto, CA 92583",
+    "latitude": 33.7838866,
+    "longitude": -116.9577399
+  },
+  {
+    "name": "San Joaquin Fire Dept",
+    "address": "22003 N Micke Grove Rd, Lodi, CA 95240",
+    "latitude": 38.0796478,
+    "longitude": -121.2692358
+  },
+  {
+    "name": "San Jose Fire Dept",
+    "address": "200 E Santa Clara St, San Jose, CA 95113",
+    "latitude": 37.3379871,
+    "longitude": -121.8858543
+  },
+  {
+    "name": "San Jose Fire Dept Station 1",
+    "address": "225 N Market St, San Jose, CA 95110",
+    "latitude": 37.3387196,
+    "longitude": -121.8949509
+  },
+  {
+    "name": "San Jose Fire Dept Station 2",
+    "address": "2930 Aborn Square Rd, San Jose, CA 95121",
+    "latitude": 37.3125585,
+    "longitude": -121.8098848
+  },
+  {
+    "name": "San Jose Fire Dept Station 3",
+    "address": "98 Martha St, San Jose, CA 95112",
+    "latitude": 37.323307,
+    "longitude": -121.8785414
+  },
+  {
+    "name": "San Jose Fire Dept Station 4",
+    "address": "2609 S Bascom Ave, San Jose, CA 95124",
+    "latitude": 37.2747725,
+    "longitude": -121.9341975
+  },
+  {
+    "name": "San Jose Fire Dept Station 5",
+    "address": "1386 N 4th St, San Jose, CA 95112",
+    "latitude": 37.3629432,
+    "longitude": -121.9062452
+  },
+  {
+    "name": "San Jose Fire Dept Station 6",
+    "address": "1386 Cherry Ave, San Jose, CA 95125",
+    "latitude": 37.301463,
+    "longitude": -121.9037788
+  },
+  {
+    "name": "San Jose Fire Dept Station 7",
+    "address": "2095 Lincoln Ave, San Jose, CA 95125",
+    "latitude": 37.2923978,
+    "longitude": -121.8902938
+  },
+  {
+    "name": "San Jose Fire Dept Station 8",
+    "address": "802 N 10th St, San Jose, CA 95112",
+    "latitude": 37.3558969,
+    "longitude": -121.8920811
+  },
+  {
+    "name": "San Jose Fire Dept Station 9",
+    "address": "3410 The Alameda, San Jose, CA 95126",
+    "latitude": 37.3534235,
+    "longitude": -121.9413782
+  },
+  {
+    "name": "San Jose Fire Dept Station 10",
+    "address": "4430 Monterey Rd, San Jose, CA 95111",
+    "latitude": 37.2730184,
+    "longitude": -121.8289875
+  },
+  {
+    "name": "San Jose Fire Dept Station 11",
+    "address": "2840 S Bascom Ave, San Jose, CA 95124",
+    "latitude": 37.270158,
+    "longitude": -121.9371908
+  },
+  {
+    "name": "San Jose Fire Dept Station 12",
+    "address": "1535 Meridian Ave, San Jose, CA 95125",
+    "latitude": 37.2968716,
+    "longitude": -121.9140522
+  },
+  {
+    "name": "San Jose Fire Dept Station 13",
+    "address": "4385 Camden Ave, San Jose, CA 95124",
+    "latitude": 37.2548894,
+    "longitude": -121.914754
+  },
+  {
+    "name": "San Jose Fire Dept Station 14",
+    "address": "4435 Senter Rd, San Jose, CA 95111",
+    "latitude": 37.2776213,
+    "longitude": -121.8233012
+  },
+  {
+    "name": "San Jose Fire Dept Station 15",
+    "address": "1111 Story Rd, San Jose, CA 95122",
+    "latitude": 37.3333971,
+    "longitude": -121.8567948
+  },
+  {
+    "name": "San Jose Fire Dept Station 16",
+    "address": "6147 Chabot Rd, San Jose, CA 95123",
+    "latitude": 37.3407239,
+    "longitude": -121.8279386
+  },
+  {
+    "name": "San Jose Fire Dept Station 17",
+    "address": "5170 Coniston Way, San Jose, CA 95118",
+    "latitude": 37.2473593,
+    "longitude": -121.8852113
+  },
+  {
+    "name": "San Jose Fire Dept Station 18",
+    "address": "4430 Monterey Rd, San Jose, CA 95111",
+    "latitude": 37.2730184,
+    "longitude": -121.8289875
+  },
+  {
+    "name": "San Jose Fire Dept Station 19",
+    "address": "3211 Sierra Rd, San Jose, CA 95132",
+    "latitude": 37.3988569,
+    "longitude": -121.8496387
+  },
+  {
+    "name": "San Jose Fire Dept Station 20",
+    "address": "2525 S White Rd, San Jose, CA 95148",
+    "latitude": 37.3341362,
+    "longitude": -121.8002104
+  },
+  {
+    "name": "San Jose Fire Dept Station 21",
+    "address": "2100 E Capitol Expy, San Jose, CA 95148",
+    "latitude": 37.3394917,
+    "longitude": -121.8191829
+  },
+  {
+    "name": "San Jose Fire Dept Station 22",
+    "address": "6461 Bose Ln, San Jose, CA 95120",
+    "latitude": 37.2220516,
+    "longitude": -121.8676818
+  },
+  {
+    "name": "San Jose Fire Dept Station 23",
+    "address": "1465 N Capitol Ave, San Jose, CA 95132",
+    "latitude": 37.3931485,
+    "longitude": -121.8673606
+  },
+  {
+    "name": "San Jose Fire Dept Station 24",
+    "address": "2526 S King Rd, San Jose, CA 95122",
+    "latitude": 37.3206727,
+    "longitude": -121.8236943
+  },
+  {
+    "name": "San Jose Fire Dept Station 25",
+    "address": "2525 Aborn Rd, San Jose, CA 95121",
+    "latitude": 37.3130906,
+    "longitude": -121.7998975
+  },
+  {
+    "name": "San Jose Fire Dept Station 26",
+    "address": "528 S Bascom Ave, San Jose, CA 95128",
+    "latitude": 37.3189183,
+    "longitude": -121.931574
+  },
+  {
+    "name": "San Jose Fire Dept Station 27",
+    "address": "6027 San Ignacio Ave, San Jose, CA 95119",
+    "latitude": 37.2327355,
+    "longitude": -121.7717781
+  },
+  {
+    "name": "San Jose Fire Dept Station 28",
+    "address": "199 Innovation Dr, San Jose, CA 95134",
+    "latitude": 37.4010833,
+    "longitude": -121.9338366
+  },
+  {
+    "name": "San Jose Fire Dept Station 29",
+    "address": "1999 N 1st St, San Jose, CA 95112",
+    "latitude": 37.3731025,
+    "longitude": -121.9182986
+  },
+  {
+    "name": "San Jose Fire Dept Station 30",
+    "address": "454 Auzerais Ave, San Jose, CA 95126",
+    "latitude": 37.3251964,
+    "longitude": -121.8955089
+  },
+  {
+    "name": "San Jose Fire Dept Station 31",
+    "address": "3100 Capitol Ave, San Jose, CA 95111",
+    "latitude": 37.4070445,
+    "longitude": -121.887797
+  },
+  {
+    "name": "San Jose Fire Dept Station 32",
+    "address": "2191 E San Antonio St, San Jose, CA 95116",
+    "latitude": 37.3552448,
+    "longitude": -121.8419268
+  },
+  {
+    "name": "San Jose Fire Dept Station 33",
+    "address": "820 Steinbeck Dr, San Jose, CA 95123",
+    "latitude": 37.2467456,
+    "longitude": -121.8569971
+  },
+  {
+    "name": "San Jose Fire Dept Station 34",
+    "address": "1634 E San Fernando St, San Jose, CA 95116",
+    "latitude": 37.3498498,
+    "longitude": -121.856579
+  },
+  {
+    "name": "San Jose Fire Dept Station 35",
+    "address": "135 Poughkeepsie Rd, San Jose, CA 95123",
+    "latitude": 37.2517999,
+    "longitude": -121.8055524
+  },
+  {
+    "name": "San Juan Bautista Fire Dept",
+    "address": "311 2nd St, San Juan Bautista, CA 95045",
+    "latitude": 36.8454816,
+    "longitude": -121.536995
+  },
+  {
+    "name": "San Leandro Fire Dept",
+    "address": "835 E 14th St, San Leandro, CA 94577",
+    "latitude": 37.7287093,
+    "longitude": -122.1594373
+  },
+  {
+    "name": "San Luis Obispo Fire Dept",
+    "address": "2160 Santa Barbara Ave, San Luis Obispo, CA 93401",
+    "latitude": 35.2699372,
+    "longitude": -120.6560496
+  },
+  {
+    "name": "San Marcos Fire Dept",
+    "address": "180 W Mission Rd, San Marcos, CA 92069",
+    "latitude": 33.1434921,
+    "longitude": -117.1644978
+  },
+  {
+    "name": "San Marino Fire Dept",
+    "address": "2200 Huntington Dr, San Marino, CA 91108",
+    "latitude": 34.1215134,
+    "longitude": -118.1060041
+  },
+  {
+    "name": "San Mateo Fire Dept",
+    "address": "120 S Ellsworth Ave, San Mateo, CA 94401",
+    "latitude": 37.5661705,
+    "longitude": -122.3247618
+  },
+  {
+    "name": "San Miguel Fire Dept",
+    "address": "1150 Mission St, San Miguel, CA 93451",
+    "latitude": 35.7495647,
+    "longitude": -120.6963349
+  },
+  {
+    "name": "San Pablo Fire Dept",
+    "address": "14000 San Pablo Ave, San Pablo, CA 94806",
+    "latitude": 37.9611886,
+    "longitude": -122.3429534
+  },
+  {
+    "name": "San Rafael Fire Dept",
+    "address": "1039 C St, San Rafael, CA 94901",
+    "latitude": 37.97423630000001,
+    "longitude": -122.5308935
+  },
+  {
+    "name": "San Ramon Fire Dept",
+    "address": "1500 Bollinger Canyon Rd, San Ramon, CA 94583",
+    "latitude": 37.772074,
+    "longitude": -121.9948512
+  },
+  {
+    "name": "Sand City Fire Dept",
+    "address": "600 Ortiz Ave, Sand City, CA 93955",
+    "latitude": 36.6118683,
+    "longitude": -121.8503598
+  },
+  {
+    "name": "Sanger Fire Dept",
+    "address": "1700 7th St, Sanger, CA 93657",
+    "latitude": 36.7062407,
+    "longitude": -119.5613743
+  },
+  {
+    "name": "Santa Ana Fire Dept",
+    "address": "1910 N Broadway, Santa Ana, CA 92706",
+    "latitude": 33.762175,
+    "longitude": -117.8696308
+  },
+  {
+    "name": "Santa Barbara Fire Dept",
+    "address": "121 W Carrillo St, Santa Barbara, CA 93101",
+    "latitude": 34.4196987,
+    "longitude": -119.7033119
+  },
+  {
+    "name": "Santa Clara Fire Dept",
+    "address": "777 Benton St, Santa Clara, CA 95050",
+    "latitude": 37.3520875,
+    "longitude": -121.9422277
+  },
+  {
+    "name": "Santa Cruz Fire Dept",
+    "address": "1101 Soquel Ave, Santa Cruz, CA 95062",
+    "latitude": 36.9789127,
+    "longitude": -122.0123177
+  },
+  {
+    "name": "Santa Fe Springs Fire Dept",
+    "address": "11300 Greenstone Ave, Santa Fe Springs, CA 90670",
+    "latitude": 33.9285176,
+    "longitude": -118.0577674
+  },
+  {
+    "name": "Santa Maria Fire Dept",
+    "address": "911 S Broadway, Santa Maria, CA 93454",
+    "latitude": 34.9419576,
+    "longitude": -120.4367083
+  },
+  {
+    "name": "Santa Monica Fire Dept",
+    "address": "333 Olympic Dr, Santa Monica, CA 90401",
+    "latitude": 34.0121978,
+    "longitude": -118.4908669
+  },
+  {
+    "name": "Santa Paula Fire Dept",
+    "address": "214 S 10th St, Santa Paula, CA 93060",
+    "latitude": 34.3516993,
+    "longitude": -119.0592285
+  },
+  {
+    "name": "Santa Rosa Fire Dept",
+    "address": "2373 Circadian Way, Santa Rosa, CA 95407",
+    "latitude": 38.4188645,
+    "longitude": -122.7541637
+  },
+  {
+    "name": "Santee Fire Dept",
+    "address": "9130 Carlton Oaks Dr, Santee, CA 92071",
+    "latitude": 32.8447443,
+    "longitude": -117.004192
+  },
+  {
+    "name": "Saratoga Fire Station",
+    "address": "14380 Saratoga Ave, Saratoga, CA 95070",
+    "latitude": 37.25905059999999,
+    "longitude": -122.0314918
+  },
+  {
+    "name": "Sausalito Fire Dept",
+    "address": "333 Johnson St, Sausalito, CA 94965",
+    "latitude": 37.8583779,
+    "longitude": -122.4841316
+  },
+  {
+    "name": "Scotts Valley Fire Dept",
+    "address": "7 Erba Ln, Scotts Valley, CA 95066",
+    "latitude": 37.0484914,
+    "longitude": -122.0198116
+  },
+  {
+    "name": "Seal Beach Fire Dept",
+    "address": "313 1st St, Seal Beach, CA 90740",
+    "latitude": 33.7459983,
+    "longitude": -118.1113846
+  },
+  {
+    "name": "Seaside Fire Dept",
+    "address": "1635 Broadway Ave, Seaside, CA 93955",
+    "latitude": 36.609269,
+    "longitude": -121.8290251
+  },
+  {
+    "name": "Sebastopol Fire Dept",
+    "address": "7425 Bodega Ave, Sebastopol, CA 95472",
+    "latitude": 38.4004277,
+    "longitude": -122.8275336
+  },
+  {
+    "name": "Selma Fire Dept",
+    "address": "2857 A St, Selma, CA 93662",
+    "latitude": 36.5758501,
+    "longitude": -119.609912
+  },
+  {
+    "name": "Shafter Fire Dept",
+    "address": "201 E Tulare Ave, Shafter, CA 93263",
+    "latitude": 35.506764,
+    "longitude": -119.2781474
+  },
+  {
+    "name": "Shasta Lake Fire Protection",
+    "address": "4126 Ashby Ct, Shasta Lake, CA 96019",
+    "latitude": 40.6804212,
+    "longitude": -122.3716006
+  },
+  {
+    "name": "Sierra City Fire Dept",
+    "address": "204 Main St, Sierra City, CA 96125",
+    "latitude": 39.5653686,
+    "longitude": -120.6367016
+  },
+  {
+    "name": "Sierra Madre Fire Dept",
+    "address": "242 W Sierra Madre Blvd, Sierra Madre, CA 91024",
+    "latitude": 34.1615191,
+    "longitude": -118.0583701
+  },
+  {
+    "name": "Signal Hill Fire Dept",
+    "address": "2201 E Willow St, Signal Hill, CA 90755",
+    "latitude": 33.8047513,
+    "longitude": -118.1652015
+  },
+  {
+    "name": "Siskiyou Fire Chiefs Assn",
+    "address": "151 N Washington St, Yreka, CA 96097",
+    "latitude": 41.732651,
+    "longitude": -122.6358147
+  },
+  {
+    "name": "Solana Beach Fire Dept",
+    "address": "500 Stevens Ave, Solana Beach, CA 92075",
+    "latitude": 32.9909794,
+    "longitude": -117.2609686
+  },
+  {
+    "name": "Soledad Fire Dept",
+    "address": "525 Monterey St, Soledad, CA 93960",
+    "latitude": 36.4279158,
+    "longitude": -121.3278141
+  },
+  {
+    "name": "Solvang Fire Station",
+    "address": "1644 Oak St, Solvang, CA 93463",
+    "latitude": 34.5935416,
+    "longitude": -120.1414642
+  },
+  {
+    "name": "Sonoma Valley Fire & Rescue",
+    "address": "630 2nd St W, Sonoma, CA 95476",
+    "latitude": 38.2901354,
+    "longitude": -122.461253
+  },
+  {
+    "name": "Sonora Fire Dept",
+    "address": "201 S Shepherd St, Sonora, CA 95370",
+    "latitude": 37.9830383,
+    "longitude": -120.3808478
+  },
+  {
+    "name": "South Gate Fire Dept",
+    "address": "8401 Otis St, South Gate, CA 90280",
+    "latitude": 33.9590889,
+    "longitude": -118.1956422
+  },
+  {
+    "name": "South Lake Tahoe Fire Dept",
+    "address": "2101 Lake Tahoe Blvd, South Lake Tahoe, CA 96150",
+    "latitude": 38.9156249,
+    "longitude": -120.0014876
+  },
+  {
+    "name": "South Pasadena Fire Dept",
+    "address": "817 Mound Ave, South Pasadena, CA 91030",
+    "latitude": 34.116378,
+    "longitude": -118.1518977
+  },
+  {
+    "name": "South San Francisco Fire Dept",
+    "address": "480 N Canal St, South San Francisco, CA 94080",
+    "latitude": 37.651612,
+    "longitude": -122.4169654
+  },
+  {
+    "name": "St Helena Fire Dept",
+    "address": "1480 Main St, St Helena, CA 94574",
+    "latitude": 38.50631569999999,
+    "longitude": -122.4714472
+  },
+  {
+    "name": "Stanford Fire Station",
+    "address": "2710 Sand Hill Rd, Menlo Park, CA 94025",
+    "latitude": 37.4216063,
+    "longitude": -122.2088717
+  },
+  {
+    "name": "Stanton Fire Dept",
+    "address": "10750 Beach Blvd, Stanton, CA 90680",
+    "latitude": 33.8061447,
+    "longitude": -117.9928426
+  },
+  {
+    "name": "Stockton Fire Dept",
+    "address": "1818 N Fremont St, Stockton, CA 95205",
+    "latitude": 37.9611037,
+    "longitude": -121.2685871
+  },
+  {
+    "name": "Suisun City Fire Dept",
+    "address": "621 Pintail Dr, Suisun City, CA 94585",
+    "latitude": 38.2484043,
+    "longitude": -122.0075764
+  },
+  {
+    "name": "Sunnyvale Fire Dept",
+    "address": "505 S Mathilda Ave, Sunnyvale, CA 94086",
+    "latitude": 37.3716391,
+    "longitude": -122.0363585
+  },
+  {
+    "name": "Susanville Fire Dept",
+    "address": "130 S Mesa St, Susanville, CA 96130",
+    "latitude": 40.4123841,
+    "longitude": -120.6414962
+  },
+  {
+    "name": "Sutter Creek Fire Dept",
+    "address": "350 Hanford St, Sutter Creek, CA 95685",
+    "latitude": 38.4000374,
+    "longitude": -120.8082012
+  },
+  {
+    "name": "Taft Fire Dept",
+    "address": "411 Kern St, Taft, CA 93268",
+    "latitude": 35.1421423,
+    "longitude": -119.4573027
+  },
+  {
+    "name": "Tehachapi Fire Dept",
+    "address": "222 W C St, Tehachapi, CA 93561",
+    "latitude": 35.1278522,
+    "longitude": -118.4509145
+  },
+  {
+    "name": "Tehama County Fire Dept",
+    "address": "604 Antelope Blvd, Red Bluff, CA 96080",
+    "latitude": 40.1875538,
+    "longitude": -122.2040166
+  },
+  {
+    "name": "Temecula Fire Dept",
+    "address": "28716 Via Montezuma, Temecula, CA 92590",
+    "latitude": 33.5101797,
+    "longitude": -117.1603558
+  },
+  {
+    "name": "Temple City Fire Dept",
+    "address": "9701 Las Tunas Dr, Temple City, CA 91780",
+    "latitude": 34.1075989,
+    "longitude": -118.0579357
+  },
+  {
+    "name": "Templeton Fire Dept",
+    "address": "206 5th St, Templeton, CA 93465",
+    "latitude": 35.5498556,
+    "longitude": -120.7068076
+  },
+  {
+    "name": "Thousand Oaks Fire Dept",
+    "address": "2100 Thousand Oaks Blvd, Thousand Oaks, CA 91362",
+    "latitude": 34.174303,
+    "longitude": -118.8489078
+  },
+  {
+    "name": "Tiburon Fire Protection Dist",
+    "address": "1679 Tiburon Blvd, Tiburon, CA 94920",
+    "latitude": 37.8745137,
+    "longitude": -122.4569479
+  },
+  {
+    "name": "Torrance Fire Dept",
+    "address": "1701 Crenshaw Blvd, Torrance, CA 90501",
+    "latitude": 33.8308792,
+    "longitude": -118.3289828
+  },
+  {
+    "name": "Tracy Fire Dept",
+    "address": "835 Central Ave, Tracy, CA 95376",
+    "latitude": 37.7371517,
+    "longitude": -121.4261987
+  },
+  {
+    "name": "Trinidad Volunteer Fire Dept",
+    "address": "1 Westhaven Dr, Trinidad, CA 95570",
+    "latitude": 41.0628385,
+    "longitude": -124.1387029
+  },
+  {
+    "name": "Truckee Fire Protection Dist",
+    "address": "10049 Donner Pass Rd, Truckee, CA 96161",
+    "latitude": 39.3278522,
+    "longitude": -120.1846153
+  },
+  {
+    "name": "Tulare Fire Dept",
+    "address": "800 S Blackstone St, Tulare, CA 93274",
+    "latitude": 36.1993567,
+    "longitude": -119.3292771
+  },
+  {
+    "name": "Tulelake Volunteer Fire Dept",
+    "address": "205 Modoc Ave, Tulelake, CA 96134",
+    "latitude": 41.9602871,
+    "longitude": -121.4789403
+  },
+  {
+    "name": "Tuolumne Fire Dept",
+    "address": "18690 Carter St, Tuolumne, CA 95379",
+    "latitude": 37.961952,
+    "longitude": -120.2364915
+  },
+  {
+    "name": "Turlock Fire Dept",
+    "address": "144 S Broadway, Turlock, CA 95380",
+    "latitude": 37.4924991,
+    "longitude": -120.8472549
+  },
+  {
+    "name": "Twain Harte Fire Dept",
+    "address": "18741 Cedar Dr, Twain Harte, CA 95383",
+    "latitude": 38.0385838,
+    "longitude": -120.2293774
+  },
+  {
+    "name": "Twentynine Palms Fire Dept",
+    "address": "6560 Adobe Rd, Twentynine Palms, CA 92277",
+    "latitude": 34.1344755,
+    "longitude": -116.0546962
+  },
+  {
+    "name": "Ukiah Fire Dept",
+    "address": "300 Seminary Ave, Ukiah, CA 95482",
+    "latitude": 39.14690239999999,
+    "longitude": -123.2102322
+  },
+  {
+    "name": "Union City Fire Dept",
+    "address": "33555 Central Ave, Union City, CA 94587",
+    "latitude": 37.5942685,
+    "longitude": -122.0391733
+  },
+  {
+    "name": "Upland Fire Dept",
+    "address": "475 N 2nd Ave, Upland, CA 91786",
+    "latitude": 34.0993757,
+    "longitude": -117.6487354
+  },
+  {
+    "name": "Upper Lake Fire Dept",
+    "address": "9420 Main St, Upper Lake, CA 95485",
+    "latitude": 39.1631678,
+    "longitude": -122.9109244
+  },
+  {
+    "name": "Vacaville Fire Dept",
+    "address": "606 Elmira Rd, Vacaville, CA 95687",
+    "latitude": 38.3516025,
+    "longitude": -121.952909
+  },
+  {
+    "name": "Vallejo Fire Dept",
+    "address": "445 Alabama St, Vallejo, CA 94590",
+    "latitude": 38.1088166,
+    "longitude": -122.2572098
+  },
+  {
+    "name": "Valley Center Fire Station",
+    "address": "28234 Lilac Rd, Valley Center, CA 92082",
+    "latitude": 33.22155040000001,
+    "longitude": -117.0381583
+  },
+  {
+    "name": "Ventura Fire Dept",
+    "address": "1425 Dowell Dr, Ventura, CA 93003",
+    "latitude": 34.2599016,
+    "longitude": -119.2234468
+  },
+  {
+    "name": "Vernon Fire Dept",
+    "address": "4100 Santa Fe Ave, Vernon, CA 90058",
+    "latitude": 34.0166976,
+    "longitude": -118.2304013
+  },
+  {
+    "name": "Victorville Fire Dept",
+    "address": "14343 Civic Dr, Victorville, CA 92392",
+    "latitude": 34.5113778,
+    "longitude": -117.3228792
+  },
+  {
+    "name": "Visalia Fire Dept",
+    "address": "707 W Acequia Ave, Visalia, CA 93291",
+    "latitude": 36.3288905,
+    "longitude": -119.299241
+  },
+  {
+    "name": "Vista Fire Dept",
+    "address": "200 Civic Center Dr, Vista, CA 92084",
+    "latitude": 33.2031023,
+    "longitude": -117.2348629
+  },
+  {
+    "name": "Walnut Creek Fire Dept",
+    "address": "1510 Olympic Blvd, Walnut Creek, CA 94596",
+    "latitude": 37.89653089999999,
+    "longitude": -122.0602587
+  },
+  {
+    "name": "Walnut Fire Station",
+    "address": "20495 E Valley Blvd, Walnut, CA 91789",
+    "latitude": 34.011192,
+    "longitude": -117.8574633
+  },
+  {
+    "name": "Wasco Fire Dept",
+    "address": "764 E St, Wasco, CA 93280",
+    "latitude": 35.5931316,
+    "longitude": -119.3348806
+  },
+  {
+    "name": "Waterford Fire Dept",
+    "address": "12265 Oakdale Waterford Hwy",
+    "latitude": 37.7327061,
+    "longitude": -120.8394583
+  }
+]

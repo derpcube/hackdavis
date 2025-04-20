@@ -23,6 +23,13 @@ interface Camera {
   url: string;
 }
 
+interface FireDepartment {
+  name: string;
+  address: string;
+  latitude: number;
+  longitude: number;
+}
+
 const mapContainerStyle = {
   width: '100%',
   height: '100%'
@@ -62,6 +69,10 @@ export default function IncidentMap({
   const [error, setError] = useState<string | null>(null);
   const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
   const [cameras, setCameras] = useState<Camera[]>([]);
+  const [fireDepartments, setFireDepartments] = useState<FireDepartment[]>([]);
+  const [showFireDepts, setShowFireDepts] = useState(false);
+  const [selectedFireDept, setSelectedFireDept] = useState<FireDepartment | null>(null);
+  const [showCameras, setShowCameras] = useState(false);
   const mapRef = useRef<google.maps.Map | null>(null);
 
   // Load Google Maps JavaScript API
@@ -131,6 +142,23 @@ export default function IncidentMap({
       .then(data => setCameras(data))
       .catch(err => console.error('Error loading cameras:', err));
   }, []);
+
+  // Fetch fire departments data
+  useEffect(() => {
+    if (!isLoaded) return;
+    
+    console.log("Loading fire departments from JSON file...");
+    
+    fetch('/california_fire_departments_with_coordinates.json')
+      .then(res => res.json())
+      .then(data => {
+        console.log(`Loaded ${data.length} fire departments`);
+        setFireDepartments(data);
+      })
+      .catch(error => {
+        console.error("Error loading fire departments:", error);
+      });
+  }, [isLoaded]);
 
   // Focus on a specific incident when focusedIncidentId changes
   useEffect(() => {
@@ -222,7 +250,7 @@ export default function IncidentMap({
         )}
 
         {/* Camera blue markers */}
-        {cameras.map((camera) => (
+        {showCameras && cameras.map((camera) => (
           <Marker
             key={camera.id}
             position={{ lat: camera.lat, lng: camera.lon }}
@@ -281,6 +309,20 @@ export default function IncidentMap({
           );
         })}
 
+        {/* Fire Department markers */}
+        {showFireDepts && fireDepartments.map((dept, index) => (
+          <Marker
+            key={`fire-dept-${index}`}
+            position={{ lat: dept.latitude, lng: dept.longitude }}
+            icon={{
+              url: 'https://maps.google.com/mapfiles/ms/icons/green-dot.png',
+              scaledSize: new window.google.maps.Size(32, 32)
+            }}
+            title={dept.name}
+            onClick={() => setSelectedFireDept(dept)}
+          />
+        ))}
+
         {/* Info Window for the selected incident */}
         {selectedIncident && (
           <InfoWindow
@@ -312,7 +354,50 @@ export default function IncidentMap({
             </div>
           </InfoWindow>
         )}
+
+        {/* Fire Department Info Window */}
+        {selectedFireDept && (
+          <InfoWindow
+            position={{ 
+              lat: selectedFireDept.latitude, 
+              lng: selectedFireDept.longitude 
+            }}
+            onCloseClick={() => setSelectedFireDept(null)}
+          >
+            <div className="p-2">
+              <h3 className="font-bold text-gray-900">{selectedFireDept.name}</h3>
+              <p className="text-sm text-gray-700">{selectedFireDept.address}</p>
+            </div>
+          </InfoWindow>
+        )}
       </GoogleMap>
+      
+      {/* Toggle buttons */}
+      <div className="absolute top-4 right-4 z-10 flex flex-col gap-2">
+        {/* Fire departments toggle */}
+        <button
+          onClick={() => setShowFireDepts(!showFireDepts)}
+          className="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded shadow"
+        >
+          {fireDepartments.length === 0 
+            ? 'Loading Fire Stations...' 
+            : showFireDepts 
+              ? `Hide Fire Stations (${fireDepartments.length})` 
+              : `Show Fire Stations (${fireDepartments.length})`}
+        </button>
+        
+        {/* Cameras toggle */}
+        <button
+          onClick={() => setShowCameras(!showCameras)}
+          className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow"
+        >
+          {cameras.length === 0 
+            ? 'Loading Cameras...' 
+            : showCameras 
+              ? `Hide Cameras (${cameras.length})` 
+              : `Show Cameras (${cameras.length})`}
+        </button>
+      </div>
       
       {/* Debug info */}
       <div className="absolute bottom-2 left-2 bg-black/50 text-white text-xs p-2 rounded">
