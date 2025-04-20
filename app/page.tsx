@@ -1,27 +1,30 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Card, Title, Text, Metric, AreaChart } from '@tremor/react';
-import { MapIcon, FireIcon, BellAlertIcon, UserGroupIcon, ChartBarIcon, CameraIcon, BuildingLibraryIcon } from '@heroicons/react/24/solid';
+import { Card, Title, Text } from '@tremor/react';
+import { BellAlertIcon, UserGroupIcon, CameraIcon, BuildingLibraryIcon, ChartBarIcon } from '@heroicons/react/24/solid';
+import { FireIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import ReportIncidentModal from './components/ReportIncidentModal';
 import RequestHelpModal from './components/RequestHelpModal';
 import IncidentMap from './components/IncidentMap';
 import ActiveIncidents from './components/ActiveIncidents';
-
-// Mock data for the chart
-const chartdata = [
-  { date: "Jan 22", "Active Fires": 12 },
-  { date: "Feb 22", "Active Fires": 15 },
-  { date: "Mar 22", "Active Fires": 18 },
-  { date: "Apr 22", "Active Fires": 22 },
-  { date: "May 22", "Active Fires": 25 },
-];
+import SystemStatus from './components/SystemStatus';
 
 export default function Home() {
   const [selectedTab, setSelectedTab] = useState('map');
   const [isReportModalOpen, setIsReportModalOpen] = useState(false);
   const [isHelpModalOpen, setIsHelpModalOpen] = useState(false);
+  const [focusedIncidentId, setFocusedIncidentId] = useState<string | null>(null);
+
+  const handleViewOnMap = (incidentId: string) => {
+    setFocusedIncidentId(incidentId);
+    // Scroll to map section on mobile
+    const mapElement = document.getElementById('tactical-map');
+    if (mapElement && window.innerWidth < 1024) {
+      mapElement.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
 
   return (
     <main className="min-h-screen bg-[#0A0E17] text-white">
@@ -58,46 +61,11 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
           {/* Left Panel - Stats */}
           <div className="lg:col-span-1 space-y-6">
-            <Card className="bg-[#1A1F2B] border-gray-800">
-              <Title className="text-gray-400 mb-4 text-sm font-medium">SYSTEM STATUS</Title>
-              <div className="space-y-6">
-                <div>
-                  <Text className="text-gray-400 text-xs">ACTIVE FIRES</Text>
-                  <div className="flex items-baseline space-x-2">
-                    <Metric className="text-white">24</Metric>
-                    <Text className="text-red-500 text-sm">+2 last hour</Text>
-                  </div>
-                </div>
-                <div>
-                  <Text className="text-gray-400 text-xs">DEPLOYED UNITS</Text>
-                  <div className="flex items-baseline space-x-2">
-                    <Metric className="text-white">156</Metric>
-                    <Text className="text-green-500 text-sm">92% available</Text>
-                  </div>
-                </div>
-                <div>
-                  <Text className="text-gray-400 text-xs">MONITORED REGIONS</Text>
-                  <div className="flex items-baseline space-x-2">
-                    <Metric className="text-white">1,144</Metric>
-                    <Text className="text-blue-500 text-sm">cameras active</Text>
-                  </div>
-                </div>
-              </div>
-            </Card>
-
-            <Card className="bg-[#1A1F2B] border-gray-800">
-              <Title className="text-gray-400 mb-4 text-sm font-medium">FIRE TREND</Title>
-              <AreaChart
-                className="h-32"
-                data={chartdata}
-                index="date"
-                categories={["Active Fires"]}
-                colors={["red"]}
-                showXAxis={false}
-                showYAxis={false}
-                showLegend={false}
-              />
-            </Card>
+            <SystemStatus
+              activeStations={12}
+              totalStations={156}
+              monitoredRegions={1144}
+            />
 
             <Card className="bg-[#1A1F2B] border-gray-800">
               <Title className="text-gray-400 mb-4 text-sm font-medium">QUICK ACTIONS</Title>
@@ -121,7 +89,7 @@ export default function Home() {
           </div>
 
           {/* Center Panel - Map */}
-          <Card className="lg:col-span-2 bg-[#1A1F2B] border-gray-800">
+          <Card className="lg:col-span-2 bg-[#1A1F2B] border-gray-800" id="tactical-map">
             <div className="h-[800px] relative">
               <div className="absolute inset-0 bg-[#2A303C] rounded-lg">
                 <div className="p-4 flex justify-between items-center border-b border-gray-800">
@@ -139,7 +107,9 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="h-[calc(100%-4rem)]">
-                  <IncidentMap />
+                  <IncidentMap 
+                    focusedIncidentId={focusedIncidentId}
+                  />
                 </div>
               </div>
             </div>
@@ -147,7 +117,7 @@ export default function Home() {
 
           {/* Right Panel - Active Incidents */}
           <div className="lg:col-span-1 space-y-6">
-            <ActiveIncidents />
+            <ActiveIncidents onViewOnMap={handleViewOnMap} />
 
             <Card className="bg-[#1A1F2B] border-gray-800">
               <Title className="text-gray-400 mb-4 text-sm font-medium">RESOURCE STATUS</Title>
@@ -198,4 +168,4 @@ export default function Home() {
       />
     </main>
   );
-} 
+}
