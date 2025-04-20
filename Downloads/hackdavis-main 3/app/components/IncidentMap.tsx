@@ -16,6 +16,13 @@ interface Incident {
   createdAt: string;
 }
 
+interface Camera {
+  id: string;
+  lat: number;
+  lon: number;
+  url: string;
+}
+
 const mapContainerStyle = {
   width: '100%',
   height: '100%'
@@ -54,6 +61,7 @@ export default function IncidentMap({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
+  const [cameras, setCameras] = useState<Camera[]>([]);
   const mapRef = useRef<google.maps.Map | null>(null);
 
   // Load Google Maps JavaScript API
@@ -114,6 +122,14 @@ export default function IncidentMap({
     // Poll for new incidents every 30 seconds
     const intervalId = setInterval(fetchIncidents, 30000);
     return () => clearInterval(intervalId);
+  }, []);
+
+  // Fetch cameras data
+  useEffect(() => {
+    fetch('/cameras.txt')
+      .then(res => res.json())
+      .then(data => setCameras(data))
+      .catch(err => console.error('Error loading cameras:', err));
   }, []);
 
   // Focus on a specific incident when focusedIncidentId changes
@@ -204,6 +220,20 @@ export default function IncidentMap({
             title="You are here"
           />
         )}
+
+        {/* Camera blue markers */}
+        {cameras.map((camera) => (
+          <Marker
+            key={camera.id}
+            position={{ lat: camera.lat, lng: camera.lon }}
+            icon={{
+              url: 'https://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+              scaledSize: new window.google.maps.Size(32, 32)
+            }}
+            title={camera.id}
+            onClick={() => window.open(camera.url, '_blank')}
+          />
+        ))}
 
         {incidents.length > 0 && incidents.map((incident) => {
           // Make sure coordinates are in the correct order [longitude, latitude]
