@@ -40,4 +40,20 @@ export interface GraphEdge {
   from: string;
   to: string;
   weight: number;
+}
+
+export interface FireStation {
+  id: string;
+  name: string;
+  address: string;
+  city: string;
+  county: string;
+  coordinates: {
+    lat: number;
+    lng: number;
+  };
+  stationNumber: string;
+  status: string;
+  resources: string[];
+  distance?: number;
 } 
